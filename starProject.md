@@ -1,3 +1,12 @@
+### [Ryubing/Ryujinx](https://github.com/Ryubing/Ryujinx)
+- **Description:** Nintendo Switch emulator written in C#, originally created by gdkchan.
+
+### [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
+- **Description:** The user-friendly command line shell.
+
+### [kenmingwang/azusa-player](https://github.com/kenmingwang/azusa-player)
+- **Description:** A 3rd party Bilibili audio player / 一个Bilibili第三方音频播放器
+
 ### [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)
 - **Description:** DataBackup for Android 7.0+
 
@@ -14,6 +23,7 @@
 - **Description:** A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ### [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
+- **Description:** FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs
 
 ### [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
 - **Description:** DeepEP: an efficient expert-parallel communication library
@@ -25,6 +35,7 @@
 - **Description:** A cross-platform m3u8/mpd downloader based on PySide6 and QFluentWidgets.
 
 ### [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index)
+- **Description:** Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 
 ### [FongMi/Release](https://github.com/FongMi/Release)
 
@@ -71,6 +82,7 @@
 - **Description:** Third-party Cloudflare Tunnel client (formerly Argo Tunnel)
 
 ### [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+- **Description:** Integrate the DeepSeek API into popular softwares
 
 ### [yaotutu/folder2podcast](https://github.com/yaotutu/folder2podcast)
 - **Description:** Transform local audio folders into private podcast RSS feeds - listen with any podcast app and sync progress across devices.
@@ -2111,23 +2123,8 @@
 ### [triwinds/ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
 - **Description:** 一个用于安装/更新 NS 模拟器的工具
 
-### [jinzhu/copier](https://github.com/jinzhu/copier)
-- **Description:** Copier for golang, copy value from struct to struct and more
-
-### [jmoiron/sqlx](https://github.com/jmoiron/sqlx)
-- **Description:** general purpose extensions to golang's database/sql
-
-### [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify)
-- **Description:** Cross-platform filesystem notifications for Go.
-
-### [spf13/viper](https://github.com/spf13/viper)
-- **Description:** Go configuration with fangs
-
 ### [eritpchy/FingerprintPay](https://github.com/eritpchy/FingerprintPay)
 - **Description:** 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付
-
-### [jacopotediosi/GAppsMod](https://github.com/jacopotediosi/GAppsMod)
-- **Description:** Tweak Google apps (e.g., Phone and Messages) to unlock hidden features (e.g., available only in some countries or on certain devices). Root is required.
 
 ### [kwsch/PKHeX](https://github.com/kwsch/PKHeX)
 - **Description:** Pokémon Save File Editor
@@ -2135,17 +2132,8 @@
 ### [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m)
 - **Description:** The continuing development of the legendary VBA gameboy advance emulator.
 
-### [projectpokemon/In-GameSeries](https://github.com/projectpokemon/In-GameSeries)
-- **Description:** ProjectPokemon In-Game Series
-
 ### [architdate/PKHeX-Plugins](https://github.com/architdate/PKHeX-Plugins)
 - **Description:** Plugins for PKHeX
-
-### [mtheall/ftpd](https://github.com/mtheall/ftpd)
-- **Description:** FTP Server for 3DS/Switch
-
-### [miltoncandelero/Boop](https://github.com/miltoncandelero/Boop)
-- **Description:** GUI for network install for switch and 3ds
 
 ### [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection)
 - **Description:** Beautiful collection of Polybar themes

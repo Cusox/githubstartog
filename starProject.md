@@ -1,3 +1,6 @@
+### [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
+- **Description:** A list of free LLM inference resources accessible via API.
+
 ### [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf)
 - **Description:** SumatraPDF reader
 
@@ -1012,9 +1015,6 @@
 ### [mayneyao/eidos](https://github.com/mayneyao/eidos)
 - **Description:** An extensible framework for Personal Data Management.
 
-### [vscode-lcode/hub](https://github.com/vscode-lcode/hub)
-- **Description:** 通过 webdav 协议使用本地 vscode 编辑服务器文件, 低内存占用
-
 ### [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 - **Description:** A new bootable USB solution.
 
@@ -1049,8 +1049,6 @@
 
 ### [nanostudio-org/nanogallery2](https://github.com/nanostudio-org/nanogallery2)
 - **Description:** a modern photo / video gallery and lightbox [JS library]
-
-### [GenshinMinecraft/CloudflareSpeedtest-Slave](https://github.com/GenshinMinecraft/CloudflareSpeedtest-Slave)
 
 ### [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop)
 - **Description:** An open-source add-on for previewing, searching, and collecting links to read later in a popup window.
@@ -1561,8 +1559,6 @@
 
 ### [coollabsio/coolify](https://github.com/coollabsio/coolify)
 - **Description:** An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-
-### [adm1nSQL/Sub_Manager](https://github.com/adm1nSQL/Sub_Manager)
 
 ### [SubConv/SubConv](https://github.com/SubConv/SubConv)
 - **Description:** Yet Another Subscription Converter for Clash

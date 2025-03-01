@@ -997,9 +997,6 @@
 ### [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder)
 - **Description:** 录播姬 | mikufans 生放送录制
 
-### [scarqin/wxread-export](https://github.com/scarqin/wxread-export)
-- **Description:** 导出 Markdown 格式的微信读书笔记
-
 ### [containrrr/watchtower](https://github.com/containrrr/watchtower)
 - **Description:** A process for automating Docker container base image updates. 
 
@@ -1158,8 +1155,6 @@
 ### [SkyD666/PodAura](https://github.com/SkyD666/PodAura)
 - **Description:** All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 
-### [GoEdgeLab/EdgeAdmin](https://github.com/GoEdgeLab/EdgeAdmin)
-
 ### [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox)
 - **Description:** 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 
@@ -1244,9 +1239,6 @@
 ### [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
 - **Description:** HandBrake's main development repository 
 
-### [Nigh/cjk-romanizer](https://github.com/Nigh/cjk-romanizer)
-- **Description:** romanizer for cjk character
-
 ### [bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support)
 
 ### [joye61/pic-smaller](https://github.com/joye61/pic-smaller)
@@ -1314,9 +1306,6 @@
 
 ### [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker)
 - **Description:** Check if phone numbers are connected to Telegram accounts.
-
-### [LarryZhu-dev/thebookofchanges](https://github.com/LarryZhu-dev/thebookofchanges)
-- **Description:** 周易完本
 
 ### [xykt/IPQuality](https://github.com/xykt/IPQuality)
 - **Description:** A script for IP quality detection
@@ -1549,8 +1538,6 @@
 ### [janhq/jan](https://github.com/janhq/jan)
 - **Description:** Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
-### [jessfin/nssign](https://github.com/jessfin/nssign)
-
 ### [sigoden/proxyfor](https://github.com/sigoden/proxyfor)
 - **Description:** A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
 
@@ -1612,9 +1599,6 @@
 
 ### [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)
 - **Description:** PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
-
-### [bcrjl/miwifi-agent](https://github.com/bcrjl/miwifi-agent)
-- **Description:** 基于官方（小米/红米路由器）固件API接口实现的第三方管理服务。
 
 ### [daeuniverse/dae](https://github.com/daeuniverse/dae)
 - **Description:** eBPF-based Linux high-performance transparent proxy solution.
@@ -1833,9 +1817,6 @@
 
 ### [niXman/mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries)
 - **Description:** MinGW-W64 compiler binaries
-
-### [chenjunyu19/MediaVolume](https://github.com/chenjunyu19/MediaVolume)
-- **Description:** 在 Android 上使用通知栏磁贴快捷设置媒体音量。 | Quicksettings Tiles for media volume.
 
 ### [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
 - **Description:** Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
@@ -2082,9 +2063,6 @@
 
 ### [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze)
 - **Description:** Patches Google Play services app and certain processes/services to be able to use battery optimization
-
-### [RimoChan/modnet-entry](https://github.com/RimoChan/modnet-entry)
-- **Description:** 【MODNet-entry】开箱即用的人像抠图工具
 
 ### [hashcat/hashcat](https://github.com/hashcat/hashcat)
 - **Description:** World's fastest and most advanced password recovery utility

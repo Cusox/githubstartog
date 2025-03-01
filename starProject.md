@@ -1,3 +1,24 @@
+### [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf)
+- **Description:** SumatraPDF reader
+
+### [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox)
+- **Description:** The official Waterfox 💧 source code repository
+
+### [dan-r/syncstorage-rs-docker](https://github.com/dan-r/syncstorage-rs-docker)
+- **Description:** Simple Docker packaging for the Mozilla Firefox sync server
+
+### [allenai/olmocr](https://github.com/allenai/olmocr)
+- **Description:** Toolkit for linearizing PDFs for LLM datasets/training
+
+### [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player)
+- **Description:** 一款同时适配Android TV和Android Phone的视频播放器，同时支持云播放(阿里云盘、夸克网盘和Webdav)和本地播放，支持刮削影视的元信息，多线程加速等
+
+### [alienlu/iptv](https://github.com/alienlu/iptv)
+- **Description:** 每日更新的可用iptv源
+
+### [iffse/pay-respects](https://github.com/iffse/pay-respects)
+- **Description:** Command suggestions, command-not-found and thefuck replacement written in Rust
+
 ### [Ryubing/Ryujinx](https://github.com/Ryubing/Ryujinx)
 - **Description:** Nintendo Switch emulator written in C#, originally created by gdkchan.
 
@@ -1928,9 +1949,6 @@
 ### [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox)
 - **Description:** go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
 
-### [ratatui/ratatui](https://github.com/ratatui/ratatui)
-- **Description:** A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-
 ### [star-history/star-history](https://github.com/star-history/star-history)
 - **Description:** The missing star history graph of GitHub repos - https://star-history.com
 
@@ -1940,17 +1958,11 @@
 ### [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - **Description:** A list of Free Software network services and web applications which can be hosted on your own servers
 
-### [7gugu/Discode](https://github.com/7gugu/Discode)
-- **Description:** A new type of  barcode
-
 ### [nature-lang/nature](https://github.com/nature-lang/nature)
 - **Description:** The Nature Programming Language
 
 ### [badbubble/BubbleNES](https://github.com/badbubble/BubbleNES)
 - **Description:** NES emulator written in Go
-
-### [gothinkster/realworld](https://github.com/gothinkster/realworld)
-- **Description:** "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ### [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 - **Description:** A curated list of Rust code and resources.
@@ -1970,14 +1982,8 @@
 ### [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec)
 - **Description:** ACG2vec (Anime Comics Games to vector) are committed to creating a playground that combines ACG and Deep learning.（文本语义检索、以图搜图、语义搜图、图片超分辨率、推荐系统）
 
-### [clap-rs/clap](https://github.com/clap-rs/clap)
-- **Description:** A full featured, fast Command Line Argument Parser for Rust
-
 ### [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 - **Description:** 🖥 📊 🕹 🛠 A curated list of command line apps
-
-### [pingcap/talent-plan](https://github.com/pingcap/talent-plan)
-- **Description:** open source training courses about distributed database and distributed systems
 
 ### [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
 - **Description:** A list of learning materials to understand databases internals
@@ -1985,20 +1991,11 @@
 ### [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)
 - **Description:** A command-line installer for Windows.
 
-### [casdoor/casdoor](https://github.com/casdoor/casdoor)
-- **Description:** An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
-
 ### [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
 - **Description:** A pure Unix shell script implementing ACME client protocol
 
 ### [buptczq/WinCryptSSHAgent](https://github.com/buptczq/WinCryptSSHAgent)
 - **Description:** Using a Yubikey for SSH Authentication on Windows Seamlessly
-
-### [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid)
-- **Description:** 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
-
-### [wangzhiye-tiancai/mysupervisor_save](https://github.com/wangzhiye-tiancai/mysupervisor_save)
-- **Description:** 收集“导师评价”相关资源，及原“导师评价网”存档数据 
 
 ### [unifreq/openwrt_packit](https://github.com/unifreq/openwrt_packit)
 - **Description:** Flippy's openwrt packaged source code
@@ -2008,9 +2005,6 @@
 
 ### [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
 - **Description:** A huge collection of polybar themes with different styles, colors and variants.
-
-### [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
-- **Description:** A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件
 
 ### [kenzok8/small-package](https://github.com/kenzok8/small-package)
 - **Description:** 自动同步更新上游库软件
@@ -2024,14 +2018,8 @@
 ### [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 - **Description:** Collections of awesome neovim plugins.
 
-### [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
-- **Description:** :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
 ### [HabitRPG/habitica](https://github.com/HabitRPG/habitica)
 - **Description:** A habit tracker app which treats your goals like a Role Playing Game.
-
-### [google/accompanist](https://github.com/google/accompanist)
-- **Description:** A collection of extension libraries for Jetpack Compose
 
 ### [xiaopangxia/TCM-Ancient-Books](https://github.com/xiaopangxia/TCM-Ancient-Books)
 - **Description:** 中医药古籍文本，近700项
@@ -2315,9 +2303,6 @@
 
 ### [YAWAsau/backup_script](https://github.com/YAWAsau/backup_script)
 - **Description:** 備份數據腳本
-
-### [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
-- **Description:** 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 ### [QiQiWan/rainbow](https://github.com/QiQiWan/rainbow)
 - **Description:** 作者考研中，句子库更新较为缓慢，期待大家的橘子投稿哦！可以通过pullrequest提交到本仓库，也可通过邮件向我们投稿哟:smile:

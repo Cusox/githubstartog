@@ -292,9 +292,6 @@
 ### [microsoft/markitdown](https://github.com/microsoft/markitdown)
 - **Description:** Python tool for converting files and office documents to Markdown.
 
-### [get-artab/artab](https://github.com/get-artab/artab)
-- **Description:** Get Inspired by the World's Greatest Artworks Every Time You Open a New Tab. Extension Available for Chrome, Edge, and Firefox.
-
 ### [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root)
 - **Description:** A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 
@@ -482,9 +479,6 @@
 
 ### [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
 - **Description:** 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
-
-### [aschmelyun/dotmatrix-daily-news](https://github.com/aschmelyun/dotmatrix-daily-news)
-- **Description:** Custom single-page "newspaper" with a dot matrix printer and PHP
 
 ### [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 - **Description:** A Download Manager that speeds up your downloads
@@ -1098,9 +1092,6 @@
 ### [Sorceresssis/TiebaScraper](https://github.com/Sorceresssis/TiebaScraper)
 - **Description:** 保存百度贴吧帖子到本地，并且支持图片, 视频, 语音等内容。与本项目配套的阅读器 TiebaReader(https://github.com/Sorceresssis/TiebaReader)
 
-### [SlimeNull/ScreenBroadcaster](https://github.com/SlimeNull/ScreenBroadcaster)
-- **Description:** Screen broadcast and remote control tool based on FFmpeg. 基于 FFmpeg 的屏幕广播与远程操控工具.
-
 ### [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
 - **Description:** VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
 
@@ -1474,9 +1465,6 @@
 
 ### [xbmc/xbmc](https://github.com/xbmc/xbmc)
 - **Description:** Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
-
-### [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere)
-- **Description:** CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 
 ### [jaaronkot/picprose](https://github.com/jaaronkot/picprose)
 - **Description:** Better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others

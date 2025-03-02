@@ -62,7 +62,7 @@
 - **Description:** A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ### [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
-- **Description:** FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs
+- **Description:** FlashMLA: Efficient MLA decoding kernels
 
 ### [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
 - **Description:** DeepEP: an efficient expert-parallel communication library
@@ -421,9 +421,6 @@
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
 - **Description:** Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。
 
-### [alicewish/MomoEpubTranslator](https://github.com/alicewish/MomoEpubTranslator)
-- **Description:** epub翻译器
-
 ### [liujuntao123/bookmarks-artist](https://github.com/liujuntao123/bookmarks-artist)
 
 ### [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
@@ -764,9 +761,6 @@
 ### [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
 - **Description:** :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 
-### [differentrain/YasoCut](https://github.com/differentrain/YasoCut)
-- **Description:** 极简的窗口截图工具
-
 ### [Nigh/subtitle-ass-shifter](https://github.com/Nigh/subtitle-ass-shifter)
 - **Description:** Shift ASS format Subtitle
 
@@ -856,9 +850,6 @@
 
 ### [ellite/Wallos](https://github.com/ellite/Wallos)
 - **Description:** Wallos: Open-Source Personal Subscription Tracker
-
-### [unclemcz/ban-pcdn-ip](https://github.com/unclemcz/ban-pcdn-ip)
-- **Description:** 收集恶意刷取网站CDN流量的PCDN IP段清单。
 
 ### [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder)
 - **Description:** 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
@@ -1184,9 +1175,6 @@
 
 ### [imsyy/SPlayer](https://github.com/imsyy/SPlayer)
 - **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-
-### [ConvoyPanel/panel](https://github.com/ConvoyPanel/panel)
-- **Description:** A modern platform tailored for hosting providers and enthusiasts to effortlessly interact with their servers. Seamlessly wrapping around Proxmox, Convoy is easily deployable, affordable at just $6 per node per month for commercial use, and completely free for personal and non-profit endeavors.
 
 ### [ikxin/f5-bench](https://github.com/ikxin/f5-bench)
 - **Description:** Use the browser fetch API to website benchmarks.

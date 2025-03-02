@@ -1,3 +1,18 @@
+### [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk)
+- **Description:** This is an LLM-based code reader.
+
+### [zaunist/filebox](https://github.com/zaunist/filebox)
+- **Description:** FileBox-文件快递柜
+
+### [Shemnei/punktf](https://github.com/Shemnei/punktf)
+- **Description:** ⚡ A cross-platform multi-target dotfiles manager
+
+### [ferronweb/ferron](https://github.com/ferronweb/ferron)
+- **Description:** A fast, memory-safe web server written in Rust.
+
+### [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
+- **Description:** Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+
 ### [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
 - **Description:** A list of free LLM inference resources accessible via API.
 
@@ -391,9 +406,6 @@
 ### [logto-io/auth-wiki](https://github.com/logto-io/auth-wiki)
 - **Description:** A comprehensive collection of articles, tutorials, and resources about authentication, authorization, and identity management.
 
-### [lantongxue/netboot.xyz.cn](https://github.com/lantongxue/netboot.xyz.cn)
-- **Description:** netboot.xyz 国内镜像版
-
 ### [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
 - **Description:** Proxmox VE Helper-Scripts (Community Edition) 
 
@@ -776,9 +788,6 @@
 ### [scenery/mediax](https://github.com/scenery/mediax)
 - **Description:** A self-hosted tracker for books, movies, TV shows, anime, and games.
 
-### [Xinslive/MiniPix](https://github.com/Xinslive/MiniPix)
-- **Description:** 一款专为个人需求设计的高效图床解决方案，集成了强大的图片压缩功能与优雅的前台后台界面。项目结构精简高效，提供自定义图片压缩率与尺寸设置，有效降低存储与带宽成本。
-
 ### [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon)
 - **Description:** Better modification of the official Mastodon for Android app
 
@@ -859,9 +868,6 @@
 
 ### [zabbly/linux](https://github.com/zabbly/linux)
 - **Description:** Linux kernel builds
-
-### [devome/dockerfiles](https://github.com/devome/dockerfiles)
-- **Description:** 一些Dockerfile
 
 ### [seadfeng/cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites)
 

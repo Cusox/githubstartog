@@ -1,3 +1,5 @@
+### [MatrixTeam-AI/RAIN](https://github.com/MatrixTeam-AI/RAIN)
+
 ### [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk)
 - **Description:** This is an LLM-based code reader.
 
@@ -102,9 +104,6 @@
 ### [mpatajac/jillc](https://github.com/mpatajac/jillc)
 - **Description:** Compiler for the Jill programming language (an alternative to Jack from the nand2tetris course)
 
-### [ericls/imgdd](https://github.com/ericls/imgdd)
-- **Description:** simple image hosting program
-
 ### [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
 - **Description:** A Swiss Army knife for developers.
 
@@ -199,8 +198,6 @@
 
 ### [exa-labs/company-researcher](https://github.com/exa-labs/company-researcher)
 - **Description:** Company Researcher tool helps you instantly understand any company inside out.
-
-### [Pscgylotti/RAIN](https://github.com/Pscgylotti/RAIN)
 
 ### [Heavrnl/Mail2Telegram](https://github.com/Heavrnl/Mail2Telegram)
 - **Description:** Forward emails to Telegram/把邮件转发到Telegram
@@ -510,9 +507,6 @@
 ### [moneytoo/Player](https://github.com/moneytoo/Player)
 - **Description:** ▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer
 
-### [RiverTwilight/Geekits](https://github.com/RiverTwilight/Geekits)
-- **Description:** 🛠️ Feature-rich all-in-one digital toolbox designed for daily Paper-Cuts with efficiency and simplicity.
-
 ### [redox-os/redox](https://github.com/redox-os/redox)
 - **Description:** Mirror of https://gitlab.redox-os.org/redox-os/redox
 
@@ -521,9 +515,6 @@
 
 ### [TooonyChen/AuthInbox](https://github.com/TooonyChen/AuthInbox)
 - **Description:** Auth Inbox 📬 is a self-hosted, open-source platform for receiving multiple email verification codes and real-time notifications, built using Cloudflare's free services. | Auth Inbox 📬 是一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。
-
-### [ajnart/subs](https://github.com/ajnart/subs)
-- **Description:** Subs ! Track your subscriptions easily 
 
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 - **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
@@ -781,9 +772,6 @@
 
 ### [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
 - **Description:** get things from one computer to another, safely
-
-### [3377/rss2tg](https://github.com/3377/rss2tg)
-- **Description:** 简称rss2tg，用于将自定义RSS地址，字段，刷新时间里的相关帖子即时发送到自定义TG用户或频道
 
 ### [Blinue/Magpie](https://github.com/Blinue/Magpie)
 - **Description:** An all-purpose window upscaler for Windows 10/11.
@@ -1181,9 +1169,6 @@
 
 ### [composerize/composerize](https://github.com/composerize/composerize)
 - **Description:** 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
-
-### [mcoo/status](https://github.com/mcoo/status)
-- **Description:** 一个简单的监控站 Serverless · 开源 · 轻量
 
 ### [msgbyte/tianji](https://github.com/msgbyte/tianji)
 - **Description:** Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives

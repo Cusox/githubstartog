@@ -1129,7 +1129,7 @@
 - **Description:** ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
 ### [ente-io/ente](https://github.com/ente-io/ente)
-- **Description:** FOSS, End-to-End Encrypted Cloud
+- **Description:** End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
 
 ### [Pintree-io/pintree](https://github.com/Pintree-io/pintree)
 - **Description:** Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.

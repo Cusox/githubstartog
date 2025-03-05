@@ -220,9 +220,6 @@
 ### [exa-labs/company-researcher](https://github.com/exa-labs/company-researcher)
 - **Description:** Company Researcher tool helps you instantly understand any company inside out.
 
-### [Heavrnl/Mail2Telegram](https://github.com/Heavrnl/Mail2Telegram)
-- **Description:** Forward emails to Telegram/把邮件转发到Telegram
-
 ### [lima-vm/lima](https://github.com/lima-vm/lima)
 - **Description:** Linux virtual machines, with a focus on running containers
 
@@ -379,9 +376,6 @@
 ### [KostyaEsmukov/smtp_to_telegram](https://github.com/KostyaEsmukov/smtp_to_telegram)
 - **Description:** A simple program that listens for SMTP and forwards all incoming Email messages to Telegram
 
-### [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals)
-- **Description:** 🟢 2024 Deals Live - Black Friday & Cyber Monday, Christmas & Holidays Deals for Developers, Techies, & Entrepreneurs, 
-
 ### [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x)
 - **Description:** 2^x Image Super-Resolution
 
@@ -507,9 +501,6 @@
 ### [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile)
 - **Description:** Reverse Engineering: Decompiling Binary Code with Large Language Models
 
-### [XiCheng148/SmartPreview](https://github.com/XiCheng148/SmartPreview)
-- **Description:** Smart Preview 是一个强大的浏览器扩展，旨在提升您的网页浏览体验。它允许用户快速预览链接内容，而无需打开新的标签页，同时提供智能的窗口管理和自定义设置选项。
-
 ### [getomni-ai/zerox](https://github.com/getomni-ai/zerox)
 - **Description:** OCR & Document Extraction using vision models
 
@@ -595,9 +586,6 @@
 ### [google/mozc-devices](https://github.com/google/mozc-devices)
 - **Description:** Circuit diagrams and firmware source code for Gboard DIY keyboards
 
-### [ccbikai/DNS.Surf](https://github.com/ccbikai/DNS.Surf)
-- **Description:** Querying DNS Resolution Results in Different Regions Worldwide.
-
 ### [akazwz/smail](https://github.com/akazwz/smail)
 - **Description:** Temporary email  临时邮箱 Cloudflare email
 
@@ -670,9 +658,6 @@
 
 ### [ivmm/Student-resources](https://github.com/ivmm/Student-resources)
 - **Description:** 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
-
-### [fengkx/NodeRSSBot](https://github.com/fengkx/NodeRSSBot)
-- **Description:** Another Telegram RSS bot  but in Node.js Telegram RSS 机器人
 
 ### [vyos/vyos-1x](https://github.com/vyos/vyos-1x)
 - **Description:** VyOS command definitions, scripts, and utilities
@@ -860,9 +845,6 @@
 ### [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev)
 - **Description:** IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持连接远程下载器等。
 
-### [zabbly/linux](https://github.com/zabbly/linux)
-- **Description:** Linux kernel builds
-
 ### [seadfeng/cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites)
 
 ### [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
@@ -1032,9 +1014,6 @@
 
 ### [Taiizor/Sucrose](https://github.com/Taiizor/Sucrose)
 - **Description:** Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
-
-### [wlm3201/Masonry_Image_Viewer](https://github.com/wlm3201/Masonry_Image_Viewer)
-- **Description:** Masonry/Waterfall Image Viewer
 
 ### [shadowqcom/knloop-service-status](https://github.com/shadowqcom/knloop-service-status)
 - **Description:** knloop服务状态监控

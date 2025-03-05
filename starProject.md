@@ -1,3 +1,24 @@
+### [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel)
+- **Description:** 史上最简单的 Home Assistant 控制面板，基于 React 开发 | 一键部署到 HAOS | 有手就能用 | 无需编程经验 | 开箱即用
+
+### [QDScholium/ScholiumAI](https://github.com/QDScholium/ScholiumAI)
+- **Description:** Your AI research assistant
+
+### [TermoraDev/termora](https://github.com/TermoraDev/termora)
+- **Description:** Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
+
+### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
+- **Description:** Low-resource, fast, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
+
+### [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc)
+- **Description:** redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
+
+### [yaoyhu/anki_packager](https://github.com/yaoyhu/anki_packager)
+- **Description:** 自动化 Anki 英语单词牌组生成工具
+
+### [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
+- **Description:** A tool for recompiling Xbox 360 games to native executables.
+
 ### [MatrixTeam-AI/RAIN](https://github.com/MatrixTeam-AI/RAIN)
 
 ### [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk)
@@ -517,7 +538,7 @@
 - **Description:** Auth Inbox 📬 is a self-hosted, open-source platform for receiving multiple email verification codes and real-time notifications, built using Cloudflare's free services. | Auth Inbox 📬 是一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。
 
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
-- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
+- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
 
 ### [uazo/cromite](https://github.com/uazo/cromite)
 - **Description:** Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!

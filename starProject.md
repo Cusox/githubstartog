@@ -1,3 +1,6 @@
+### [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
+- **Description:** Di♪♪Rhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion
+
 ### [Sorceresssis/TiebaReader](https://github.com/Sorceresssis/TiebaReader)
 - **Description:** TiebaReader 是一个与 TiebaScraper(https://github.com/Sorceresssis/TiebaScraper) 配套的阅读器, 它可以更直观的展示 TiebaScraper 爬取到贴吧帖子。
 

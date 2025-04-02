@@ -1,3 +1,9 @@
+### [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
+- **Description:** 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
+
+### [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
+- **Description:** 获取b站历史记录，保存到本地数据库，可下载对应视频及时存档，生成详细的年度总结，自动化任务部署到服务器实现自动同步，以及自动发送日志邮件，下面链接是对应前端
+
 ### [leaningtech/browsercraft](https://github.com/leaningtech/browsercraft)
 - **Description:** Unmodified Minecraft 1.2.5 in the browser using CheerpJ
 
@@ -668,7 +674,7 @@
 - **Description:** 属于大学生群体的真·青年大学习
 
 ### [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
-- **Description:** 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+- **Description:** 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 
 ### [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 - **Description:** A Download Manager that speeds up your downloads
@@ -1771,9 +1777,6 @@
 
 ### [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime)
 - **Description:** The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
-
-### [prinsss/blog-friend-circle](https://github.com/prinsss/blog-friend-circle)
-- **Description:** Show latest posts from your subscribed blogs as a more attractive friends page. (博客友链朋友圈)
 
 ### [xai-org/grok-1](https://github.com/xai-org/grok-1)
 - **Description:** Grok open release

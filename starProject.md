@@ -1,10 +1,191 @@
+### [leaningtech/browsercraft](https://github.com/leaningtech/browsercraft)
+- **Description:** Unmodified Minecraft 1.2.5 in the browser using CheerpJ
+
+### [astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide)
+- **Description:** Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go
+
+### [atuinsh/atuin](https://github.com/atuinsh/atuin)
+- **Description:** ✨ Magical shell history
+
+### [umpox/zero-width-detection](https://github.com/umpox/zero-width-detection)
+- **Description:** Invisibly inserting usernames into text with Zero-Width Characters
+
+### [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
+- **Description:** A simple, decentralized mesh VPN with WireGuard support.
+
+### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
+- **Description:** LLM Arena by KCORES team
+
+### [santinic/audiblez](https://github.com/santinic/audiblez)
+- **Description:** Generate audiobooks from e-books
+
+### [civilblur/mazanoke](https://github.com/civilblur/mazanoke)
+- **Description:** A self-hosted local image compressor that runs in your browser.
+
+### [iib0011/omni-tools](https://github.com/iib0011/omni-tools)
+- **Description:** Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+
+### [cool2528/GDownload](https://github.com/cool2528/GDownload)
+- **Description:** A full-featured download manager developed in C++.
+
+### [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
+- **Description:** 一个第三方音乐播放器、本地服务、桌面歌词、主题切换
+
+### [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d)
+- **Description:** A super simple tool to convert your SVG's to 3D models.
+
+### [bknd-io/bknd](https://github.com/bknd-io/bknd)
+- **Description:** Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
+
+### [Overv/vramfs](https://github.com/Overv/vramfs)
+- **Description:** VRAM based file system for Linux
+
+### [veloren/veloren](https://github.com/veloren/veloren)
+- **Description:** An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+
+### [medialab/xan](https://github.com/medialab/xan)
+- **Description:** The CSV magician
+
+### [stuzero/pg-mcp](https://github.com/stuzero/pg-mcp)
+
+### [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud)
+- **Description:** ☁️ OxiCloud server, efficient and secure way to save all your data
+
+### [Dr-Ai-0018/Siliconflow-API-Management](https://github.com/Dr-Ai-0018/Siliconflow-API-Management)
+- **Description:** 一个功能强大的API Key管理平台，不仅通过智能负载均衡算法自动选择可用API密钥，而且提供密钥有效性检测、管理、权限分享等功能实现。系统设计基于Cloudflare Worker脚本，部署简单，同时提供强大的可视化管理工具与全面的数据分析功能。
+
+### [StarFleetCPTN/GoMFT](https://github.com/StarFleetCPTN/GoMFT)
+- **Description:** Go Managed File Transfer
+
+### [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn)
+- **Description:** HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
+
+### [bansal/folder](https://github.com/bansal/folder)
+- **Description:** Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀
+
+### [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
+- **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
+
+### [yincongcyincong/telegram-deepseek-bot](https://github.com/yincongcyincong/telegram-deepseek-bot)
+- **Description:** 🚀  An AI-powered Telegram bot using DeepSeek AI for intelligent and context-aware responses. support multiple deepseek mode and interact with telegram bot.
+
+### [NextAlone/Nagram](https://github.com/NextAlone/Nagram)
+- **Description:** The third-party Telegram android app.
+
+### [k3s-io/k3s](https://github.com/k3s-io/k3s)
+- **Description:** Lightweight Kubernetes
+
+### [YaLTeR/niri](https://github.com/YaLTeR/niri)
+- **Description:** A scrollable-tiling Wayland compositor.
+
+### [kern/filepizza](https://github.com/kern/filepizza)
+- **Description:** :pizza: Peer-to-peer file transfers in your browser
+
+### [celerforge-dev/freenote](https://github.com/celerforge-dev/freenote)
+- **Description:** Freenote is an open-source AI journal app with Markdown support. You can freely record your notes, and with AI assistance, easily search and summarize past entries, enhancing creativity capture and management. All data is stored locally on your device, ensuring privacy and security.
+
+### [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver)
+- **Description:** 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
+
+### [levywang/avhub](https://github.com/levywang/avhub)
+- **Description:** R18 Resource Search & Management Tool
+
+### [jqknono/cloudflare-doh](https://github.com/jqknono/cloudflare-doh)
+
+### [langgenius/dify](https://github.com/langgenius/dify)
+- **Description:** Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+
+### [HuangJian/librime-qjs](https://github.com/HuangJian/librime-qjs)
+- **Description:** Bring a vast JavaScript plugin ecosystem to the Rime Input Method Engine, delivering lightning-fast speed and feather-light performance for a revolutionary input experience!
+
+### [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+- **Description:** The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+
+### [duplicati/duplicati](https://github.com/duplicati/duplicati)
+- **Description:** Store securely encrypted backups in the cloud!
+
+### [Cicada000/VV](https://github.com/Cicada000/VV)
+- **Description:** 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
+
+### [steve02081504/fount](https://github.com/steve02081504/fount)
+- **Description:** An extensible framework for building and hosting AI character interactions. Built with pure JS, Fount offers unparalleled flexibility via modular components, custom AI source integration, powerful plugins, and a seamless cross-platform chat experience.
+
+### [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef)
+- **Description:** Shef is a powerful CLI framework for cooking up dynamic shell recipes.
+
+### [Ladam0203/nvim-cheatsheet](https://github.com/Ladam0203/nvim-cheatsheet)
+- **Description:** Discover and favorite essential Neovim and Vim commands, motions, and custom shortcuts. Create your personalized cheatsheet for efficient text editing.
+
+### [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator)
+- **Description:** Calculating the actual value of your job beyond just salary
+
+### [hellzerg/optimizer](https://github.com/hellzerg/optimizer)
+- **Description:** The finest Windows Optimizer
+
+### [codexu/note-gen](https://github.com/codexu/note-gen)
+- **Description:** 一款专注于记录和写作的跨端 AI 笔记应用。
+
+### [loocor/db2llm](https://github.com/loocor/db2llm)
+- **Description:** DB2LLM is a minimal prototype that combines SQLite database metadata with RESTful APIs and large language models (LLMs). It allows users to interact with databases using natural language, without writing SQL queries or understanding database structures
+
+### [TheBlindM/FC-Rust](https://github.com/TheBlindM/FC-Rust)
+- **Description:** rust 实现大模型FunctionCall
+
+### [Versoft-Software/Free95](https://github.com/Versoft-Software/Free95)
+- **Description:** Free95 is an open-source windows-compatible operating system.
+
+### [LloydAsp/nfd](https://github.com/LloydAsp/nfd)
+- **Description:** No Fraud / Node Forward Bot
+
+### [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
+- **Description:** x-cmd: Bootstrap 1000+ command line tools in seconds.
+
+### [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
+- **Description:** Access your entire server infrastructure from your local desktop
+
+### [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
+- **Description:** JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
+
+### [Swung0x48/TriangleBin](https://github.com/Swung0x48/TriangleBin)
+- **Description:** Yet another tester to test shade order. (Check whether you've got IMR or TBR GPU!)
+
+### [Fimeg/NetworkChronicles](https://github.com/Fimeg/NetworkChronicles)
+
+### [DonTizi/rlama](https://github.com/DonTizi/rlama)
+- **Description:** A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs.
+
+### [mfontanini/presenterm](https://github.com/mfontanini/presenterm)
+- **Description:** A markdown terminal slideshow tool
+
+### [franklioxygen/MyTube](https://github.com/franklioxygen/MyTube)
+- **Description:** A YouTube/Bilibili video downloader and player application that allows you to download and save YouTube/Bilibili videos locally, along with their thumbnails. Organize your videos into collections for easy access and management.
+
+### [nicekate/mistral-ocr](https://github.com/nicekate/mistral-ocr)
+
+### [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice)
+- **Description:** AIlice is a fully autonomous, general-purpose AI agent.
+
+### [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
+- **Description:** No fortress, purely open ground.  OpenManus is Coming.
+
+### [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+- **Description:** RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+
+### [xausky/mail-push](https://github.com/xausky/mail-push)
+
+### [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
+- **Description:** InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
+
+### [usual2970/certimate](https://github.com/usual2970/certimate)
+- **Description:** 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+
 ### [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
 - **Description:** Di♪♪Rhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion
 
 ### [Sorceresssis/TiebaReader](https://github.com/Sorceresssis/TiebaReader)
 - **Description:** TiebaReader 是一个与 TiebaScraper(https://github.com/Sorceresssis/TiebaScraper) 配套的阅读器, 它可以更直观的展示 TiebaScraper 爬取到贴吧帖子。
 
-### [Sorceresssis/TiebaScraper](https://github.com/Sorceresssis/TiebaScraper)
+### [Sorceresssis/TiebaArchiver](https://github.com/Sorceresssis/TiebaArchiver)
 - **Description:** 保存百度贴吧帖子到本地，并且支持图片, 视频, 语音等内容。与本项目配套的阅读器 TiebaReader(https://github.com/Sorceresssis/TiebaReader)
 
 ### [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel)
@@ -17,13 +198,13 @@
 - **Description:** Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
 
 ### [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
-- **Description:** Low-resource, fast, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
+- **Description:** End to end, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 
 ### [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc)
 - **Description:** redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 
 ### [yaoyhu/anki_packager](https://github.com/yaoyhu/anki_packager)
-- **Description:** 自动化 Anki 英语单词牌组生成工具
+- **Description:** An intelligent, automatic Anki flashcard generator that integrates multiple dictionaries with AI models to create comprehensive English vocabulary cards with definitions, pronunciations, and smart memory aids.
 
 ### [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
 - **Description:** A tool for recompiling Xbox 360 games to native executables.
@@ -61,16 +242,13 @@
 - **Description:** Toolkit for linearizing PDFs for LLM datasets/training
 
 ### [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player)
-- **Description:** 一款同时适配Android TV和Android Phone的视频播放器，同时支持云播放(阿里云盘、夸克网盘和Webdav)和本地播放，支持刮削影视的元信息，多线程加速等
+- **Description:** Ghosten Player 是一款同时适配📱 Android Phone 和 📺 Android TV 的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。 界面简洁，功能丰富，开箱即用。
 
 ### [alienlu/iptv](https://github.com/alienlu/iptv)
 - **Description:** 每日更新的可用iptv源
 
 ### [iffse/pay-respects](https://github.com/iffse/pay-respects)
 - **Description:** Command suggestions, command-not-found and thefuck replacement written in Rust
-
-### [Ryubing/Ryujinx](https://github.com/Ryubing/Ryujinx)
-- **Description:** Nintendo Switch emulator written in C#, originally created by gdkchan.
 
 ### [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
 - **Description:** The user-friendly command line shell.
@@ -174,7 +352,7 @@
 - **Description:** A modern, lightweight Docker management UI built with Tauri and React. Focus on simplicity and performance for Docker container management.
 
 ### [Y2Z/monolith](https://github.com/Y2Z/monolith)
-- **Description:** ⬛️ CLI tool for saving complete web pages as a single HTML file
+- **Description:** ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 
 ### [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns)
 - **Description:** 一个 DNS 转发器
@@ -213,7 +391,7 @@
 - **Description:** ProxMonitor 是一个用于监控和管理 Proxmox VE 服务器的 Android 应用。它提供了直观的界面来查看和控制您的虚拟化环境。
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
-- **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 
 ### [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm)
 - **Description:** Virtual DSM in a Docker container.
@@ -230,7 +408,7 @@
 - **Description:** Linux virtual machines, with a focus on running containers
 
 ### [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)
-- **Description:** A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu.com
+- **Description:** A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有母语般的阅读体验。https://fluent.thinkstu.com
 
 ### [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi)
 - **Description:** A Flask API For StreamMusic.
@@ -335,7 +513,7 @@
 - **Description:** 开源社区中最优秀的广告规则之一，适用于AdGuard (iOS/Android)/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等众多主流广告拦截工具/代理工具的广告规则。
 
 ### [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra)
-- **Description:** Abracadabra 魔曰，下一代文本脱敏和加密工具
+- **Description:** Abracadabra 魔曰，下一代文本加密工具
 
 ### [RICwang/docker-wechat](https://github.com/RICwang/docker-wechat)
 - **Description:** 在docker里运行wechat，可以通过web或者VNC访问wechat
@@ -347,7 +525,7 @@
 - **Description:** 轻量化全方位扫描器
 
 ### [zhheo/TimePlus](https://github.com/zhheo/TimePlus)
-- **Description:** 由Heo维护的Time主题版本，基于Typecho
+- **Description:** 洪墨时光。由Heo维护的Time主题版本，基于Typecho
 
 ### [arkohut/pensieve](https://github.com/arkohut/pensieve)
 - **Description:** A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.
@@ -422,7 +600,7 @@
 - **Description:** 使用 腾讯X5 WebView 开发的电视直播App
 
 ### [getmaxun/maxun](https://github.com/getmaxun/maxun)
-- **Description:** Open-source no-code web data extraction platform. Turn websites to APIs & spreadsheets with no-code robots in minutes.
+- **Description:** 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
 
 ### [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record)
 - **Description:** A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东) 
@@ -529,7 +707,7 @@
 - **Description:** Auth Inbox 📬 is a self-hosted, open-source platform for receiving multiple email verification codes and real-time notifications, built using Cloudflare's free services. | Auth Inbox 📬 是一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。
 
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
-- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
+- **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
 ### [uazo/cromite](https://github.com/uazo/cromite)
 - **Description:** Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
@@ -552,7 +730,7 @@
 - **Description:** Tinymind - Write and sync your blog & thoughts with GitHub
 
 ### [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
-- **Description:** A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
+- **Description:** A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 
 ### [alexta69/metube](https://github.com/alexta69/metube)
 - **Description:** Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
@@ -663,7 +841,7 @@
 - **Description:** VyOS command definitions, scripts, and utilities
 
 ### [0x2E/fusion](https://github.com/0x2E/fusion)
-- **Description:** A lightweight, self-hosted friendly RSS aggregator and reader
+- **Description:** A lightweight, self-hosted friendly RSS reader
 
 ### [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 - **Description:** Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
@@ -678,7 +856,7 @@
 - **Description:** IPTV m3u8 link test speed
 
 ### [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
-- **Description:** 基于 CloudFlare Pages 的开源文件托管解决方案，支持 Telegram Bot 、R2、S3 等多种存储方式！
+- **Description:** 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
 
 ### [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase)
 - **Description:** self-hosted, local-first web archive application.
@@ -720,12 +898,12 @@
 - **Description:** Minimalist and opinionated feed reader
 
 ### [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-- **Description:** The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
+- **Description:** The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 
 ### [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 - **Description:** A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 
-### [Chenyme/Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
+### [chenyme/Chenyme-AAVT](https://github.com/chenyme/Chenyme-AAVT)
 - **Description:** 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
 
 ### [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
@@ -980,7 +1158,7 @@
 - **Description:** A process for automating Docker container base image updates. 
 
 ### [open-ani/animeko](https://github.com/open-ani/animeko)
-- **Description:** 集找番、追番、看番的一站式弹幕追番平台，Bangumi 同步，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform
+- **Description:** 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 
 ### [Predidit/oneAnime](https://github.com/Predidit/oneAnime)
 - **Description:** 一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。
@@ -1105,7 +1283,7 @@
 - **Description:** ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
 ### [ente-io/ente](https://github.com/ente-io/ente)
-- **Description:** End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- **Description:** End-to-end encrypted platform for photos, videos and 2FA secrets.
 
 ### [Pintree-io/pintree](https://github.com/Pintree-io/pintree)
 - **Description:** Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
@@ -1141,7 +1319,7 @@
 - **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
 ### [ikxin/f5-bench](https://github.com/ikxin/f5-bench)
-- **Description:** Use the browser fetch API to website benchmarks.
+- **Description:** 利用 Fetch API 对目标网站进行高频请求，模拟按下 F5 刷新的效果，以测试服务器资源极限，请勿用于非法用途。
 
 ### [certd/certd](https://github.com/certd/certd)
 - **Description:** 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
@@ -1257,7 +1435,7 @@
 - **Description:** 📥 A Telegram toolkit written in Golang
 
 ### [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)
-- **Description:** A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+- **Description:** A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 
 ### [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker)
 - **Description:** Check if phone numbers are connected to Telegram accounts.
@@ -1452,7 +1630,7 @@
 - **Description:** FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. 
 
 ### [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs)
-- **Description:** VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
+- **Description:** VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用 ==> https://github.com/oneclickvirt/ecs
 
 ### [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover)
 - **Description:** 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
@@ -1487,7 +1665,7 @@
 ### [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
 - **Description:** A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 
-### [janhq/jan](https://github.com/janhq/jan)
+### [menloresearch/jan](https://github.com/menloresearch/jan)
 - **Description:** Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
 ### [sigoden/proxyfor](https://github.com/sigoden/proxyfor)
@@ -1630,7 +1808,7 @@
 - **Description:** Cross-platform chatbot framework made with love
 
 ### [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)
-- **Description:** 📃 开箱即用的 Markdown 简历，支持 VSCode / Obsidian / Typora
+- **Description:** 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
 
 ### [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
 - **Description:** A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
@@ -1666,7 +1844,7 @@
 - **Description:** Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
 
 ### [1c7/Fitness](https://github.com/1c7/Fitness)
-- **Description:** 健身教学视频（高质量）帮助你减脂，增肌，（拉伸，热身，放松也很重要）（包含大量 B 站和抖音视频创作者）
+- **Description:** 健身教学（高质量）帮你减脂，增肌（以及拉伸放松，热身，体态，康复）（有大量 B 站和抖音视频）
 
 ### [AChep/keyguard-app](https://github.com/AChep/keyguard-app)
 - **Description:** Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
@@ -1675,7 +1853,7 @@
 - **Description:** 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
 
 ### [SylarLong/iztro](https://github.com/SylarLong/iztro)
-- **Description:** ⭐A lightweight open-source JavaScript library for obtaining The Purple Star Astrology (Zi Wei Dou Shu) astrolabe information.. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
+- **Description:** ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
 
 ### [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot)
 - **Description:** NAS媒体库自动化管理工具
@@ -1690,7 +1868,7 @@
 - **Description:** 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 
 ### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
-- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000.com】
 
 ### [LemmyNet/jerboa](https://github.com/LemmyNet/jerboa)
 - **Description:** A native android app for Lemmy
@@ -1903,7 +2081,7 @@
 - **Description:** Cloudflare Tunnel client (formerly Argo Tunnel)
 
 ### [heiher/natmap](https://github.com/heiher/natmap)
-- **Description:** TCP/UDP port mapping for full cone NAT
+- **Description:** TCP/UDP port mapping for full-cone NAT
 
 ### [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec)
 - **Description:** ACG2vec (Anime Comics Games to vector) are committed to creating a playground that combines ACG and Deep learning.（文本语义检索、以图搜图、语义搜图、图片超分辨率、推荐系统）

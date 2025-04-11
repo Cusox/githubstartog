@@ -216,9 +216,6 @@
 ### [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef)
 - **Description:** Shef is a powerful CLI framework for cooking up dynamic shell recipes.
 
-### [Ladam0203/nvim-cheatsheet](https://github.com/Ladam0203/nvim-cheatsheet)
-- **Description:** Discover and favorite essential Neovim and Vim commands, motions, and custom shortcuts. Create your personalized cheatsheet for efficient text editing.
-
 ### [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator)
 - **Description:** Calculating the actual value of your job beyond just salary
 
@@ -230,9 +227,6 @@
 
 ### [loocor/db2llm](https://github.com/loocor/db2llm)
 - **Description:** DB2LLM is a minimal prototype that combines SQLite database metadata with RESTful APIs and large language models (LLMs). It allows users to interact with databases using natural language, without writing SQL queries or understanding database structures
-
-### [TheBlindM/FC-Rust](https://github.com/TheBlindM/FC-Rust)
-- **Description:** rust 实现大模型FunctionCall
 
 ### [Versoft-Software/Free95](https://github.com/Versoft-Software/Free95)
 - **Description:** Free95 is an open-source windows-compatible operating system.
@@ -403,9 +397,6 @@
 ### [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop)
 - **Description:** 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
 
-### [vbskycn/FlowMaster](https://github.com/vbskycn/FlowMaster)
-- **Description:** FlowMaster流量监控系统
-
 ### [veops/oneterm](https://github.com/veops/oneterm)
 - **Description:** Provide secure access and control over all infrastructure
 
@@ -474,9 +465,6 @@
 
 ### [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing)
 - **Description:** Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
-
-### [rewired-gh/ichigo-bot](https://github.com/rewired-gh/ichigo-bot)
-- **Description:** 🍓 Telegram chat bot for accessing various LLM services in one place
 
 ### [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian)
 - **Description:** Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
@@ -1293,9 +1281,6 @@
 ### [Taiizor/Sucrose](https://github.com/Taiizor/Sucrose)
 - **Description:** Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
-### [shadowqcom/knloop-service-status](https://github.com/shadowqcom/knloop-service-status)
-- **Description:** knloop服务状态监控
-
 ### [siderolabs/talos](https://github.com/siderolabs/talos)
 - **Description:** Talos Linux is a modern Linux distribution built for Kubernetes.
 
@@ -1854,9 +1839,6 @@
 ### [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
 - **Description:** All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 
-### [ihategfw/teletrans](https://github.com/ihategfw/teletrans)
-- **Description:** TeleTrans is a Python-based Telegram bot that translates messages in real-time. It uses the OpenAI API and DeepL API for translation.
-
 ### [electerm/electerm](https://github.com/electerm/electerm)
 - **Description:** 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 
@@ -2260,9 +2242,6 @@
 
 ### [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
 - **Description:** Cross-platform, fast, feature-rich, GPU based terminal
-
-### [ayamir/bspwm-dotfiles](https://github.com/ayamir/bspwm-dotfiles)
-- **Description:** My Arch+Bspwm dotfiles
 
 ### [baskerville/bspwm](https://github.com/baskerville/bspwm)
 - **Description:** A tiling window manager based on binary space partitioning

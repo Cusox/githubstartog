@@ -243,9 +243,6 @@
 ### [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
 - **Description:** JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 
-### [Swung0x48/TriangleBin](https://github.com/Swung0x48/TriangleBin)
-- **Description:** Yet another tester to test shade order. (Check whether you've got IMR or TBR GPU!)
-
 ### [Fimeg/NetworkChronicles](https://github.com/Fimeg/NetworkChronicles)
 
 ### [DonTizi/rlama](https://github.com/DonTizi/rlama)
@@ -267,8 +264,6 @@
 
 ### [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 - **Description:** RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-
-### [xausky/mail-push](https://github.com/xausky/mail-push)
 
 ### [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
 - **Description:** InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
@@ -306,16 +301,11 @@
 ### [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
 - **Description:** A tool for recompiling Xbox 360 games to native executables.
 
-### [MatrixTeam-AI/RAIN](https://github.com/MatrixTeam-AI/RAIN)
-
 ### [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk)
 - **Description:** This is an LLM-based code reader.
 
 ### [zaunist/filebox](https://github.com/zaunist/filebox)
 - **Description:** FileBox-文件快递柜
-
-### [Shemnei/punktf](https://github.com/Shemnei/punktf)
-- **Description:** ⚡ A cross-platform multi-target dotfiles manager
 
 ### [ferronweb/ferron](https://github.com/ferronweb/ferron)
 - **Description:** A fast, memory-safe web server written in Rust.
@@ -349,9 +339,6 @@
 
 ### [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
 - **Description:** The user-friendly command line shell.
-
-### [kenmingwang/azusa-player](https://github.com/kenmingwang/azusa-player)
-- **Description:** A 3rd party Bilibili audio player / 一个Bilibili第三方音频播放器
 
 ### [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)
 - **Description:** DataBackup for Android 7.0+
@@ -477,9 +464,6 @@
 
 ### [yusing/godoxy](https://github.com/yusing/godoxy)
 - **Description:** Easy to use reverse proxy with docker integration
-
-### [Fanju6/ProxMonitor](https://github.com/Fanju6/ProxMonitor)
-- **Description:** ProxMonitor 是一个用于监控和管理 Proxmox VE 服务器的 Android 应用。它提供了直观的界面来查看和控制您的虚拟化环境。
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
 - **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
@@ -699,13 +683,8 @@
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
 - **Description:** Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。
 
-### [liujuntao123/bookmarks-artist](https://github.com/liujuntao123/bookmarks-artist)
-
 ### [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
 - **Description:** Utility to convert between various subscription format
-
-### [eshaz/wasm-audio-decoders](https://github.com/eshaz/wasm-audio-decoders)
-- **Description:** Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.
 
 ### [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download)
 - **Description:** 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 体验地址: https://lz.qaiu.top
@@ -815,8 +794,6 @@
 ### [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 - **Description:** Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 
-### [Cteros/eno-music](https://github.com/Cteros/eno-music)
-
 ### [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind)
 - **Description:** Tinymind - Write and sync your blog & thoughts with GitHub
 
@@ -825,9 +802,6 @@
 
 ### [alexta69/metube](https://github.com/alexta69/metube)
 - **Description:** Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
-
-### [frostming/fxzhihu](https://github.com/frostming/fxzhihu)
-- **Description:** 为知乎生成可分享的卡片及 Instant View
 
 ### [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook)
 - **Description:** With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
@@ -847,13 +821,8 @@
 ### [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)
 - **Description:** Minimalist Web Notepad
 
-### [lihuithe/podlm-public](https://github.com/lihuithe/podlm-public)
-
 ### [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
 - **Description:** Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器
-
-### [google/mozc-devices](https://github.com/google/mozc-devices)
-- **Description:** Circuit diagrams and firmware source code for Gboard DIY keyboards
 
 ### [akazwz/smail](https://github.com/akazwz/smail)
 - **Description:** Temporary email  临时邮箱 Cloudflare email
@@ -1454,9 +1423,6 @@
 ### [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
 - **Description:** 可本地部署的AI语音工具箱 | A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc.
 
-### [piqoni/hn-text](https://github.com/piqoni/hn-text)
-- **Description:** A text-first HN client. 
-
 ### [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
 - **Description:** HandBrake's main development repository 
 
@@ -1494,9 +1460,6 @@
 
 ### [outline/outline](https://github.com/outline/outline)
 - **Description:** The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-
-### [richhost/pixzip-lite](https://github.com/richhost/pixzip-lite)
-- **Description:** Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建。
 
 ### [glanceapp/glance](https://github.com/glanceapp/glance)
 - **Description:** A self-hosted dashboard that puts all your feeds in one place
@@ -1557,9 +1520,6 @@
 
 ### [slab/quill](https://github.com/slab/quill)
 - **Description:** Quill is a modern WYSIWYG editor built for compatibility and extensibility
-
-### [micl2e2/tg-focus](https://github.com/micl2e2/tg-focus)
-- **Description:** A comprehensive Telegram message filter/forwarder that helps you focus💡.
 
 ### [SideCloudGroup/BetterForward](https://github.com/SideCloudGroup/BetterForward)
 - **Description:** Designed for better message forwarding in Telegram.
@@ -1803,9 +1763,6 @@
 
 ### [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar)
 
-### [leonid20000/odin-slides](https://github.com/leonid20000/odin-slides)
-- **Description:** This is an advanced Python tool that empowers you to effortlessly draft customizable PowerPoint slides using the Generative Pre-trained Transformer (GPT) of your choice. Leveraging the capabilities of Large Language Models (LLM), odin-slides enables you to turn the lengthiest Word documents into well organized presentations.
-
 ### [terrastruct/d2](https://github.com/terrastruct/d2)
 - **Description:** D2 is a modern diagram scripting language that turns text to diagrams.
 
@@ -1951,9 +1908,6 @@
 
 ### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
 - **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000.com】
-
-### [LemmyNet/jerboa](https://github.com/LemmyNet/jerboa)
-- **Description:** A native android app for Lemmy
 
 ### [Xyphyn/photon](https://github.com/Xyphyn/photon)
 - **Description:** An opinionated web client for Lemmy to help users discover the fediverse.
@@ -2349,9 +2303,6 @@
 
 ### [janeczku/calibre-web](https://github.com/janeczku/calibre-web)
 - **Description:** :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
-### [nonpricklycactus/Ehentai_metadata](https://github.com/nonpricklycactus/Ehentai_metadata)
-- **Description:** This is a metadata acquisition plugin for calibre-ebook
 
 ### [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner)
 - **Description:** ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！

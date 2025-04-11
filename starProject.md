@@ -1,8 +1,105 @@
+### [rommapp/romm](https://github.com/rommapp/romm)
+- **Description:** A beautiful, powerful, self-hosted rom manager and player.
+
+### [nilaoda/BBDown](https://github.com/nilaoda/BBDown)
+- **Description:** Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
+
+### [gotson/komga](https://github.com/gotson/komga)
+- **Description:** Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
+
+### [szabodanika/microbin](https://github.com/szabodanika/microbin)
+- **Description:** A secure, configurable file-sharing and URL shortening web app written in Rust.
+
+### [systemd/particleos](https://github.com/systemd/particleos)
+
+### [readest/readest](https://github.com/readest/readest)
+- **Description:** Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
+
+### [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter)
+- **Description:** ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
+
+### [chenqimiao/qm-music](https://github.com/chenqimiao/qm-music)
+- **Description:** 🎧☁️ Your Private Music Service
+
+### [pdm-project/pdm](https://github.com/pdm-project/pdm)
+- **Description:** A modern Python package and dependency manager supporting the latest PEP standards
+
+### [bestZwei/LibreTV](https://github.com/bestZwei/LibreTV)
+- **Description:** 一键部署的影视站
+
+### [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)
+- **Description:** MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
+
+### [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore)
+- **Description:** bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
+
+### [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat)
+- **Description:** 🐬DeepChat - 连接强大AI与个人世界的智能助手 | DeepChat - A smart assistant that connects powerful AI to your personal world
+
+### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+- **Description:** A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+
+### [LloydAsp/NodeQuality](https://github.com/LloydAsp/NodeQuality)
+- **Description:** 在沙箱环境中运行vps测试脚本，并排版测试结果
+
+### [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku)
+- **Description:** An otaku index for everything! ⭐ Star the project if you like it!
+
+### [easychen/CookieCloud](https://github.com/easychen/CookieCloud)
+- **Description:** CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
+
+### [ynqa/promkit](https://github.com/ynqa/promkit)
+- **Description:** A toolkit for building interactive prompt in Rust
+
+### [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+- **Description:** PlayStation 4 emulator for Windows, Linux and macOS written in C++
+
+### [Dolov/chrome-QuickGo](https://github.com/Dolov/chrome-QuickGo)
+- **Description:** 🚀 QuickGo 外链直达 — 无感知自动跳过知乎、简书、掘金、CSDN、少数派、Gitee 等 50+ 网站的安全中心跳转限制
+
+### [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
+- **Description:** 基于Worker的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/大文件分享、密码保护等功能
+
+### [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
+- **Description:** Iceraven Browser
+
+### [MemeMeow-Studio/MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow)
+- **Description:** 智能检索张维为表情包
+
+### [manualdousuario/marreta](https://github.com/manualdousuario/marreta)
+- **Description:** Uma ferramenta que quebra barreiras de acesso e elementos que atrapalham a leitura! / Marreta is a tool that removes access barriers and visual distractions!
+
+### [kyantech/Palmr](https://github.com/kyantech/Palmr)
+- **Description:** 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations. Designed for seamless and secure sharing, Palmr. is completely free.
+
+### [MichaIng/DietPi](https://github.com/MichaIng/DietPi)
+- **Description:** Lightweight justice for your single-board computer!
+
+### [logto-io/logto](https://github.com/logto-io/logto)
+- **Description:** 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions.
+
+### [porteux/porteux](https://github.com/porteux/porteux)
+- **Description:** High-performance, modular, minimalist Linux distro
+
+### [restic/restic](https://github.com/restic/restic)
+- **Description:** Fast, secure, efficient backup program
+
+### [idosal/git-mcp](https://github.com/idosal/git-mcp)
+
+### [ajnart/dcm](https://github.com/ajnart/dcm)
+- **Description:** DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clicks!
+
+### [oiov/wr.do](https://github.com/oiov/wr.do)
+- **Description:** 📧🔗🌏 A short lin, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
+
+### [picosh/pico](https://github.com/picosh/pico)
+- **Description:** services that empower developers using ssh
+
 ### [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
 - **Description:** 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 
 ### [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
-- **Description:** 获取b站历史记录，保存到本地数据库，可下载对应视频及时存档，生成详细的年度总结，自动化任务部署到服务器实现自动同步，以及自动发送日志邮件，下面链接是对应前端
+- **Description:** 获取b站历史记录，批量下载视频，一键下载用户投稿视频，收藏夹所有视频，生成详细的年度总结，自动化任务，下面链接是对应前端
 
 ### [leaningtech/browsercraft](https://github.com/leaningtech/browsercraft)
 - **Description:** Unmodified Minecraft 1.2.5 in the browser using CheerpJ
@@ -26,7 +123,7 @@
 - **Description:** Generate audiobooks from e-books
 
 ### [civilblur/mazanoke](https://github.com/civilblur/mazanoke)
-- **Description:** A self-hosted local image compressor that runs in your browser.
+- **Description:** A self-hosted local image optimizer that runs in your browser.
 
 ### [iib0011/omni-tools](https://github.com/iib0011/omni-tools)
 - **Description:** Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
@@ -47,12 +144,12 @@
 - **Description:** VRAM based file system for Linux
 
 ### [veloren/veloren](https://github.com/veloren/veloren)
-- **Description:** An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+- **Description:** [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
 
 ### [medialab/xan](https://github.com/medialab/xan)
 - **Description:** The CSV magician
 
-### [stuzero/pg-mcp](https://github.com/stuzero/pg-mcp)
+### [stuzero/pg-mcp-server](https://github.com/stuzero/pg-mcp-server)
 
 ### [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud)
 - **Description:** ☁️ OxiCloud server, efficient and secure way to save all your data
@@ -210,7 +307,7 @@
 - **Description:** redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 
 ### [yaoyhu/anki_packager](https://github.com/yaoyhu/anki_packager)
-- **Description:** An intelligent, automatic Anki flashcard generator that integrates multiple dictionaries with AI models to create comprehensive English vocabulary cards with definitions, pronunciations, and smart memory aids.
+- **Description:** An intelligent, automatic Anki flashcard generator.
 
 ### [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
 - **Description:** A tool for recompiling Xbox 360 games to native executables.
@@ -248,7 +345,7 @@
 - **Description:** Toolkit for linearizing PDFs for LLM datasets/training
 
 ### [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player)
-- **Description:** Ghosten Player 是一款同时适配📱 Android Phone 和 📺 Android TV 的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。 界面简洁，功能丰富，开箱即用。
+- **Description:** A versatile video player designed for both 📱Android Phone/Pad and 📺Android TV which creates a personalized media library.
 
 ### [alienlu/iptv](https://github.com/alienlu/iptv)
 - **Description:** 每日更新的可用iptv源
@@ -435,7 +532,7 @@
 - **Description:** The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 
 ### [meceware/wapy.dev](https://github.com/meceware/wapy.dev)
-- **Description:** Track, manage and optimize your recurring expenses in one powerful and human readable dashboard.
+- **Description:** Wapy.dev helps you track subscriptions, monitor recurring expenses, and get payment reminders in one powerful and human readable dashboard.
 
 ### [Ackites/Nrfr](https://github.com/Ackites/Nrfr)
 - **Description:** 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
@@ -573,7 +670,7 @@
 - **Description:** Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 
 ### [misaka10843/copymanga-downloader](https://github.com/misaka10843/copymanga-downloader)
-- **Description:** 使用python+copymanga API来下载copymanga(拷贝漫画)中的漫画，支持批量+选话下载和获取您收藏的漫画并下载及半自动获取订阅下载！(全平台支持(pypi))
+- **Description:** 使用python+copymanga API来下载copymanga(拷贝漫画)中的漫画，支持批量+选话下载和获取您收藏的漫画并下载及半自动获取订阅下载！(全平台支持(pypi)) Nas版本请查看copymanga-nasdownloader
 
 ### [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux)
 - **Description:** A library for audio and music analysis, feature extraction.
@@ -606,7 +703,7 @@
 - **Description:** 使用 腾讯X5 WebView 开发的电视直播App
 
 ### [getmaxun/maxun](https://github.com/getmaxun/maxun)
-- **Description:** 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
+- **Description:** 🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
 
 ### [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record)
 - **Description:** A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东) 
@@ -653,7 +750,7 @@
 - **Description:** 一个简单的网络分析跟踪器和仪表板，在 Cloudflare Pages 上即可快速部署的网站分析仪表板,无成本稳定运行
 
 ### [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
-- **Description:** Open source email app to reach inbox zero fast.
+- **Description:** AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
 ### [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer)
 - **Description:** Xplorer, a customizable, modern file manager
@@ -783,7 +880,7 @@
 - **Description:** An Android online music player like NetEase Cloud Music, based on Media3 and ExoPlayer
 
 ### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-- **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+- **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
 ### [knadh/tg-archive](https://github.com/knadh/tg-archive)
 - **Description:** A tool for exporting Telegram group chats into static websites like mailing list archives.
@@ -928,7 +1025,7 @@
 - **Description:** Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations
 
 ### [zen-browser/desktop](https://github.com/zen-browser/desktop)
-- **Description:** A calmer internet, without any gimmicks.
+- **Description:** Welcome to a calmer internet
 
 ### [Cinvin/myuserscripts](https://github.com/Cinvin/myuserscripts)
 - **Description:** 网易云音乐油猴脚本:云盘歌曲快传(含周杰伦),歌曲下载,转存云盘,云盘匹配纠正...
@@ -1636,7 +1733,7 @@
 - **Description:** FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. 
 
 ### [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs)
-- **Description:** VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用 ==> https://github.com/oneclickvirt/ecs
+- **Description:** VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用无环境依赖的=>https://github.com/oneclickvirt/ecs
 
 ### [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover)
 - **Description:** 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
@@ -1689,7 +1786,7 @@
 ### [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist)
 - **Description:** AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
 
-### [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder)
+### [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
 - **Description:** A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 ### [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
@@ -2246,7 +2343,7 @@
 - **Description:** A collection of useful .gitignore templates
 
 ### [opensolon/solon](https://github.com/opensolon/solon)
-- **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java23. (Replaceable spring)
+- **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java24. (Replaceable spring)
 
 ### [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs)
 - **Description:** OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。

@@ -1,3 +1,6 @@
+### [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy)
+- **Description:**  A docker registry proxy run on cloudflare worker.
+
 ### [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
 - **Description:** Let us control diffusion models!
 
@@ -81,9 +84,6 @@
 ### [MemeMeow-Studio/MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow)
 - **Description:** 智能检索张维为表情包
 
-### [manualdousuario/marreta](https://github.com/manualdousuario/marreta)
-- **Description:** Uma ferramenta que quebra barreiras de acesso e elementos que atrapalham a leitura! / Marreta is a tool that removes access barriers and visual distractions!
-
 ### [kyantech/Palmr](https://github.com/kyantech/Palmr)
 - **Description:** 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations. Designed for seamless and secure sharing, Palmr. is completely free.
 
@@ -142,9 +142,6 @@
 
 ### [iib0011/omni-tools](https://github.com/iib0011/omni-tools)
 - **Description:** Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-
-### [cool2528/GDownload](https://github.com/cool2528/GDownload)
-- **Description:** A full-featured download manager developed in C++.
 
 ### [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
 - **Description:** 一个第三方音乐播放器、本地服务、桌面歌词、主题切换
@@ -336,9 +333,6 @@
 
 ### [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox)
 - **Description:** The official Waterfox 💧 source code repository
-
-### [dan-r/syncstorage-rs-docker](https://github.com/dan-r/syncstorage-rs-docker)
-- **Description:** Simple Docker packaging for the Mozilla Firefox sync server
 
 ### [allenai/olmocr](https://github.com/allenai/olmocr)
 - **Description:** Toolkit for linearizing PDFs for LLM datasets/training
@@ -533,9 +527,6 @@
 ### [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files)
 - **Description:** A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 
-### [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty)
-- **Description:** Make Your RSS Beautiful!
-
 ### [love2d/love](https://github.com/love2d/love)
 - **Description:** LÖVE is an awesome 2D game framework for Lua.
 
@@ -655,9 +646,6 @@
 
 ### [misaka10843/copymanga-downloader](https://github.com/misaka10843/copymanga-downloader)
 - **Description:** 使用python+copymanga API来下载copymanga(拷贝漫画)中的漫画，支持批量+选话下载和获取您收藏的漫画并下载及半自动获取订阅下载！(全平台支持(pypi)) Nas版本请查看copymanga-nasdownloader
-
-### [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux)
-- **Description:** A library for audio and music analysis, feature extraction.
 
 ### [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer)
 - **Description:** Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
@@ -925,9 +913,6 @@
 ### [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 - **Description:** 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
 
-### [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase)
-- **Description:** self-hosted, local-first web archive application.
-
 ### [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 - **Description:** #1 Locally hosted web application that allows you to perform various operations on PDF files
 
@@ -1051,9 +1036,6 @@
 ### [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 - **Description:** frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
 
-### [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode)
-- **Description:** 一个多功能Linux服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：
-
 ### [overleaf/overleaf](https://github.com/overleaf/overleaf)
 - **Description:** A web-based collaborative LaTeX editor
 
@@ -1090,8 +1072,6 @@
 ### [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev)
 - **Description:** IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持连接远程下载器等。
 
-### [seadfeng/cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites)
-
 ### [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 - **Description:** Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
 
@@ -1121,9 +1101,6 @@
 
 ### [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
 - **Description:** qBittorrent BitTorrent client
-
-### [medama-io/medama](https://github.com/medama-io/medama)
-- **Description:** Self-hostable, privacy-focused website analytics.
 
 ### [shadow1ng/fscan](https://github.com/shadow1ng/fscan)
 - **Description:** 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
@@ -1193,9 +1170,6 @@
 
 ### [nordtheme/nord](https://github.com/nordtheme/nord)
 - **Description:** An arctic, north-bluish color palette.
-
-### [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk)
-- **Description:** 🌌  Your Self-hosted Comment System. | 自托管评论系统
 
 ### [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi)
 - **Description:** Backup tool for PC game saves
@@ -1361,9 +1335,6 @@
 ### [frectonz/sql-studio](https://github.com/frectonz/sql-studio)
 - **Description:** SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
 
-### [work7z/MDGJX](https://github.com/work7z/MDGJX)
-- **Description:** 秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告，现已完全开源！
-
 ### [librespeed/speedtest](https://github.com/librespeed/speedtest)
 - **Description:** Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
@@ -1393,9 +1364,6 @@
 
 ### [msgbyte/tianji](https://github.com/msgbyte/tianji)
 - **Description:** Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
-
-### [ImSingee/hammal](https://github.com/ImSingee/hammal)
-- **Description:** docker-registry proxy run in cloudflare workers
 
 ### [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)
 - **Description:** A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
@@ -1608,9 +1576,6 @@
 ### [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox)
 - **Description:** 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 
-### [Innei/Shiro](https://github.com/Innei/Shiro)
-- **Description:** 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
-
 ### [newhinton/disky](https://github.com/newhinton/disky)
 - **Description:** An android filesystem analyzer that can show you the usage of your storage! 
 
@@ -1663,9 +1628,6 @@
 ### [xbmc/xbmc](https://github.com/xbmc/xbmc)
 - **Description:** Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 
-### [jaaronkot/picprose](https://github.com/jaaronkot/picprose)
-- **Description:** Better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
-
 ### [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud)
 - **Description:** 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
 
@@ -1695,9 +1657,6 @@
 
 ### [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)
 - **Description:** A GUI program developed by vue3 + wails.
-
-### [aurora-develop/aurora](https://github.com/aurora-develop/aurora)
-- **Description:** free
 
 ### [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)
 - **Description:** A cross-platform, reimplementation of Notepad++
@@ -1782,14 +1741,8 @@
 ### [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot)
 - **Description:** B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用
 
-### [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine)
-- **Description:** 【sese-engine】新时代的搜索引擎！
-
 ### [dotnet/yarp](https://github.com/dotnet/yarp)
 - **Description:** A toolkit for developing high-performance HTTP reverse proxy applications.
-
-### [Sherlockouo/music](https://github.com/Sherlockouo/music)
-- **Description:** a music player forked from YesPlayMusic。高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron/Docker:
 
 ### [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
 - **Description:** 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution
@@ -1799,9 +1752,6 @@
 
 ### [electerm/electerm](https://github.com/electerm/electerm)
 - **Description:** 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
-
-### [rss-translator/RSS-Translator](https://github.com/rss-translator/RSS-Translator)
-- **Description:** 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
 
 ### [SuxueCode/WechatBakTool](https://github.com/SuxueCode/WechatBakTool)
 - **Description:** 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
@@ -1906,9 +1856,6 @@
 
 ### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
 - **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000.com】
-
-### [Xyphyn/photon](https://github.com/Xyphyn/photon)
-- **Description:** An opinionated web client for Lemmy to help users discover the fediverse.
 
 ### [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy)
 - **Description:** 🐀 A link aggregator and forum for the fediverse

@@ -1,3 +1,6 @@
+### [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
+- **Description:** Third-party native Jellyfin Android app
+
 ### [rommapp/romm](https://github.com/rommapp/romm)
 - **Description:** A beautiful, powerful, self-hosted rom manager and player.
 
@@ -466,7 +469,7 @@
 - **Description:** Easy to use reverse proxy with docker integration
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
-- **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 
 ### [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm)
 - **Description:** Virtual DSM in a Docker container.

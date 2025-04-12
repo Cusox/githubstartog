@@ -1,3 +1,15 @@
+### [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
+- **Description:** Let us control diffusion models!
+
+### [tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
+- **Description:** The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt. 
+
+### [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
+- **Description:** A latent text-to-image diffusion model
+
+### [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
+- **Description:** QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
+
 ### [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
 - **Description:** Third-party native Jellyfin Android app
 
@@ -61,7 +73,7 @@
 - **Description:** 🚀 QuickGo 外链直达 — 无感知自动跳过知乎、简书、掘金、CSDN、少数派、Gitee 等 50+ 网站的安全中心跳转限制
 
 ### [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
-- **Description:** 基于Worker的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/大文件分享、密码保护等功能
+- **Description:** 基于Worker的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/大文件分享、密码保护等功能，支持多种部署方式
 
 ### [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
 - **Description:** Iceraven Browser
@@ -332,7 +344,7 @@
 - **Description:** Toolkit for linearizing PDFs for LLM datasets/training
 
 ### [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player)
-- **Description:** A versatile video player designed for both 📱Android Phone/Pad and 📺Android TV which creates a personalized media library.
+- **Description:** 一个同时适配📱Android Phone和📺Android TV的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。界面简洁，功能丰富，开箱即用。
 
 ### [alienlu/iptv](https://github.com/alienlu/iptv)
 - **Description:** 每日更新的可用iptv源
@@ -413,9 +425,6 @@
 
 ### [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 - **Description:** Integrate the DeepSeek API into popular softwares
-
-### [yaotutu/folder2podcast](https://github.com/yaotutu/folder2podcast)
-- **Description:** Transform local audio folders into private podcast RSS feeds - listen with any podcast app and sync progress across devices.
 
 ### [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator)
 - **Description:** Authenticator generates 2-Step Verification codes in your browser.
@@ -848,8 +857,6 @@
 ### [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
 - **Description:** 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
 
-### [lamm-mit/GraphReasoning](https://github.com/lamm-mit/GraphReasoning)
-
 ### [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
 - **Description:** High-speed Large Language Model Serving for Local Deployment
 
@@ -867,9 +874,6 @@
 
 ### [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick)
 - **Description:** Bare metal to production ready in mins; your own fly server on your VPS.
-
-### [WJZ-P/LiteLoaderQQNT-Encrypt-Chat](https://github.com/WJZ-P/LiteLoaderQQNT-Encrypt-Chat)
-- **Description:** 基于NTQQ的一个方便好用的消息加密插件(*^_^*)
 
 ### [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
 - **Description:** Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
@@ -1169,9 +1173,6 @@
 ### [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
 - **Description:** 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
-### [Kr328/Riru-ClipboardWhitelist](https://github.com/Kr328/Riru-ClipboardWhitelist)
-- **Description:** A module of Riru/Zygisk. Allowing apps to access the clipboard in the background on Android 10.
-
 ### [heyform/heyform](https://github.com/heyform/heyform)
 - **Description:** Open-Source Form Builder
 
@@ -1266,9 +1267,6 @@
 
 ### [zotero/zotero](https://github.com/zotero/zotero)
 - **Description:** Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
-
-### [RyanEdo/mini-metro-web](https://github.com/RyanEdo/mini-metro-web)
-- **Description:** Mini Metro Web
 
 ### [sudoskys/tsticker](https://github.com/sudoskys/tsticker)
 - **Description:** Telegram Sticker Utils | Make Sticker from git-like CLI
@@ -1802,9 +1800,6 @@
 ### [electerm/electerm](https://github.com/electerm/electerm)
 - **Description:** 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 
-### [foxsen/archbase](https://github.com/foxsen/archbase)
-- **Description:** 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
-
 ### [rss-translator/RSS-Translator](https://github.com/rss-translator/RSS-Translator)
 - **Description:** 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
 
@@ -2260,9 +2255,6 @@
 ### [architdate/PKHeX-Plugins](https://github.com/architdate/PKHeX-Plugins)
 - **Description:** Plugins for PKHeX
 
-### [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection)
-- **Description:** Beautiful collection of Polybar themes
-
 ### [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
 - **Description:** 一个基于 electron 的音乐软件
 
@@ -2315,9 +2307,6 @@
 
 ### [fslongjin/This-repo-has-1426-stars](https://github.com/fslongjin/This-repo-has-1426-stars)
 - **Description:** 这个仓库有1426个star，不信你试试
-
-### [yuanyan3060/ArknightsGameResource](https://github.com/yuanyan3060/ArknightsGameResource)
-- **Description:** 明日方舟客户端素材
 
 ### [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
 - **Description:** The best way to write secure and reliable applications. Write nothing; deploy nowhere.

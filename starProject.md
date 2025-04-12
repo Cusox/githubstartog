@@ -1,3 +1,6 @@
+### [foamzou/media-get](https://github.com/foamzou/media-get)
+- **Description:** Get the media through the url
+
 ### [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy)
 - **Description:**  A docker registry proxy run on cloudflare worker.
 
@@ -100,6 +103,7 @@
 - **Description:** Fast, secure, efficient backup program
 
 ### [idosal/git-mcp](https://github.com/idosal/git-mcp)
+- **Description:** Put an end to hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 
 ### [ajnart/dcm](https://github.com/ajnart/dcm)
 - **Description:** DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clicks!
@@ -315,9 +319,6 @@
 
 ### [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk)
 - **Description:** This is an LLM-based code reader.
-
-### [zaunist/filebox](https://github.com/zaunist/filebox)
-- **Description:** FileBox-文件快递柜
 
 ### [ferronweb/ferron](https://github.com/ferronweb/ferron)
 - **Description:** A fast, memory-safe web server written in Rust.
@@ -559,9 +560,6 @@
 
 ### [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
 - **Description:** Xiaomi Home Integration for Home Assistant
-
-### [TobiasMarschner/ferrishare](https://github.com/TobiasMarschner/ferrishare)
-- **Description:** Simple, self-hostable filesharing application with builtin end-to-end encryption
 
 ### [vernu/vps-audit](https://github.com/vernu/vps-audit)
 - **Description:** lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
@@ -817,9 +815,6 @@
 
 ### [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe)
 - **Description:** code-based qr code designer
-
-### [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)
-- **Description:** Minimalist Web Notepad
 
 ### [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
 - **Description:** Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器
@@ -1337,9 +1332,6 @@
 
 ### [librespeed/speedtest](https://github.com/librespeed/speedtest)
 - **Description:** Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-
-### [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file)
-- **Description:** WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
 
 ### [huggingface/transformers.js](https://github.com/huggingface/transformers.js)
 - **Description:** State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!

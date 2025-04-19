@@ -141,9 +141,6 @@
 ### [ajnart/dcm](https://github.com/ajnart/dcm)
 - **Description:** DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clicks!
 
-### [oiov/wr.do](https://github.com/oiov/wr.do)
-- **Description:** 📧🔗🌏 A short lin, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
-
 ### [picosh/pico](https://github.com/picosh/pico)
 - **Description:** services that empower developers using ssh
 
@@ -585,9 +582,6 @@
 ### [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)
 - **Description:** Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
 
-### [beilunyang/moemail](https://github.com/beilunyang/moemail)
-- **Description:** 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
-
 ### [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
 - **Description:** Xiaomi Home Integration for Home Assistant
 
@@ -725,9 +719,6 @@
 
 ### [ourongxing/newsnow](https://github.com/ourongxing/newsnow)
 - **Description:** Elegant reading of real-time and hottest news
-
-### [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)
-- **Description:** CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 ### [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 - **Description:** PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
@@ -1356,9 +1347,6 @@
 
 ### [frectonz/sql-studio](https://github.com/frectonz/sql-studio)
 - **Description:** SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
-
-### [librespeed/speedtest](https://github.com/librespeed/speedtest)
-- **Description:** Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
 ### [huggingface/transformers.js](https://github.com/huggingface/transformers.js)
 - **Description:** State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!

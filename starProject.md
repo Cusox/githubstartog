@@ -1,3 +1,36 @@
+### [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp)
+- **Description:** Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
+
+### [sing1ee/a2a-directory](https://github.com/sing1ee/a2a-directory)
+- **Description:** Agent2Agent (A2A) – AgentCards, Servers, Clients, Docs
+
+### [waj/shell-secrets](https://github.com/waj/shell-secrets)
+- **Description:** Encrypted environment variables
+
+### [amnweb/yasb](https://github.com/amnweb/yasb)
+- **Description:** A highly configurable Windows status bar written in Python. 
+
+### [LinguaSpark/server](https://github.com/LinguaSpark/server)
+- **Description:** A lightweight multilingual translation service based on Rust and Bergamot translation engine, compatible with multiple translation frontend APIs.
+
+### [fugary/calibre-douban](https://github.com/fugary/calibre-douban)
+- **Description:** Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
+
+### [DoiiarX/NLCISBNPlugin](https://github.com/DoiiarX/NLCISBNPlugin)
+- **Description:** 基于中国国家图书馆ISBN检索的calibre的source/metadata插件。https://doiiars.com/article/NLCISBNPlugin
+
+### [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr)
+- **Description:** A Rust compiler backend targeting CIL(.NET IR) and C. 
+
+### [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog)
+- **Description:** Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image.
+
+### [towelong/panxiaozi](https://github.com/towelong/panxiaozi)
+- **Description:** 盘小子是一个一站式网盘资源搜索引擎，支持夸克网盘、百度网盘、阿里云盘等多平台，快速精准搜索，一键直达。
+
+### [VERT-sh/VERT](https://github.com/VERT-sh/VERT)
+- **Description:** The next-generation file converter. Open source, fully local* and free forever.
+
 ### [foamzou/media-get](https://github.com/foamzou/media-get)
 - **Description:** Get the media through the url
 
@@ -45,7 +78,7 @@
 ### [pdm-project/pdm](https://github.com/pdm-project/pdm)
 - **Description:** A modern Python package and dependency manager supporting the latest PEP standards
 
-### [bestZwei/LibreTV](https://github.com/bestZwei/LibreTV)
+### [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
 - **Description:** 一键部署的影视站
 
 ### [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)
@@ -79,7 +112,7 @@
 - **Description:** 🚀 QuickGo 外链直达 — 无感知自动跳过知乎、简书、掘金、CSDN、少数派、Gitee 等 50+ 网站的安全中心跳转限制
 
 ### [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
-- **Description:** 基于Worker的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/大文件分享、密码保护等功能，支持多种部署方式
+- **Description:** 基于Worker的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/大文件分享、密码保护等功能，支持多种部署方式，可作为WebDav挂载
 
 ### [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
 - **Description:** Iceraven Browser
@@ -103,7 +136,7 @@
 - **Description:** Fast, secure, efficient backup program
 
 ### [idosal/git-mcp](https://github.com/idosal/git-mcp)
-- **Description:** Put an end to hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- **Description:** Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 
 ### [ajnart/dcm](https://github.com/ajnart/dcm)
 - **Description:** DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clicks!
@@ -148,7 +181,7 @@
 - **Description:** Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 
 ### [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
-- **Description:** 一个第三方音乐播放器、本地服务、桌面歌词、主题切换
+- **Description:** 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、最高音质
 
 ### [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d)
 - **Description:** A super simple tool to convert your SVG's to 3D models.
@@ -239,7 +272,7 @@
 - **Description:** The finest Windows Optimizer
 
 ### [codexu/note-gen](https://github.com/codexu/note-gen)
-- **Description:** 一款专注于记录和写作的跨端 AI 笔记应用。
+- **Description:** A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 
 ### [loocor/db2llm](https://github.com/loocor/db2llm)
 - **Description:** DB2LLM is a minimal prototype that combines SQLite database metadata with RESTful APIs and large language models (LLMs). It allows users to interact with databases using natural language, without writing SQL queries or understanding database structures
@@ -598,7 +631,7 @@
 - **Description:** 一键导出PC微信聊天记录工具
 
 ### [qi4L/qscan](https://github.com/qi4L/qscan)
-- **Description:** 轻量化全方位扫描器
+- **Description:** Lightning-fast internal network scanner
 
 ### [zhheo/TimePlus](https://github.com/zhheo/TimePlus)
 - **Description:** 洪墨时光。由Heo维护的Time主题版本，基于Typecho
@@ -1512,7 +1545,7 @@
 - **Description:**  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
 ### [keiyoushi/extensions](https://github.com/keiyoushi/extensions)
-- **Description:** Source extensions for the Mihon/Tachiyomi app.
+- **Description:** Extension repository for Mihon and variants
 
 ### [mihonapp/mihon](https://github.com/mihonapp/mihon)
 - **Description:** Free and open source manga reader for Android

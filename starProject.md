@@ -427,9 +427,6 @@
 ### [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop)
 - **Description:** 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
 
-### [veops/oneterm](https://github.com/veops/oneterm)
-- **Description:** Provide secure access and control over all infrastructure
-
 ### [AllenWrong/nand2tetris](https://github.com/AllenWrong/nand2tetris)
 - **Description:** 计算机系统要素，从零开始构建现代计算机
 
@@ -860,9 +857,6 @@
 
 ### [PKM-er/awesome-obsidian-zh](https://github.com/PKM-er/awesome-obsidian-zh)
 - **Description:** Obsidian 优秀中文插件、主题与资源
-
-### [wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic)
-- **Description:** An Android online music player like NetEase Cloud Music, based on Media3 and ExoPlayer
 
 ### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 - **Description:** 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
@@ -1448,9 +1442,6 @@
 
 ### [qarmin/czkawka](https://github.com/qarmin/czkawka)
 - **Description:** Multi functional app to find duplicates, empty folders, similar images etc.
-
-### [llaoj/gcopy](https://github.com/llaoj/gcopy)
-- **Description:** A clipboard synchronization service for different devices that can synchronize text, screenshots, and files.
 
 ### [outline/outline](https://github.com/outline/outline)
 - **Description:** The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -2061,9 +2052,6 @@
 
 ### [star-history/star-history](https://github.com/star-history/star-history)
 - **Description:** The missing star history graph of GitHub repos - https://star-history.com
-
-### [meeting-rs/meeting.rs](https://github.com/meeting-rs/meeting.rs)
-- **Description:** Private one to one realtime video meeting.⚡
 
 ### [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - **Description:** A list of Free Software network services and web applications which can be hosted on your own servers

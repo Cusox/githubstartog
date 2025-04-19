@@ -141,6 +141,15 @@ const ProjectShowcase = () => {
         return new Fuse(projects, options);
     }, [projects]);
 
+    // Option to open a random repo
+    const handleRandomRepo = () => {
+	let randomProject = projects[Math.floor(Math.random() * projects.length)];
+	let randomUrl = randomProject.html_url;
+	if (randomProject.html_url) {
+		window.open(randomUrl, '_blank', 'noopener,noreferrer');
+	}
+    }
+
     // Filtered and sorted projects
     const filteredProjects = useMemo(() => {
         let result = projects;
@@ -236,6 +245,13 @@ const ProjectShowcase = () => {
                             <option value="updated-time">Updated Time</option>
                         </select>
                     </div>
+		    <button
+		        clicked={handleRandomRepo}
+		        title="Open a random repo"
+		        className="px-4 py-2 border border-gray-300 rounded-lg bg-white text-gray-700 text-sm font-medium hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors whitespace-nowrap shadow-sm"
+		    >
+		        Random Repo
+		    </button>
                 </div>
 
                 <div className="mb-6 flex flex-wrap gap-2">

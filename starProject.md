@@ -1,3 +1,9 @@
+### [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)
+- **Description:** 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
+
+### [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
+- **Description:** 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
+
 ### [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp)
 - **Description:** Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
 
@@ -71,9 +77,6 @@
 
 ### [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter)
 - **Description:** ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
-
-### [chenqimiao/qm-music](https://github.com/chenqimiao/qm-music)
-- **Description:** 🎧☁️ Your Private Music Service
 
 ### [pdm-project/pdm](https://github.com/pdm-project/pdm)
 - **Description:** A modern Python package and dependency manager supporting the latest PEP standards
@@ -176,9 +179,6 @@
 
 ### [iib0011/omni-tools](https://github.com/iib0011/omni-tools)
 - **Description:** Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-
-### [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
-- **Description:** 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、最高音质
 
 ### [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d)
 - **Description:** A super simple tool to convert your SVG's to 3D models.
@@ -519,9 +519,6 @@
 ### [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)
 - **Description:** A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有母语般的阅读体验。https://fluent.thinkstu.com
 
-### [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi)
-- **Description:** A Flask API For StreamMusic.
-
 ### [bent2685/transok-wails](https://github.com/bent2685/transok-wails)
 - **Description:** An efficient LAN file sharing tool
 
@@ -800,9 +797,6 @@
 
 ### [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat)
 - **Description:** 💬 Chat with anyone on any website.
-
-### [z-huang/InnerTune](https://github.com/z-huang/InnerTune)
-- **Description:** A Material 3 YouTube Music client for Android
 
 ### [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
 - **Description:** YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -1318,9 +1312,6 @@
 ### [iptv-org/iptv](https://github.com/iptv-org/iptv)
 - **Description:** Collection of publicly available IPTV channels from all over the world
 
-### [webpro/reveal-md](https://github.com/webpro/reveal-md)
-- **Description:** reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
-
 ### [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare)
 - **Description:** ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
@@ -1584,9 +1575,6 @@
 ### [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share)
 - **Description:** A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 
-### [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
-- **Description:** Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
-
 ### [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases)
 - **Description:** QuickPic Gallery Mod 
 
@@ -1830,7 +1818,7 @@
 - **Description:** Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 
 ### [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)
-- **Description:** 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
+- **Description:** 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 
 ### [SylarLong/iztro](https://github.com/SylarLong/iztro)
 - **Description:** ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
@@ -2262,9 +2250,6 @@
 
 ### [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
 - **Description:** JetBrains Mono – the free and open-source typeface for developers
-
-### [xfangfang/Macast](https://github.com/xfangfang/Macast)
-- **Description:** Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 
 ### [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom)
 - **Description:** SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!

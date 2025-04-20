@@ -609,9 +609,6 @@
 ### [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
 - **Description:** The Fully Customizable Desktop Environment for Windows 10/11.
 
-### [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
-- **Description:** 开源社区中最优秀的广告规则之一，适用于AdGuard (iOS/Android)/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等众多主流广告拦截工具/代理工具的广告规则。
-
 ### [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra)
 - **Description:** Abracadabra 魔曰，下一代文本加密工具
 
@@ -1401,8 +1398,6 @@
 
 ### [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
 - **Description:** HandBrake's main development repository 
-
-### [bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support)
 
 ### [joye61/pic-smaller](https://github.com/joye61/pic-smaller)
 - **Description:** Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently

@@ -1746,9 +1746,6 @@
 ### [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
 - **Description:** 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution
 
-### [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
-- **Description:** All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
-
 ### [electerm/electerm](https://github.com/electerm/electerm)
 - **Description:** 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 
@@ -1774,9 +1771,6 @@
 
 ### [Eugeny/tabby](https://github.com/Eugeny/tabby)
 - **Description:** A terminal for a more modern age
-
-### [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
-- **Description:** A Telegram RSS bot that cares about your reading experience
 
 ### [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles)
 - **Description:** tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.

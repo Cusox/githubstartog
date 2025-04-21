@@ -1,3 +1,6 @@
+### [xzh767/lxmusic-source-all](https://github.com/xzh767/lxmusic-source-all)
+- **Description:** 洛雪音源汇总
+
 ### [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)
 - **Description:** 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
 
@@ -82,7 +85,7 @@
 - **Description:** A modern Python package and dependency manager supporting the latest PEP standards
 
 ### [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
-- **Description:** 一键部署的影视站
+- **Description:** 一分钟搭建影视站，支持Vercel/Docker等部署方式
 
 ### [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)
 - **Description:** MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients

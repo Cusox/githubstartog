@@ -442,9 +442,6 @@
 ### [pubby/nesfab](https://github.com/pubby/nesfab)
 - **Description:** Programming language that targets the Nintendo Entertainment System
 
-### [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)
-- **Description:** A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
-
 ### [fmnx/cftun](https://github.com/fmnx/cftun)
 - **Description:** Third-party Cloudflare Tunnel client (formerly Argo Tunnel)
 
@@ -1285,9 +1282,6 @@
 ### [JerryLinLinLin/Huorong-ATP-Rules](https://github.com/JerryLinLinLin/Huorong-ATP-Rules)
 - **Description:** 一款火绒增强HIPS自定义规则
 
-### [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
-- **Description:** VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
-
 ### [ajnart/homarr](https://github.com/ajnart/homarr)
 - **Description:** Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 
@@ -1591,9 +1585,6 @@
 
 ### [piddnad/DDColor](https://github.com/piddnad/DDColor)
 - **Description:** [ICCV 2023] DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders
-
-### [zadam/trilium](https://github.com/zadam/trilium)
-- **Description:** Build your personal knowledge base with Trilium Notes
 
 ### [laurent22/joplin](https://github.com/laurent22/joplin)
 - **Description:** Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -2014,9 +2005,6 @@
 
 ### [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1)
 - **Description:** BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
-
-### [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox)
-- **Description:** go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
 
 ### [star-history/star-history](https://github.com/star-history/star-history)
 - **Description:** The missing star history graph of GitHub repos - https://star-history.com

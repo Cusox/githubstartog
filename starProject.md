@@ -1,3 +1,39 @@
+### [dtnewman/zev](https://github.com/dtnewman/zev)
+- **Description:** A simple CLI tool to help you remember terminal commands
+
+### [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
+- **Description:** Hydra is a game launcher with its own embedded bittorrent client
+
+### [lmnr-ai/index](https://github.com/lmnr-ai/index)
+- **Description:** The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
+
+### [amachronic/echoplayer](https://github.com/amachronic/echoplayer)
+- **Description:** Echo - Open Hardware Music Player
+
+### [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl)
+- **Description:** Multi-platform high-performance compute language extension for Rust.
+
+### [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)
+- **Description:** PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides
+
+### [aculix/bitplay](https://github.com/aculix/bitplay)
+- **Description:** Stream video torrents in your web browser with ease.
+
+### [avestura/EyesGuard](https://github.com/avestura/EyesGuard)
+- **Description:** 👀 Windows Application for protecting your eyes
+
+### [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell)
+- **Description:** An alternative Windows context menu, and more.
+
+### [metorial/mcp-containers](https://github.com/metorial/mcp-containers)
+- **Description:** Containerized versions of hundreds of MCP servers 📡 🧠
+
+### [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)
+- **Description:** BongoCat 是一个可爱地互动桌面宠物应用，让你的桌面充满乐趣！
+
+### [nari-labs/dia](https://github.com/nari-labs/dia)
+- **Description:** A TTS model capable of generating ultra-realistic dialogue in one pass.
+
 ### [xzh767/lxmusic-source-all](https://github.com/xzh767/lxmusic-source-all)
 - **Description:** 洛雪音源汇总
 
@@ -94,7 +130,7 @@
 - **Description:** bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
 
 ### [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat)
-- **Description:** 🐬DeepChat - 连接强大AI与个人世界的智能助手 | DeepChat - A smart assistant that connects powerful AI to your personal world
+- **Description:** 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 
 ### [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 - **Description:** A community-supported supercharged version of paperless: scan, index and archive all your physical documents
@@ -475,7 +511,7 @@
 ### [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash)
 - **Description:** Run sing-box/mihomo as client in shell
 
-### [nini22P/iris](https://github.com/nini22P/iris)
+### [nini22P/Iris](https://github.com/nini22P/Iris)
 - **Description:** A lightweight video player / 轻量级视频播放器
 
 ### [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf)
@@ -643,7 +679,7 @@
 - **Description:** A high-performance, scalable, dynamically configured job scheduler developed with rust
 
 ### [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
-- **Description:** 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
+- **Description:** 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 
 ### [sj26/mailcatcher](https://github.com/sj26/mailcatcher)
 - **Description:** Catches mail and serves it through a dream.
@@ -697,7 +733,7 @@
 - **Description:** A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东) 
 
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
-- **Description:** Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。
+- **Description:** Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
 
 ### [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
 - **Description:** Utility to convert between various subscription format
@@ -715,7 +751,7 @@
 - **Description:** Elegant reading of real-time and hottest news
 
 ### [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
-- **Description:** PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
+- **Description:** PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 ### [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine)
 - **Description:** A text search engine that supports mixed Chinese and English fuzzy search.
@@ -751,7 +787,7 @@
 - **Description:** 属于大学生群体的真·青年大学习
 
 ### [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
-- **Description:** 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+- **Description:** 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道与EPG；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 
 ### [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 - **Description:** A Download Manager that speeds up your downloads
@@ -967,9 +1003,6 @@
 
 ### [ptrsr/pi-ci](https://github.com/ptrsr/pi-ci)
 - **Description:** Prepare Raspberry Pi 3, 4 & 5 configurations using a virtual machine.
-
-### [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-- **Description:** A free, self-hostable news aggregator…
 
 ### [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 - **Description:** Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -1236,6 +1269,7 @@
 - **Description:** Talos Linux is a modern Linux distribution built for Kubernetes.
 
 ### [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi)
+- **Description:** A Non-professional and Recreational Proxy Tool Integration.
 
 ### [nanostudio-org/nanogallery2](https://github.com/nanostudio-org/nanogallery2)
 - **Description:** a modern photo / video gallery and lightbox [JS library]
@@ -1313,7 +1347,7 @@
 - **Description:** ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
 ### [ente-io/ente](https://github.com/ente-io/ente)
-- **Description:** End-to-end encrypted platform for photos, videos and 2FA secrets.
+- **Description:** 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 
 ### [Pintree-io/pintree](https://github.com/Pintree-io/pintree)
 - **Description:** Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
@@ -1469,7 +1503,7 @@
 - **Description:** Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 
 ### [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
-- **Description:** Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
+- **Description:** Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 
 
 ### [yunionio/cloudpods](https://github.com/yunionio/cloudpods)
 - **Description:** A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
@@ -1588,8 +1622,6 @@
 
 ### [laurent22/joplin](https://github.com/laurent22/joplin)
 - **Description:** Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-
-### [wuhenge/NeteaseMusicCloudMatch](https://github.com/wuhenge/NeteaseMusicCloudMatch)
 
 ### [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
 - **Description:** ehviewer，用爱发电，快乐前行
@@ -1947,7 +1979,7 @@
 - **Description:** JavaScript image gallery for mobile and desktop, modular, framework independent
 
 ### [umami-software/umami](https://github.com/umami-software/umami)
-- **Description:** Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- **Description:** Umami is a modern, privacy-focused alternative to Google Analytics.
 
 ### [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡

@@ -1,3 +1,6 @@
+### [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester)
+- **Description:** 测试当前网络的 NAT 类型（STUN）
+
 ### [dtnewman/zev](https://github.com/dtnewman/zev)
 - **Description:** A simple CLI tool to help you remember terminal commands
 
@@ -906,8 +909,6 @@
 ### [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
 - **Description:** Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 
-### [voideditor/void](https://github.com/voideditor/void)
-
 ### [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2)
 - **Description:** bilimiao 2.x
 
@@ -1010,9 +1011,6 @@
 ### [dekusms/DekuSMS-Android](https://github.com/dekusms/DekuSMS-Android)
 - **Description:** Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations
 
-### [zen-browser/desktop](https://github.com/zen-browser/desktop)
-- **Description:** Welcome to a calmer internet
-
 ### [Cinvin/myuserscripts](https://github.com/Cinvin/myuserscripts)
 - **Description:** 网易云音乐油猴脚本:云盘歌曲快传(含周杰伦),歌曲下载,转存云盘,云盘匹配纠正...
 
@@ -1038,7 +1036,7 @@
 - **Description:** DeepL Free API for Serverless
 
 ### [scenery/mediax](https://github.com/scenery/mediax)
-- **Description:** A self-hosted tracker for books, movies, TV shows, anime, and games.
+- **Description:** A self-hosted tracker for books, movies, TV shows, anime, and games. # 一款轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。
 
 ### [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon)
 - **Description:** Better modification of the official Mastodon for Android app
@@ -1974,9 +1972,6 @@
 
 ### [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12)
 - **Description:** Windows 12 网页版，在线体验 点击下面的链接在线体验
-
-### [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
-- **Description:** JavaScript image gallery for mobile and desktop, modular, framework independent
 
 ### [umami-software/umami](https://github.com/umami-software/umami)
 - **Description:** Umami is a modern, privacy-focused alternative to Google Analytics.

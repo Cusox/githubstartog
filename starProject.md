@@ -20,7 +20,7 @@
 - **Description:** A simple CLI tool to help you remember terminal commands
 
 ### [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
-- **Description:** Hydra is a game launcher with its own embedded bittorrent client
+- **Description:** Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 
 ### [lmnr-ai/index](https://github.com/lmnr-ai/index)
 - **Description:** The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
@@ -315,9 +315,6 @@
 
 ### [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef)
 - **Description:** Shef is a powerful CLI framework for cooking up dynamic shell recipes.
-
-### [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator)
-- **Description:** Calculating the actual value of your job beyond just salary
 
 ### [hellzerg/optimizer](https://github.com/hellzerg/optimizer)
 - **Description:** The finest Windows Optimizer
@@ -1149,9 +1146,6 @@
 ### [billryan/resume](https://github.com/billryan/resume)
 - **Description:** An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 
-### [MaaAssistantArknights/MaaResource](https://github.com/MaaAssistantArknights/MaaResource)
-- **Description:** Sync with https://github.com/MaaAssistantArknights/MaaAssistantArknights/tree/dev/resource
-
 ### [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste)
 - **Description:** 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 
@@ -1261,7 +1255,7 @@
 - **Description:** Talos Linux is a modern Linux distribution built for Kubernetes.
 
 ### [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi)
-- **Description:** A Non-professional and Recreational Proxy Tool Integration.
+- **Description:** Husi(虎兕) is a Non-professional and Recreational Proxy Tool Integration.
 
 ### [nanostudio-org/nanogallery2](https://github.com/nanostudio-org/nanogallery2)
 - **Description:** a modern photo / video gallery and lightbox [JS library]

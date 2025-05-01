@@ -1,3 +1,9 @@
+### [borgbackup/borg](https://github.com/borgbackup/borg)
+- **Description:** Deduplicating archiver with compression and authenticated encryption.
+
+### [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
+- **Description:** The Serenity Operating System 🐞
+
 ### [neovim/neovim](https://github.com/neovim/neovim)
 - **Description:** Vim-fork focused on extensibility and usability
 
@@ -102,9 +108,6 @@
 
 ### [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
 - **Description:** A latent text-to-image diffusion model
-
-### [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
-- **Description:** QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
 
 ### [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
 - **Description:** Third-party native Jellyfin Android app
@@ -783,9 +786,6 @@
 ### [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)
 - **Description:** 技术面试最后反问面试官的话
 
-### [dromara/domain-admin](https://github.com/dromara/domain-admin)
-- **Description:** 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System. 
-
 ### [hacdias/webdav](https://github.com/hacdias/webdav)
 - **Description:** A simple and standalone WebDAV server.
 
@@ -812,9 +812,6 @@
 
 ### [Nutlope/blinkshot](https://github.com/Nutlope/blinkshot)
 - **Description:** A realtime AI image generator
-
-### [circled-me/server](https://github.com/circled-me/server)
-- **Description:** Video Calls, Chat, Photo and Sharing Community Server
 
 ### [timvisee/send](https://github.com/timvisee/send)
 - **Description:** :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
@@ -1769,9 +1766,6 @@
 
 ### [Chilfish/Weibo-archiver](https://github.com/Chilfish/Weibo-archiver)
 - **Description:** 将微博导出备份的油猴脚本，为号被完全夹没前未雨绸缪 😭
-
-### [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime)
-- **Description:** The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 
 ### [xai-org/grok-1](https://github.com/xai-org/grok-1)
 - **Description:** Grok open release

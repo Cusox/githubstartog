@@ -1,3 +1,12 @@
+### [neovim/neovim](https://github.com/neovim/neovim)
+- **Description:** Vim-fork focused on extensibility and usability
+
+### [lapce/lapdev](https://github.com/lapce/lapdev)
+- **Description:** Self-Hosted Remote Dev Environment
+
+### [Cassianvale/ACE-KILLER](https://github.com/Cassianvale/ACE-KILLER)
+- **Description:** ✨ TX Games 游戏进程优化工具 ✨
+
 ### [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester)
 - **Description:** 测试当前网络的 NAT 类型（STUN）
 
@@ -32,7 +41,7 @@
 - **Description:** Containerized versions of hundreds of MCP servers 📡 🧠
 
 ### [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)
-- **Description:** BongoCat 是一个可爱地互动桌面宠物应用，让你的桌面充满乐趣！
+- **Description:** BongoCat 是一个可爱的互动桌面宠物应用，让你的桌面充满乐趣！
 
 ### [nari-labs/dia](https://github.com/nari-labs/dia)
 - **Description:** A TTS model capable of generating ultra-realistic dialogue in one pass.
@@ -347,7 +356,7 @@
 ### [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice)
 - **Description:** AIlice is a fully autonomous, general-purpose AI agent.
 
-### [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
+### [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
 - **Description:** No fortress, purely open ground.  OpenManus is Coming.
 
 ### [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
@@ -497,13 +506,10 @@
 - **Description:** Play Bilibili Video in MPV (Firefox / Chrome extension)
 
 ### [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-- **Description:** 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- **Description:** 🎧 Open source music client! Available for both desktop & mobile!
 
 ### [11notes/docker-kms](https://github.com/11notes/docker-kms)
 - **Description:** Activate any version of Windows and Office, forever
-
-### [ZingerLittleBee/dockerman.app](https://github.com/ZingerLittleBee/dockerman.app)
-- **Description:** A modern, lightweight Docker management UI built with Tauri and React. Focus on simplicity and performance for Docker container management.
 
 ### [Y2Z/monolith](https://github.com/Y2Z/monolith)
 - **Description:** ⬛️ CLI tool and library for saving complete web pages as a single HTML file
@@ -514,7 +520,7 @@
 ### [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash)
 - **Description:** Run sing-box/mihomo as client in shell
 
-### [nini22P/Iris](https://github.com/nini22P/Iris)
+### [nini22P/iris](https://github.com/nini22P/iris)
 - **Description:** A lightweight video player / 轻量级视频播放器
 
 ### [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf)
@@ -565,7 +571,7 @@
 - **Description:** Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
 
 ### [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
-- **Description:** Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
+- **Description:** Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 
 ### [chclt/oh-my-wechat](https://github.com/chclt/oh-my-wechat)
 - **Description:** 微信备份与数据报告
@@ -860,9 +866,6 @@
 
 ### [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search)
 - **Description:** 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
-
-### [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)
-- **Description:** Web Extension for saving a faithful copy of a complete web page in a single HTML file
 
 ### [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe)
 - **Description:** code-based qr code designer
@@ -1652,7 +1655,7 @@
 - **Description:** FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. 
 
 ### [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs)
-- **Description:** VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用无环境依赖的=>https://github.com/oneclickvirt/ecs
+- **Description:** VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本。VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
 
 ### [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover)
 - **Description:** 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
@@ -1860,7 +1863,7 @@
 - **Description:** 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 
 ### [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup)
-- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000.com】
+- **Description:** 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 
 ### [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy)
 - **Description:** 🐀 A link aggregator and forum for the fediverse
@@ -2265,9 +2268,6 @@
 
 ### [Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)
 - **Description:** 《明日方舟》游戏数据
-
-### [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
-- **Description:** JetBrains Mono – the free and open-source typeface for developers
 
 ### [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom)
 - **Description:** SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!

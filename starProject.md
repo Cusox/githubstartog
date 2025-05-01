@@ -452,9 +452,6 @@
 ### [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
 - **Description:** FlashMLA: Efficient MLA decoding kernels
 
-### [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
-- **Description:** DeepEP: an efficient expert-parallel communication library
-
 ### [SteamAutoCracks/Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack)
 - **Description:** Steam Game Automatic Cracker
 
@@ -911,9 +908,6 @@
 
 ### [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2)
 - **Description:** bilimiao 2.x
-
-### [marktext/marktext](https://github.com/marktext/marktext)
-- **Description:** 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 ### [exaloop/codon](https://github.com/exaloop/codon)
 - **Description:** A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
@@ -1473,9 +1467,6 @@
 ### [iyear/tdl](https://github.com/iyear/tdl)
 - **Description:** 📥 A Telegram toolkit written in Golang
 
-### [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)
-- **Description:** A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-
 ### [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker)
 - **Description:** Check if phone numbers are connected to Telegram accounts.
 
@@ -1608,9 +1599,6 @@
 - **Description:** An Xposed module to intercept applist detections
 
 ### [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation)
-
-### [imfile-io/imfile-desktop](https://github.com/imfile-io/imfile-desktop)
-- **Description:** A full-featured download manager.
 
 ### [piddnad/DDColor](https://github.com/piddnad/DDColor)
 - **Description:** [ICCV 2023] DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders

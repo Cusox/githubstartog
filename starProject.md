@@ -1485,9 +1485,6 @@
 ### [arkane-systems/mousejiggler](https://github.com/arkane-systems/mousejiggler)
 - **Description:** Mouse Jiggler is a very simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth.
 
-### [LloydAsp/OsMutation](https://github.com/LloydAsp/OsMutation)
-- **Description:** Reinstall Any OpenVZ/LXC VPS to Debian/CentOS/Alpine
-
 ### [bin456789/reinstall](https://github.com/bin456789/reinstall)
 - **Description:** 一键DD/重装脚本 (One-click reinstall OS on VPS)
 

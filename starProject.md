@@ -1,3 +1,15 @@
+### [tiagorangel1/cap](https://github.com/tiagorangel1/cap)
+- **Description:** Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work
+
+### [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns)
+- **Description:** The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+
+### [shikaan/osle](https://github.com/shikaan/osle)
+- **Description:** 💾 A tiny and mighty boot sector OS
+
+### [OFFTKP/felix86](https://github.com/OFFTKP/felix86)
+- **Description:** Run x86-64 programs on RISC-V Linux
+
 ### [borgbackup/borg](https://github.com/borgbackup/borg)
 - **Description:** Deduplicating archiver with compression and authenticated encryption.
 
@@ -559,7 +571,7 @@
 - **Description:** Linux virtual machines, with a focus on running containers
 
 ### [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)
-- **Description:** A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有母语般的阅读体验。https://fluent.thinkstu.com
+- **Description:** Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器开源翻译插件，让所有人都能够拥有母语般的阅读体验。https://fluent.thinkstu.com
 
 ### [bent2685/transok-wails](https://github.com/bent2685/transok-wails)
 - **Description:** An efficient LAN file sharing tool
@@ -761,9 +773,6 @@
 
 ### [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine)
 - **Description:** A text search engine that supports mixed Chinese and English fuzzy search.
-
-### [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-- **Description:** :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 
 ### [apades/dmMiniPlayer](https://github.com/apades/dmMiniPlayer)
 - **Description:** Enhanced picture in picture video player, support subtitle, danmaku etc web extension. 增强版画中画播放器，可以播放、发送弹幕，支持字幕，键盘控制进度等功能的浏览器插件
@@ -1631,7 +1640,7 @@
 - **Description:** FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. 
 
 ### [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs)
-- **Description:** VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本。VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
+- **Description:** VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
 
 ### [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover)
 - **Description:** 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.

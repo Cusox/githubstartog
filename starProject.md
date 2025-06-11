@@ -1,3 +1,15 @@
+### [kirakiray/NoneOS](https://github.com/kirakiray/NoneOS)
+- **Description:** An operating system based on the browser.
+
+### [sigoden/dufs](https://github.com/sigoden/dufs)
+- **Description:** A file server that supports static serving, uploading, searching, accessing control, webdav...
+
+### [helloworldpxy/thunder-https](https://github.com/helloworldpxy/thunder-https)
+- **Description:** 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（lite版本支持全平台），提供优雅的现代化界面和高效稳定的转换服务。
+
+### [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
+- **Description:** 开源游戏变速器
+
 ### [pkmn/engine](https://github.com/pkmn/engine)
 - **Description:** A minimal, complete, Pokémon battle simulation engine optimized for performance
 
@@ -73,7 +85,7 @@
 - **Description:** Self-Hosted Remote Dev Environment
 
 ### [Cassianvale/ACE-KILLER](https://github.com/Cassianvale/ACE-KILLER)
-- **Description:** ✨ 游戏反作弊进程优化工具，专为无畏契约、三角洲行动等游戏设计 ✨
+- **Description:** ✨ 游戏反作弊进程优化工具 ✨
 
 ### [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester)
 - **Description:** 测试当前网络的 NAT 类型（STUN）
@@ -358,7 +370,7 @@
 ### [jqknono/cloudflare-doh](https://github.com/jqknono/cloudflare-doh)
 
 ### [langgenius/dify](https://github.com/langgenius/dify)
-- **Description:** Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- **Description:** Production-ready platform for agentic workflow development.
 
 ### [HuangJian/librime-qjs](https://github.com/HuangJian/librime-qjs)
 - **Description:** Bring a vast JavaScript plugin ecosystem to the Rime Input Method Engine, delivering lightning-fast speed and feather-light performance for a revolutionary input experience!
@@ -690,8 +702,8 @@
 ### [microsoft/markitdown](https://github.com/microsoft/markitdown)
 - **Description:** Python tool for converting files and office documents to Markdown.
 
-### [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root)
-- **Description:** ⚡ Supercharge your Android! Your go-to awesome list for top root apps, Magisk & LSPosed modules, essential tools & guides for enhanced control and ultimate device customization.
+### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
+- **Description:** Explore the ultimate curated list of best root apps,powerful Magisk & LSPosed modules, must-have tools and step-by-step guides — all designed to maximize control, boost performance, and customize your device like never before
 
 ### [dendianugerah/reubah](https://github.com/dendianugerah/reubah)
 - **Description:** a web-based tool for processing images and converting documents with a simple interface
@@ -846,7 +858,7 @@
 ### [asterinas/asterinas](https://github.com/asterinas/asterinas)
 - **Description:** Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 
-### [Ac-Wiki/Ac-WiKi](https://github.com/Ac-Wiki/Ac-WiKi)
+### [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki)
 - **Description:** 高等教育学社基础知识开源建设工程｜青年大学习
 
 ### [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
@@ -895,10 +907,10 @@
 - **Description:** 💬 Chat with anyone on any website.
 
 ### [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
-- **Description:** YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- **Description:** YouTube Music Desktop App bundled with custom plugins
 
 ### [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
-- **Description:** Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
+- **Description:** Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)
 
 ### [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 - **Description:** A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
@@ -1936,9 +1948,6 @@
 
 ### [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels)
 - **Description:** 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
-
-### [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
-- **Description:** Fix Play Integrity (and SafetyNet) verdicts.
 
 ### [AoEiuV020/IAmNotDisabled](https://github.com/AoEiuV020/IAmNotDisabled)
 - **Description:** 我不是残疾人！

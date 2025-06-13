@@ -105,14 +105,8 @@
 ### [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl)
 - **Description:** Multi-platform high-performance compute language extension for Rust.
 
-### [icip-cas/PPTAgent](https://github.com/icip-cas/PPTAgent)
-- **Description:** PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides
-
 ### [aculix/bitplay](https://github.com/aculix/bitplay)
 - **Description:** Stream video torrents in your web browser with ease.
-
-### [avestura/EyesGuard](https://github.com/avestura/EyesGuard)
-- **Description:** 👀 Windows Application for protecting your eyes
 
 ### [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell)
 - **Description:** An alternative Windows context menu, and more.
@@ -206,9 +200,6 @@
 ### [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter)
 - **Description:** ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 
-### [pdm-project/pdm](https://github.com/pdm-project/pdm)
-- **Description:** A modern Python package and dependency manager supporting the latest PEP standards
-
 ### [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
 - **Description:** 一分钟搭建影视站，支持Vercel/Docker等部署方式
 
@@ -295,9 +286,6 @@
 
 ### [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
 - **Description:** A simple, decentralized mesh VPN with WireGuard support.
-
-### [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena)
-- **Description:** LLM Arena by KCORES team
 
 ### [santinic/audiblez](https://github.com/santinic/audiblez)
 - **Description:** Generate audiobooks from e-books
@@ -395,9 +383,6 @@
 
 ### [codexu/note-gen](https://github.com/codexu/note-gen)
 - **Description:** A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
-
-### [loocor/db2llm](https://github.com/loocor/db2llm)
-- **Description:** DB2LLM is a minimal prototype that combines SQLite database metadata with RESTful APIs and large language models (LLMs). It allows users to interact with databases using natural language, without writing SQL queries or understanding database structures
 
 ### [Versoft-Software/Free95](https://github.com/Versoft-Software/Free95)
 - **Description:** Free95 is an open-source windows-compatible operating system.
@@ -660,9 +645,6 @@
 ### [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)
 - **Description:** Manage and switch between multiple proxies quickly & easily.
 
-### [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)
-- **Description:** Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
-
 ### [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files)
 - **Description:** A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 
@@ -723,9 +705,6 @@
 ### [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra)
 - **Description:** Abracadabra 魔曰，下一代文本加密工具
 
-### [RICwang/docker-wechat](https://github.com/RICwang/docker-wechat)
-- **Description:** 在docker里运行wechat，可以通过web或者VNC访问wechat
-
 ### [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
 - **Description:** 一键导出PC微信聊天记录工具
 
@@ -740,9 +719,6 @@
 
 ### [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0)
 - **Description:** 一个兼容 OneBot 协议的非官方 QQ Web 客户端、全平台客户端实现！
-
-### [gohj99/Telewatch](https://github.com/gohj99/Telewatch)
-- **Description:** ‎Telegram for Android watch & wearos
 
 ### [iDvel/rime-ice](https://github.com/iDvel/rime-ice)
 - **Description:** Rime 配置：雾凇拼音 | 长期维护的简体词库
@@ -788,9 +764,6 @@
 
 ### [dockur/windows](https://github.com/dockur/windows)
 - **Description:** Windows inside a Docker container.
-
-### [photoview/photoview](https://github.com/photoview/photoview)
-- **Description:** Photo gallery for self-hosted personal servers
 
 ### [dandavison/delta](https://github.com/dandavison/delta)
 - **Description:** A syntax-highlighting pager for git, diff, grep, and blame output
@@ -852,9 +825,6 @@
 ### [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)
 - **Description:** 技术面试最后反问面试官的话
 
-### [hacdias/webdav](https://github.com/hacdias/webdav)
-- **Description:** A simple and standalone WebDAV server.
-
 ### [asterinas/asterinas](https://github.com/asterinas/asterinas)
 - **Description:** Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 
@@ -878,9 +848,6 @@
 
 ### [Nutlope/blinkshot](https://github.com/Nutlope/blinkshot)
 - **Description:** A realtime AI image generator
-
-### [timvisee/send](https://github.com/timvisee/send)
-- **Description:** :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 
 ### [9001/copyparty](https://github.com/9001/copyparty)
 - **Description:** Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
@@ -936,9 +903,6 @@
 ### [akazwz/smail](https://github.com/akazwz/smail)
 - **Description:** Temporary email  临时邮箱 Cloudflare email
 
-### [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed)
-- **Description:** Minimalistic web app designed for sending private and secure notes.
-
 ### [PKM-er/awesome-obsidian-zh](https://github.com/PKM-er/awesome-obsidian-zh)
 - **Description:** Obsidian 优秀中文插件、主题与资源
 
@@ -956,9 +920,6 @@
 
 ### [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 - **Description:** The easiest way to run WireGuard VPN + Web-based Admin UI.
-
-### [pavlobu/deskreen](https://github.com/pavlobu/deskreen)
-- **Description:** Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 
 ### [dullage/flatnotes](https://github.com/dullage/flatnotes)
 - **Description:** A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
@@ -1012,7 +973,7 @@
 - **Description:** IPTV m3u8 link test speed
 
 ### [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
-- **Description:** 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
+- **Description:** Open-source file hosting solution based on CloudFlare Pages (Image hosting/File storage/Cloud drive) / 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
 
 ### [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 - **Description:** #1 Locally hosted web application that allows you to perform various operations on PDF files
@@ -1028,9 +989,6 @@
 
 ### [foamzou/melody](https://github.com/foamzou/melody)
 - **Description:** 我的音乐精灵
-
-### [imDema/FreeMove](https://github.com/imDema/FreeMove)
-- **Description:** Move directories without breaking shortcuts or installations
 
 ### [will-moss/isaiah](https://github.com/will-moss/isaiah)
 - **Description:** Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
@@ -1055,9 +1013,6 @@
 
 ### [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 - **Description:** A one stop repository for generative AI research updates, interview resources, notebooks and much more!
-
-### [chenyme/Chenyme-AAVT](https://github.com/chenyme/Chenyme-AAVT)
-- **Description:** 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
 
 ### [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
 - **Description:** Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
@@ -1116,9 +1071,6 @@
 ### [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
 - **Description:** 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 
-### [dmscode/Obsidian-Templates](https://github.com/dmscode/Obsidian-Templates)
-- **Description:** 我在 Obsidian 中用的各种模板（Dataview，Templater，QuickAdd）
-
 ### [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono)
 - **Description:** Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
 
@@ -1155,14 +1107,8 @@
 ### [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 - **Description:** Proxy server to bypass Cloudflare protection
 
-### [Jackett/Jackett](https://github.com/Jackett/Jackett)
-- **Description:** API Support for your favorite torrent trackers
-
 ### [ellite/Wallos](https://github.com/ellite/Wallos)
 - **Description:** Wallos: Open-Source Personal Subscription Tracker
-
-### [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder)
-- **Description:** 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 
 ### [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev)
 - **Description:** IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持连接远程下载器等。
@@ -1172,9 +1118,6 @@
 
 ### [rnchg/Apt](https://github.com/rnchg/Apt)
 - **Description:** AI Productivity Tool - Free and open source, improve user productivity, protect privacy and data security. Provide efficient and convenient AI solutions, built-in local exclusive ChatGPT, Phi, DeepSeek, one-click batch intelligent processing of pictures, videos, audio, etc.
-
-### [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
-- **Description:** Turn your Telegram Channel into a MicroBlog.
 
 ### [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch)
 - **Description:** 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
@@ -1196,9 +1139,6 @@
 
 ### [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
 - **Description:** qBittorrent BitTorrent client
-
-### [shadow1ng/fscan](https://github.com/shadow1ng/fscan)
-- **Description:** 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 
 ### [henrygd/beszel](https://github.com/henrygd/beszel)
 - **Description:** Lightweight server monitoring hub with historical data, docker stats, and alerts.
@@ -1353,9 +1293,6 @@
 ### [M2Team/NanaBox](https://github.com/M2Team/NanaBox)
 - **Description:** The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands
 
-### [zed-industries/zed](https://github.com/zed-industries/zed)
-- **Description:** Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
 ### [ZHKKKe/MODNet](https://github.com/ZHKKKe/MODNet)
 - **Description:** A Trimap-Free Portrait Matting Solution in Real Time [AAAI 2022]
 
@@ -1403,9 +1340,6 @@
 
 ### [ente-io/ente](https://github.com/ente-io/ente)
 - **Description:** ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
-
-### [Pintree-io/pintree](https://github.com/Pintree-io/pintree)
-- **Description:** Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
 
 ### [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz)
 - **Description:** Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
@@ -1460,9 +1394,6 @@
 
 ### [zoriya/Kyoo](https://github.com/zoriya/Kyoo)
 - **Description:** A portable and vast media library solution.
-
-### [openRin/Rin](https://github.com/openRin/Rin)
-- **Description:** ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
 
 ### [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 - **Description:** Remove large amounts of unwanted applications quickly.
@@ -1744,9 +1675,6 @@
 ### [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist)
 - **Description:** AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
 
-### [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
-- **Description:** A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-
 ### [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
 - **Description:** HyperOS enhancement module - Make HyperOS Great Again!
 
@@ -1820,9 +1748,6 @@
 ### [teableio/teable](https://github.com/teableio/teable)
 - **Description:** ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
-### [Eugeny/tabby](https://github.com/Eugeny/tabby)
-- **Description:** A terminal for a more modern age
-
 ### [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles)
 - **Description:** tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 
@@ -1831,9 +1756,6 @@
 
 ### [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 - **Description:** 一键自动化 下载、安装、激活 Office 的利器。
-
-### [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker)
-- **Description:** Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 
 ### [koishijs/koishi](https://github.com/koishijs/koishi)
 - **Description:** Cross-platform chatbot framework made with love
@@ -2057,9 +1979,6 @@
 ### [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
 - **Description:** ✨ A Markdown Editor
 
-### [codemirror/codemirror5](https://github.com/codemirror/codemirror5)
-- **Description:** In-browser code editor (version 5, legacy)
-
 ### [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
 - **Description:** 哔哩哔哩-API收集整理【不断更新中....】
 
@@ -2173,9 +2092,6 @@
 
 ### [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
 - **Description:** Cross-platform, fast, feature-rich, GPU based terminal
-
-### [baskerville/bspwm](https://github.com/baskerville/bspwm)
-- **Description:** A tiling window manager based on binary space partitioning
 
 ### [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro)
 - **Description:** 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
@@ -2354,9 +2270,6 @@
 
 ### [sebanc/brunch](https://github.com/sebanc/brunch)
 - **Description:** Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
-
-### [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
-- **Description:** A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 
 ### [ecomfe/fontmin](https://github.com/ecomfe/fontmin)
 - **Description:** Minify font seamlessly

@@ -777,9 +777,6 @@
 ### [getmaxun/maxun](https://github.com/getmaxun/maxun)
 - **Description:** ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
 
-### [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record)
-- **Description:** A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东) 
-
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
 - **Description:** Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
 
@@ -933,9 +930,6 @@
 ### [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2)
 - **Description:** bilimiao 2.x
 
-### [exaloop/codon](https://github.com/exaloop/codon)
-- **Description:** A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
-
 ### [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator)
 - **Description:** An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
 
@@ -1067,9 +1061,6 @@
 
 ### [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
 - **Description:** 🏞 A lightweight, versatile image viewer
-
-### [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-- **Description:** Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
 ### [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 - **Description:** frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
@@ -1298,9 +1289,6 @@
 
 ### [JerryLinLinLin/Huorong-ATP-Rules](https://github.com/JerryLinLinLin/Huorong-ATP-Rules)
 - **Description:** 一款火绒增强HIPS自定义规则
-
-### [ajnart/homarr](https://github.com/ajnart/homarr)
-- **Description:** Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 
 ### [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 - **Description:** Truly independent web browser
@@ -1735,9 +1723,6 @@
 
 ### [HeyPuter/puter](https://github.com/HeyPuter/puter)
 - **Description:** 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-
-### [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
-- **Description:** 一键自动化 下载、安装、激活 Office 的利器。
 
 ### [koishijs/koishi](https://github.com/koishijs/koishi)
 - **Description:** Cross-platform chatbot framework made with love

@@ -735,9 +735,6 @@
 ### [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
 - **Description:** 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 
-### [sj26/mailcatcher](https://github.com/sj26/mailcatcher)
-- **Description:** Catches mail and serves it through a dream.
-
 ### [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x)
 - **Description:** 2^x Image Super-Resolution
 
@@ -957,9 +954,6 @@
 ### [vyos/vyos-1x](https://github.com/vyos/vyos-1x)
 - **Description:** VyOS command definitions, scripts, and utilities
 
-### [0x2E/fusion](https://github.com/0x2E/fusion)
-- **Description:** A lightweight, self-hosted friendly RSS reader
-
 ### [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 - **Description:** Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 
@@ -971,9 +965,6 @@
 
 ### [xhufo/IPTV_Test_Speed](https://github.com/xhufo/IPTV_Test_Speed)
 - **Description:** IPTV m3u8 link test speed
-
-### [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
-- **Description:** Open-source file hosting solution based on CloudFlare Pages (Image hosting/File storage/Cloud drive) / 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
 
 ### [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 - **Description:** #1 Locally hosted web application that allows you to perform various operations on PDF files
@@ -1413,9 +1404,6 @@
 ### [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
 - **Description:** Open source Loom alternative. Beautiful, shareable screen recordings.
 
-### [linyuxuanlin/Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)
-- **Description:** 一个简单的瀑布流摄影作品展示站，图片储存在免费的 Cloudflare R2
-
 ### [dream-num/univer](https://github.com/dream-num/univer)
 - **Description:** Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
 
@@ -1591,9 +1579,6 @@
 ### [piddnad/DDColor](https://github.com/piddnad/DDColor)
 - **Description:** [ICCV 2023] DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders
 
-### [laurent22/joplin](https://github.com/laurent22/joplin)
-- **Description:** Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-
 ### [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
 - **Description:** ehviewer，用爱发电，快乐前行
 
@@ -1706,9 +1691,6 @@
 
 ### [terrastruct/d2](https://github.com/terrastruct/d2)
 - **Description:** D2 is a modern diagram scripting language that turns text to diagrams.
-
-### [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo)
-- **Description:** Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 
 ### [fumiama/copymanga](https://github.com/fumiama/copymanga)
 - **Description:** 拷贝漫画的第三方APP，仅提供基础功能，更多丰富功能请移步官方版本
@@ -1985,9 +1967,6 @@
 ### [dolotech/ebook](https://github.com/dolotech/ebook)
 - **Description:** 学习资料
 
-### [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1)
-- **Description:** BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
-
 ### [star-history/star-history](https://github.com/star-history/star-history)
 - **Description:** The missing star history graph of GitHub repos - https://star-history.com
 
@@ -2179,9 +2158,6 @@
 
 ### [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
 - **Description:** Display and control your Android device
-
-### [dieulot/instantclick](https://github.com/dieulot/instantclick)
-- **Description:** InstantClick makes following links in your website instant.
 
 ### [siavash79/PixelXpert](https://github.com/siavash79/PixelXpert)
 - **Description:** mixed Xposed+Magisk module for customization of Google Pixel rom of Android 12+

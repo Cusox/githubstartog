@@ -1348,9 +1348,6 @@
 ### [frectonz/sql-studio](https://github.com/frectonz/sql-studio)
 - **Description:** SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
 
-### [huggingface/transformers.js](https://github.com/huggingface/transformers.js)
-- **Description:** State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-
 ### [imsyy/SPlayer](https://github.com/imsyy/SPlayer)
 - **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
@@ -1432,9 +1429,6 @@
 ### [putyy/res-downloader](https://github.com/putyy/res-downloader)
 - **Description:** 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 
-### [john-walks-slow/window-summoner](https://github.com/john-walks-slow/window-summoner)
-- **Description:** 呼来唤去 - 全局老板键
-
 ### [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi)
 - **Description:** A simple third-party Jellyfin client for Linux
 
@@ -1496,9 +1490,6 @@
 
 ### [input-leap/input-leap](https://github.com/input-leap/input-leap)
 - **Description:** Open-source KVM software
-
-### [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-- **Description:** 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 
 ### [YunYouJun/cook](https://github.com/YunYouJun/cook)
 - **Description:** 🍲 好的，今天我们来做菜！OK, Let's Cook!
@@ -1731,9 +1722,6 @@
 ### [teableio/teable](https://github.com/teableio/teable)
 - **Description:** ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
-### [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles)
-- **Description:** tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
-
 ### [HeyPuter/puter](https://github.com/HeyPuter/puter)
 - **Description:** 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 
@@ -1781,9 +1769,6 @@
 
 ### [AChep/keyguard-app](https://github.com/AChep/keyguard-app)
 - **Description:** Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
-
-### [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)
-- **Description:** 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 
 ### [SylarLong/iztro](https://github.com/SylarLong/iztro)
 - **Description:** ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
@@ -1859,12 +1844,6 @@
 
 ### [daeuniverse/daed](https://github.com/daeuniverse/daed)
 - **Description:** daed, a modern dashboard with dae.
-
-### [zdhxiong/mdui](https://github.com/zdhxiong/mdui)
-- **Description:** Material Design 3(Material You) UI components using Web Components.
-
-### [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite)
-- **Description:** Ergonomic bindings to SQLite for Rust
 
 ### [niXman/mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries)
 - **Description:** MinGW-W64 compiler binaries
@@ -1955,9 +1934,6 @@
 
 ### [surgioproject/surgio](https://github.com/surgioproject/surgio)
 - **Description:** Generating rules for Surge, Clash, Quantumult like a PRO
-
-### [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
-- **Description:** ✨ A Markdown Editor
 
 ### [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
 - **Description:** 哔哩哔哩-API收集整理【不断更新中....】

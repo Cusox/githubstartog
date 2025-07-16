@@ -2073,9 +2073,6 @@
 ### [home-assistant/core](https://github.com/home-assistant/core)
 - **Description:** :house_with_garden: Open source home automation that puts local control and privacy first.
 
-### [mamoe/mirai](https://github.com/mamoe/mirai)
-- **Description:** 高效率 QQ 机器人支持库
-
 ### [ngosang/trackerslist](https://github.com/ngosang/trackerslist)
 - **Description:** Updated list of public BitTorrent trackers
 
@@ -2117,9 +2114,6 @@
 
 ### [opensolon/solon](https://github.com/opensolon/solon)
 - **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java24. (Replaceable spring)
-
-### [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs)
-- **Description:** OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
 
 ### [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector)
 - **Description:** A library to detect suspicious apps like Magisk

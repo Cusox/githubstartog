@@ -1,3 +1,12 @@
+### [vvaltchev/tilck](https://github.com/vvaltchev/tilck)
+- **Description:** A Tiny Linux-Compatible Kernel
+
+### [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+- **Description:** A collection of ZSH frameworks, plugins, themes and tutorials.
+
+### [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
+- **Description:** A collection of modern/faster/saner alternatives to common unix commands.
+
 ### [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync)
 - **Description:** 由 Rust & Tokio 驱动的哔哩哔哩同步工具
 
@@ -5,7 +14,7 @@
 - **Description:** An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 ### [moeru-ai/airi](https://github.com/moeru-ai/airi)
-- **Description:** 💖🧸 A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop.
+- **Description:** 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
 ### [zzc10086/TiebaLite](https://github.com/zzc10086/TiebaLite)
 - **Description:** 贴吧 Lite
@@ -301,9 +310,6 @@
 
 ### [astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide)
 - **Description:** Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go
-
-### [atuinsh/atuin](https://github.com/atuinsh/atuin)
-- **Description:** ✨ Magical shell history
 
 ### [umpox/zero-width-detection](https://github.com/umpox/zero-width-detection)
 - **Description:** Invisibly inserting usernames into text with Zero-Width Characters
@@ -704,7 +710,7 @@
 - **Description:** Python tool for converting files and office documents to Markdown.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Explore the ultimate curated list of best root apps,powerful Magisk & LSPosed modules, must-have tools and step-by-step guides — all designed to maximize control, boost performance, and customize your device like never before
+- **Description:** Explore the ultimate curated list of best root apps,powerful Magisk, KernelSU & LSPosed(Xposed) modules, must-have tools and step-by-step rooting guides to control, boost performance, and customize your device 
 
 ### [dendianugerah/reubah](https://github.com/dendianugerah/reubah)
 - **Description:** a web-based tool for processing images and converting documents with a simple interface
@@ -780,9 +786,6 @@
 
 ### [dockur/windows](https://github.com/dockur/windows)
 - **Description:** Windows inside a Docker container.
-
-### [dandavison/delta](https://github.com/dandavison/delta)
-- **Description:** A syntax-highlighting pager for git, diff, grep, and blame output
 
 ### [logto-io/auth-wiki](https://github.com/logto-io/auth-wiki)
 - **Description:** A comprehensive collection of articles, tutorials, and resources about authentication, authorization, and identity management.

@@ -1761,9 +1761,6 @@
 ### [lining808/CS-Ebook](https://github.com/lining808/CS-Ebook)
 - **Description:** 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
 
-### [iancoleman/bip39](https://github.com/iancoleman/bip39)
-- **Description:** A web tool for converting BIP39 mnemonic codes
-
 ### [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
 - **Description:** Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
 
@@ -1793,9 +1790,6 @@
 
 ### [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy)
 - **Description:** 🐀 A link aggregator and forum for the fediverse
-
-### [r0ysue/AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy)
-- **Description:** 安卓应用安全学习
 
 ### [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
 - **Description:** A Material Design Weather Application
@@ -2189,26 +2183,14 @@
 ### [rclone/rclone](https://github.com/rclone/rclone)
 - **Description:** "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
-### [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax)
-- **Description:** pushState + ajax = pjax
-
 ### [tscanlin/tocbot](https://github.com/tscanlin/tocbot)
 - **Description:** Build a table of contents from headings in an HTML document.
 
 ### [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget)
 - **Description:** 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 
-### [metowolf/MetingJS](https://github.com/metowolf/MetingJS)
-- **Description:** :cake: A powerful plugin connect APlayer and Meting
-
-### [DIYgod/APlayer](https://github.com/DIYgod/APlayer)
-- **Description:** :lollipop: Wow, such a beautiful HTML5 music player
-
 ### [badges/shields](https://github.com/badges/shields)
 - **Description:** Concise, consistent, and legible badges in SVG and raster format
-
-### [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing)
-- **Description:** 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
 
 ### [l-lin/font-awesome-animation](https://github.com/l-lin/font-awesome-animation)
 - **Description:** Simple animations using FontAwesome and some CSS3.

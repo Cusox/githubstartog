@@ -1,3 +1,11 @@
+### [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
+- **Description:** PiliPlus
+
+### [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner)
+- **Description:** An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
+
+### [bulletjet786/meta](https://github.com/bulletjet786/meta)
+
 ### [vvaltchev/tilck](https://github.com/vvaltchev/tilck)
 - **Description:** A Tiny Linux-Compatible Kernel
 
@@ -258,7 +266,7 @@
 - **Description:** CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
 
 ### [ynqa/promkit](https://github.com/ynqa/promkit)
-- **Description:** A toolkit for building interactive prompt in Rust
+- **Description:** Make interactive prompt in Rust
 
 ### [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
 - **Description:** PlayStation 4 emulator for Windows, Linux and macOS written in C++
@@ -362,7 +370,7 @@
 - **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 
 ### [yincongcyincong/telegram-deepseek-bot](https://github.com/yincongcyincong/telegram-deepseek-bot)
-- **Description:** 🚀  This Telegram bot delivers context-aware responses by integrating with a variety of powerful LLMs, including OpenAI, Gemini, DeepSeek, and OpenRouter. This multi-model support allows for highly diverse and tailored interactions directly within Telegram.
+- **Description:** AI chatbot that supports both Telegram, Discord, compatible with various LLMs including OpenAI, Gemini, DeepSeek, and OpenRoute. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings—easy to integrate and quick to get started.
 
 ### [NextAlone/Nagram](https://github.com/NextAlone/Nagram)
 - **Description:** The third-party Telegram android app.
@@ -760,7 +768,7 @@
 ### [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
 - **Description:** 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 
-### [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x)
+### [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x)
 - **Description:** 2^x Image Super-Resolution
 
 ### [oracle/bpftune](https://github.com/oracle/bpftune)
@@ -1355,7 +1363,7 @@
 - **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
 ### [ikxin/f5-bench](https://github.com/ikxin/f5-bench)
-- **Description:** 利用 Fetch API 对目标网站进行高频请求，模拟按下 F5 刷新的效果，以测试服务器资源极限，请勿用于非法用途。
+- **Description:** Utilize the Fetch API to send frequent requests to the target website, simulating the effect of pressing F5 to refresh, in order to test the server's resource limits. Please refrain from using this for illegal purposes.
 
 ### [certd/certd](https://github.com/certd/certd)
 - **Description:** 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
@@ -1893,7 +1901,7 @@
 ### [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server)
 - **Description:** A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 
-### [cicada-lang/inet-cute](https://github.com/cicada-lang/inet-cute)
+### [xieyuheng/inet-cute](https://github.com/xieyuheng/inet-cute)
 - **Description:** An implementation of interaction nets in JS.
 
 ### [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
@@ -2205,9 +2213,6 @@
 
 ### [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
 - **Description:** 中文独立博客列表
-
-### [travellings-link/travellings](https://github.com/travellings-link/travellings)
-- **Description:** 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 
 ### [M2Team/NanaZip](https://github.com/M2Team/NanaZip)
 - **Description:** The 7-Zip derivative intended for the modern Windows experience

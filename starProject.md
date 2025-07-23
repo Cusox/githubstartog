@@ -1,3 +1,9 @@
+### [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+- **Description:** B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
+
+### [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management)
+- **Description:** Manage and track your subscriptions and expenses easily.
+
 ### [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
 - **Description:** PiliPlus
 
@@ -384,7 +390,7 @@
 ### [kern/filepizza](https://github.com/kern/filepizza)
 - **Description:** :pizza: Peer-to-peer file transfers in your browser
 
-### [celerforge-dev/freenote](https://github.com/celerforge-dev/freenote)
+### [celerforge/freenote](https://github.com/celerforge/freenote)
 - **Description:** Freenote is an open-source AI journal app with Markdown support. You can freely record your notes, and with AI assistance, easily search and summarize past entries, enhancing creativity capture and management. All data is stored locally on your device, ensuring privacy and security.
 
 ### [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver)
@@ -703,7 +709,7 @@
 - **Description:** C++ 基础, 算法, 数据库,MySQL, ElasticSearch, Redis, 编程四大件, 微服务 , 中间件, ZeroMQ, 部署工具, Docker, k8s, Istio, Linux, , 实践|项目,  开源项目, 个人项目, 读书笔记, 面试题, 优质文章, 博客推荐...
 
 ### [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
-- **Description:** Easily download and manage game cheats for your convenience
+- **Description:** Easily download and manage single-player game cheats for your convenience
 
 ### [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)
 - **Description:** Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
@@ -922,7 +928,7 @@
 - **Description:** code-based qr code designer
 
 ### [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
-- **Description:** Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://vbhub.net
+- **Description:** Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://vbhub.net/?src=github
 
 ### [akazwz/smail](https://github.com/akazwz/smail)
 - **Description:** Temporary email  临时邮箱 Cloudflare email
@@ -2213,6 +2219,9 @@
 
 ### [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
 - **Description:** 中文独立博客列表
+
+### [travellings-link/travellings](https://github.com/travellings-link/travellings)
+- **Description:** 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 
 ### [M2Team/NanaZip](https://github.com/M2Team/NanaZip)
 - **Description:** The 7-Zip derivative intended for the modern Windows experience

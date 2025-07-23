@@ -78,9 +78,6 @@
 ### [microsoft/WSL](https://github.com/microsoft/WSL)
 - **Description:** Windows Subsystem for Linux
 
-### [microsoft/edit](https://github.com/microsoft/edit)
-- **Description:** We all edit.
-
 ### [Lily-404/todo](https://github.com/Lily-404/todo)
 
 ### [operacle/checkcle](https://github.com/operacle/checkcle)
@@ -561,9 +558,6 @@
 
 ### [getwud/wud](https://github.com/getwud/wud)
 - **Description:** Keep your containers up-to-date!
-
-### [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news)
-- **Description:** 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 
 ### [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop)
 - **Description:** 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
@@ -1565,9 +1559,6 @@
 ### [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 - **Description:** Scripts to build a trimmed-down Windows 11 image.
 
-### [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox)
-- **Description:** 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-
 ### [newhinton/disky](https://github.com/newhinton/disky)
 - **Description:** An android filesystem analyzer that can show you the usage of your storage! 
 
@@ -1942,9 +1933,6 @@
 
 ### [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 - **Description:** Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-
-### [surgioproject/surgio](https://github.com/surgioproject/surgio)
-- **Description:** Generating rules for Surge, Clash, Quantumult like a PRO
 
 ### [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
 - **Description:** 哔哩哔哩-API收集整理【不断更新中....】

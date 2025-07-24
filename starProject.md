@@ -1,3 +1,9 @@
+### [containerd/nerdctl](https://github.com/containerd/nerdctl)
+- **Description:** contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+
+### [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor)
+- **Description:** 一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。
+
 ### [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 - **Description:** B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 
@@ -505,9 +511,6 @@
 
 ### [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf)
 - **Description:** SumatraPDF reader
-
-### [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox)
-- **Description:** The official Waterfox 💧 source code repository
 
 ### [allenai/olmocr](https://github.com/allenai/olmocr)
 - **Description:** Toolkit for linearizing PDFs for LLM datasets/training

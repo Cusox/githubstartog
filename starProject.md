@@ -1,3 +1,9 @@
+### [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos)
+- **Description:** 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
+
+### [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
+- **Description:** The free and privacy-friendly screen recorder with no limits 🎥
+
 ### [containerd/nerdctl](https://github.com/containerd/nerdctl)
 - **Description:** contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 
@@ -404,9 +410,6 @@
 
 ### [jqknono/cloudflare-doh](https://github.com/jqknono/cloudflare-doh)
 
-### [langgenius/dify](https://github.com/langgenius/dify)
-- **Description:** Production-ready platform for agentic workflow development.
-
 ### [HuangJian/librime-qjs](https://github.com/HuangJian/librime-qjs)
 - **Description:** Bring a vast JavaScript plugin ecosystem to the Rime Input Method Engine, delivering lightning-fast speed and feather-light performance for a revolutionary input experience!
 
@@ -463,9 +466,6 @@
 
 ### [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
 - **Description:** No fortress, purely open ground.  OpenManus is Coming.
-
-### [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
-- **Description:** RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
 ### [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
 - **Description:** InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
@@ -721,7 +721,7 @@
 - **Description:** Python tool for converting files and office documents to Markdown.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Explore the ultimate curated list of best root apps,powerful Magisk, KernelSU & LSPosed(Xposed) modules, must-have tools and step-by-step rooting guides to control, boost performance, and customize your device 
+- **Description:** Ultimate curated list of best root apps, Magisk, KernelSU & LSPosed(Xposed) modules, must-have tools and step-by-step rooting guides to control, boost performance, and customize your device.
 
 ### [dendianugerah/reubah](https://github.com/dendianugerah/reubah)
 - **Description:** a web-based tool for processing images and converting documents with a simple interface
@@ -845,9 +845,6 @@
 
 ### [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
 - **Description:** The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-
-### [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer)
-- **Description:** Xplorer, a customizable, modern file manager
 
 ### [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh)
 - **Description:** 技术面试最后反问面试官的话
@@ -1139,9 +1136,6 @@
 
 ### [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms)
 - **Description:** dkms module of Linux i915 driver with SR-IOV support
-
-### [arvidn/libtorrent](https://github.com/arvidn/libtorrent)
-- **Description:** an efficient feature complete C++ bittorrent implementation
 
 ### [transmission/transmission](https://github.com/transmission/transmission)
 - **Description:** Official Transmission BitTorrent client repository
@@ -1568,9 +1562,6 @@
 ### [kingwrcy/moments](https://github.com/kingwrcy/moments)
 - **Description:** 极简朋友圈
 
-### [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share)
-- **Description:** A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
-
 ### [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases)
 - **Description:** QuickPic Gallery Mod 
 
@@ -1608,9 +1599,6 @@
 
 ### [mcthesw/game-save-manager](https://github.com/mcthesw/game-save-manager)
 - **Description:** 一个简单的游戏存档管理器
-
-### [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet)
-- **Description:** FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. 
 
 ### [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs)
 - **Description:** VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
@@ -1656,9 +1644,6 @@
 
 ### [coollabsio/coolify](https://github.com/coollabsio/coolify)
 - **Description:** An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-
-### [SubConv/SubConv](https://github.com/SubConv/SubConv)
-- **Description:** Yet Another Subscription Converter for Clash
 
 ### [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist)
 - **Description:** AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes

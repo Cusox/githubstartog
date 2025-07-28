@@ -109,9 +109,6 @@
 
 ### [Lily-404/todo](https://github.com/Lily-404/todo)
 
-### [operacle/checkcle](https://github.com/operacle/checkcle)
-- **Description:** CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.
-
 ### [ginatrapani/life-in-weeks](https://github.com/ginatrapani/life-in-weeks)
 - **Description:** 📍 A map of my life, where each week I've been alive is a little box. 
 
@@ -764,9 +761,6 @@
 ### [qi4L/qscan](https://github.com/qi4L/qscan)
 - **Description:** Lightning-fast internal network scanner
 
-### [zhheo/TimePlus](https://github.com/zhheo/TimePlus)
-- **Description:** 洪墨时光。由Heo维护的Time主题版本，基于Typecho
-
 ### [arkohut/pensieve](https://github.com/arkohut/pensieve)
 - **Description:** A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.
 
@@ -1277,17 +1271,11 @@
 ### [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
 - **Description:** Get Android app updates straight from the source.
 
-### [Taiizor/Sucrose](https://github.com/Taiizor/Sucrose)
-- **Description:** Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
-
 ### [siderolabs/talos](https://github.com/siderolabs/talos)
 - **Description:** Talos Linux is a modern Linux distribution built for Kubernetes.
 
 ### [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi)
 - **Description:** Husi(虎兕) is a non-professional and recreational proxy tool integration for the weird beliefs and free software spirit!
-
-### [nanostudio-org/nanogallery2](https://github.com/nanostudio-org/nanogallery2)
-- **Description:** a modern photo / video gallery and lightbox [JS library]
 
 ### [wgh136/PicaComic](https://github.com/wgh136/PicaComic)
 - **Description:** A comic app built with Flutter, supporting multiple comic sources.
@@ -1539,9 +1527,6 @@
 
 ### [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon)
 - **Description:** Fix the native notification bar icon function abandoned by the MIUI development team.
-
-### [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-- **Description:** Firefly III: a personal finances manager
 
 ### [duzhaokun123/FuckCainiao](https://github.com/duzhaokun123/FuckCainiao)
 - **Description:** 菜鸟界面优化和广告移除

@@ -1,3 +1,20 @@
+### [vivoblueos/kernel](https://github.com/vivoblueos/kernel)
+
+### [senshinya/MoonTV](https://github.com/senshinya/MoonTV)
+- **Description:** 一个开箱即用的、跨平台的影视聚合播放站
+
+### [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)
+- **Description:** Open source neutral style icon system
+
+### [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize)
+- **Description:** 🐒 Normalize browsers' default style
+
+### [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+- **Description:** A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+
+### [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
+- **Description:** 屎山代码检测器，评估代码的”屎山等级“，并输出美观的终端报告。
+
 ### [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos)
 - **Description:** 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
 
@@ -937,7 +954,7 @@
 - **Description:** A tool for exporting Telegram group chats into static websites like mailing list archives.
 
 ### [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
-- **Description:** 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
+- **Description:** 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 
 ### [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
 - **Description:** High-speed Large Language Model Serving for Local Deployment
@@ -1121,9 +1138,6 @@
 
 ### [ellite/Wallos](https://github.com/ellite/Wallos)
 - **Description:** Wallos: Open-Source Personal Subscription Tracker
-
-### [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev)
-- **Description:** IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持连接远程下载器等。
 
 ### [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 - **Description:** Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。

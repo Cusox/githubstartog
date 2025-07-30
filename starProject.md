@@ -1,3 +1,17 @@
+### [deskflow/deskflow](https://github.com/deskflow/deskflow)
+- **Description:** Share a single keyboard and mouse between multiple computers.
+
+### [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume)
+- **Description:** Resumes as code in YAML, brought to you with ❤️ by PPResume.
+
+### [multikernel/kernelscript](https://github.com/multikernel/kernelscript)
+- **Description:** KernelScript is a modern, type-safe, domain-specific programming language for eBPF-Centric kernel customization
+
+### [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
+
+### [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
+- **Description:** 众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。
+
 ### [y-young/nazurin](https://github.com/y-young/nazurin)
 - **Description:** 🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illustrations.
 
@@ -549,9 +563,6 @@
 
 ### [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)
 - **Description:** DataBackup for Android 7.0+
-
-### [debauchee/barrier](https://github.com/debauchee/barrier)
-- **Description:** Open-source KVM software
 
 ### [Mran/githubstartog](https://github.com/Mran/githubstartog)
 - **Description:** 将你的星标项目做成前端页面

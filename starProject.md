@@ -1,3 +1,9 @@
+### [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler)
+- **Description:** PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
+
+### [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
+- **Description:** Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+
 ### [deskflow/deskflow](https://github.com/deskflow/deskflow)
 - **Description:** Share a single keyboard and mouse between multiple computers.
 
@@ -1083,9 +1089,6 @@
 
 ### [wasi-master/13ft](https://github.com/wasi-master/13ft)
 - **Description:** My own custom 12ft.io replacement
-
-### [gxr404/yuque-dl](https://github.com/gxr404/yuque-dl)
-- **Description:** yuque 语雀知识库下载
 
 ### [guobao2333/DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless)
 - **Description:** DeepL Free API for Serverless

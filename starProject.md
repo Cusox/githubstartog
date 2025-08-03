@@ -1,3 +1,27 @@
+### [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat)
+- **Description:** rules-dat for mihomo
+
+### [caddyserver/caddy](https://github.com/caddyserver/caddy)
+- **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+### [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk)
+- **Description:** Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
+
+### [xishang0128/sparkle](https://github.com/xishang0128/sparkle)
+- **Description:** :electron: Another Mihomo GUI. (🛠building...)
+
+### [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper)
+- **Description:** 一个用来记录武汉大学杨景媛论文问题的仓库
+
+### [scavin/Win11Debloat](https://github.com/scavin/Win11Debloat)
+- **Description:** A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+
+### [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator)
+- **Description:** 视觉小说翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator, support HOOK / OCR / Clipboard
+
+### [PrelinaMontelli/Edge-Monitor](https://github.com/PrelinaMontelli/Edge-Monitor)
+- **Description:** 一个监控并弄死异常Edge的程序
+
 ### [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler)
 - **Description:** PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
 
@@ -15,9 +39,6 @@
 
 ### [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
 
-### [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
-- **Description:** 众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。
-
 ### [y-young/nazurin](https://github.com/y-young/nazurin)
 - **Description:** 🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illustrations.
 
@@ -27,7 +48,7 @@
 ### [vivoblueos/kernel](https://github.com/vivoblueos/kernel)
 
 ### [senshinya/MoonTV](https://github.com/senshinya/MoonTV)
-- **Description:** 一个开箱即用的、跨平台的影视聚合播放站
+- **Description:** 一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/+K8GaaVx-xrc0YmVk
 
 ### [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)
 - **Description:** Open source neutral style icon system
@@ -208,7 +229,7 @@
 - **Description:** An alternative Windows context menu, and more.
 
 ### [metorial/mcp-containers](https://github.com/metorial/mcp-containers)
-- **Description:** Containerized versions of hundreds of MCP servers 📡 🧠
+- **Description:** Metorial MCP Containers - Containerized versions of hundreds of MCP servers 📡 🧠
 
 ### [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)
 - **Description:** 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
@@ -448,8 +469,6 @@
 ### [levywang/avhub](https://github.com/levywang/avhub)
 - **Description:** R18 Resource Search & Management Tool
 
-### [jqknono/cloudflare-doh](https://github.com/jqknono/cloudflare-doh)
-
 ### [HuangJian/librime-qjs](https://github.com/HuangJian/librime-qjs)
 - **Description:** Bring a vast JavaScript plugin ecosystem to the Rime Input Method Engine, delivering lightning-fast speed and feather-light performance for a revolutionary input experience!
 
@@ -580,7 +599,7 @@
 - **Description:** A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ### [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
-- **Description:** FlashMLA: Efficient MLA decoding kernels
+- **Description:** FlashMLA: Efficient MLA kernels
 
 ### [SteamAutoCracks/Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack)
 - **Description:** Steam Game Automatic Cracker
@@ -847,9 +866,6 @@
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
 - **Description:** Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
 
-### [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
-- **Description:** Utility to convert between various subscription format
-
 ### [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download)
 - **Description:** 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top    http://www.722shop.top:6401
 
@@ -982,9 +998,6 @@
 ### [dullage/flatnotes](https://github.com/dullage/flatnotes)
 - **Description:** A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 
-### [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China)
-- **Description:** 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
-
 ### [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick)
 - **Description:** Bare metal to production ready in mins; your own fly server on your VPS.
 
@@ -1048,9 +1061,6 @@
 ### [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 - **Description:** ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 
-### [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker)
-- **Description:** 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
-
 ### [navidrome/navidrome](https://github.com/navidrome/navidrome)
 - **Description:** 🎧☁️ Your Personal Streaming Service
 
@@ -1105,9 +1115,6 @@
 ### [Blinue/Magpie](https://github.com/Blinue/Magpie)
 - **Description:** An all-purpose window upscaler for Windows 10/11.
 
-### [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party)
-- **Description:** :electron: Another Mihomo GUI. 
-
 ### [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi)
 - **Description:** 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
 
@@ -1153,7 +1160,7 @@
 ### [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 - **Description:** Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
 
-### [rnchg/Apt](https://github.com/rnchg/Apt)
+### [rnchg/APT](https://github.com/rnchg/APT)
 - **Description:** AI Productivity Tool - Free and open source, improve user productivity, and protect privacy and data security. Including but not limited to: built-in local exclusive ChatGPT, DeepSeek, Phi, Qwen and other models, one-click batch intelligent processing of pictures, videos, audio, etc.
 
 ### [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch)
@@ -1551,9 +1558,6 @@
 ### [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
 - **Description:** 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
-### [zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng)
-- **Description:** chinadns 重构增强版，支持域名分流、ipset/nftset、UDP/TCP/DoT
-
 ### [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu)
 - **Description:** Manga reader for Android
 
@@ -1624,9 +1628,6 @@
 
 ### [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
 - **Description:** ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-### [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)
-- **Description:** A GUI program developed by vue3 + wails.
 
 ### [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)
 - **Description:** A cross-platform, reimplementation of Notepad++
@@ -1803,17 +1804,11 @@
 ### [haiwen/seafile](https://github.com/haiwen/seafile)
 - **Description:** High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 
-### [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-- **Description:** A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
 ### [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - **Description:** Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ### [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 - **Description:** 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
-
-### [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)
-- **Description:** 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
 
 ### [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
 - **Description:** Network-wide ads & trackers blocking DNS server
@@ -1880,9 +1875,6 @@
 
 ### [whyour/qinglong](https://github.com/whyour/qinglong)
 - **Description:** 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-### [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
-- **Description:** The one and only one gfwlist here
 
 ### [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12)
 - **Description:** Windows 12 网页版，在线体验 点击下面的链接在线体验

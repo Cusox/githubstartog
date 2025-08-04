@@ -1,3 +1,15 @@
+### [itorr/china-ex](https://github.com/itorr/china-ex)
+- **Description:** 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
+
+### [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice)
+- **Description:** 简历警察 🕵️‍♂️ 疯狂逮捕
+
+### [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB)
+- **Description:** Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+
+### [RohitKushvaha01/TaskManager](https://github.com/RohitKushvaha01/TaskManager)
+- **Description:** A Task Manager for android
+
 ### [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat)
 - **Description:** rules-dat for mihomo
 
@@ -48,7 +60,7 @@
 ### [vivoblueos/kernel](https://github.com/vivoblueos/kernel)
 
 ### [senshinya/MoonTV](https://github.com/senshinya/MoonTV)
-- **Description:** 一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/+K8GaaVx-xrc0YmVk
+- **Description:** 一个开箱即用的、跨平台的影视聚合播放站
 
 ### [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)
 - **Description:** Open source neutral style icon system
@@ -61,9 +73,6 @@
 
 ### [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
 - **Description:** 屎山代码检测器，评估代码的”屎山等级“，并输出美观的终端报告。
-
-### [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos)
-- **Description:** 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
 
 ### [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
 - **Description:** The free and privacy-friendly screen recorder with no limits 🎥
@@ -1374,7 +1383,7 @@
 - **Description:** 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 
 ### [frectonz/sql-studio](https://github.com/frectonz/sql-studio)
-- **Description:** SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
+- **Description:** SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
 
 ### [imsyy/SPlayer](https://github.com/imsyy/SPlayer)
 - **Description:** 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player

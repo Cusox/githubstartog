@@ -568,9 +568,6 @@
 ### [woniu9524/CodeAsk](https://github.com/woniu9524/CodeAsk)
 - **Description:** This is an LLM-based code reader.
 
-### [ferronweb/ferron](https://github.com/ferronweb/ferron)
-- **Description:** A fast, memory-safe web server written in Rust.
-
 ### [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
 - **Description:** Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
@@ -719,17 +716,11 @@
 ### [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)
 - **Description:** Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
 
-### [bent2685/transok-wails](https://github.com/bent2685/transok-wails)
-- **Description:** An efficient LAN file sharing tool
-
 ### [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search)
 - **Description:** Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
 
 ### [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
 - **Description:** Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
-
-### [chclt/oh-my-wechat](https://github.com/chclt/oh-my-wechat)
-- **Description:** 微信备份与数据报告
 
 ### [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
 - **Description:** The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
@@ -1049,9 +1040,6 @@
 ### [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - **Description:** A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-### [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod)
-- **Description:** My changes to LSPosed
-
 ### [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 - **Description:** 中国程序员容易发音错误的单词
 
@@ -1114,9 +1102,6 @@
 
 ### [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon)
 - **Description:** Better modification of the official Mastodon for Android app
-
-### [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
-- **Description:** get things from one computer to another, safely
 
 ### [Blinue/Magpie](https://github.com/Blinue/Magpie)
 - **Description:** An all-purpose window upscaler for Windows 10/11.
@@ -1273,9 +1258,6 @@
 
 ### [Predidit/oneAnime](https://github.com/Predidit/oneAnime)
 - **Description:** 一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。
-
-### [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
-- **Description:** GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 
 ### [mayneyao/eidos](https://github.com/mayneyao/eidos)
 - **Description:** An extensible framework for Personal Data Management.
@@ -1522,9 +1504,6 @@
 ### [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop)
 - **Description:** Drop any files to any devices on your LAN.
 
-### [input-leap/input-leap](https://github.com/input-leap/input-leap)
-- **Description:** Open-source KVM software
-
 ### [YunYouJun/cook](https://github.com/YunYouJun/cook)
 - **Description:** 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
@@ -1557,9 +1536,6 @@
 
 ### [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)
 - **Description:** Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
-
-### [huggingface/chat-ui](https://github.com/huggingface/chat-ui)
-- **Description:** Open source codebase powering the HuggingChat app
 
 ### [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
 - **Description:** 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -1917,9 +1893,6 @@
 
 ### [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader)
 - **Description:** A cross platform desktop reading app, based on the Readium Desktop toolkit
-
-### [dtysky/Awaken](https://github.com/dtysky/Awaken)
-- **Description:** 一个基于WebDAV的全平台EPUB阅读器，支持笔记、进度、书签同步，支持Kindle笔记导入。
 
 ### [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 - **Description:** Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).

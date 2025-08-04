@@ -821,9 +821,6 @@
 ### [iDvel/rime-ice](https://github.com/iDvel/rime-ice)
 - **Description:** Rime 配置：雾凇拼音 | 长期维护的简体词库
 
-### [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
-- **Description:** This is a repo with links to everything you'd ever want to learn about data engineering
-
 ### [leaningtech/webvm](https://github.com/leaningtech/webvm)
 - **Description:** Virtual Machine for the Web
 
@@ -1723,9 +1720,6 @@
 
 ### [SuxueCode/WechatBakTool](https://github.com/SuxueCode/WechatBakTool)
 - **Description:** 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
-
-### [Chilfish/Weibo-archiver](https://github.com/Chilfish/Weibo-archiver)
-- **Description:** 将微博导出备份的油猴脚本，为号被完全夹没前未雨绸缪 😭
 
 ### [xai-org/grok-1](https://github.com/xai-org/grok-1)
 - **Description:** Grok open release

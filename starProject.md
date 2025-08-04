@@ -1316,9 +1316,6 @@
 ### [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate)
 - **Description:** A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 
-### [metowolf/Meting](https://github.com/metowolf/Meting)
-- **Description:** :cake: Wow, such a powerful music API framework
-
 ### [JerryLinLinLin/Huorong-ATP-Rules](https://github.com/JerryLinLinLin/Huorong-ATP-Rules)
 - **Description:** 一款火绒增强HIPS自定义规则
 
@@ -1555,9 +1552,6 @@
 ### [newhinton/disky](https://github.com/newhinton/disky)
 - **Description:** An android filesystem analyzer that can show you the usage of your storage! 
 
-### [kingwrcy/moments](https://github.com/kingwrcy/moments)
-- **Description:** 极简朋友圈
-
 ### [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases)
 - **Description:** QuickPic Gallery Mod 
 
@@ -1628,9 +1622,6 @@
 
 ### [menloresearch/jan](https://github.com/menloresearch/jan)
 - **Description:** Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-
-### [sigoden/proxyfor](https://github.com/sigoden/proxyfor)
-- **Description:** A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
 
 ### [Simple-Tracker/qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker)
 - **Description:** 一款适用于 qBittorrent/Transmission (Beta)/BitComet (Beta, Partial) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷等客户端.  A client blocker compatible with qBittorrent/Transmission (Beta)/BitComet (Beta, Partial) which is prohibited to include but not limited to clients such as Xunlei.

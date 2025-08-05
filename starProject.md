@@ -1,3 +1,8 @@
+### [fpgmaas/deptry](https://github.com/fpgmaas/deptry)
+- **Description:** Find unused, missing and transitive dependencies in a Python project.
+
+### [zaksabeast/PokeReader](https://github.com/zaksabeast/PokeReader)
+
 ### [itorr/china-ex](https://github.com/itorr/china-ex)
 - **Description:** 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
 

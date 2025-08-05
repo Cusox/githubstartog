@@ -1,3 +1,6 @@
+### [XIU2/UserScript](https://github.com/XIU2/UserScript)
+- **Description:** 🐵 自用的一些乱七八糟 油猴脚本~ 
+
 ### [hooke007/MPV_lazy](https://github.com/hooke007/MPV_lazy)
 - **Description:** 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
 
@@ -170,9 +173,6 @@
 
 ### [lieren2023/noname-for-dummies](https://github.com/lieren2023/noname-for-dummies)
 - **Description:** 无名杀懒人包（棘手怀念摧毁）
-
-### [microsoft/WSL](https://github.com/microsoft/WSL)
-- **Description:** Windows Subsystem for Linux
 
 ### [Lily-404/todo](https://github.com/Lily-404/todo)
 
@@ -433,9 +433,6 @@
 ### [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d)
 - **Description:** A super simple tool to convert your SVG's to 3D models.
 
-### [bknd-io/bknd](https://github.com/bknd-io/bknd)
-- **Description:** Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
-
 ### [Overv/vramfs](https://github.com/Overv/vramfs)
 - **Description:** VRAM based file system for Linux
 
@@ -450,14 +447,8 @@
 ### [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud)
 - **Description:** ☁️ OxiCloud server, efficient and secure way to save all your data
 
-### [Dr-Ai-0018/Siliconflow-API-Management](https://github.com/Dr-Ai-0018/Siliconflow-API-Management)
-- **Description:** 一个功能强大的API Key管理平台，不仅通过智能负载均衡算法自动选择可用API密钥，而且提供密钥有效性检测、管理、权限分享等功能实现。系统设计基于Cloudflare Worker脚本，部署简单，同时提供强大的可视化管理工具与全面的数据分析功能。
-
 ### [StarFleetCPTN/GoMFT](https://github.com/StarFleetCPTN/GoMFT)
 - **Description:** Go Managed File Transfer
-
-### [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn)
-- **Description:** HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 
 ### [bansal/folder](https://github.com/bansal/folder)
 - **Description:** Folder – An open-source Google Drive alternative
@@ -570,9 +561,6 @@
 ### [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc)
 - **Description:** redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 
-### [yaoyhu/anki_packager](https://github.com/yaoyhu/anki_packager)
-- **Description:** An intelligent, automatic Anki flashcard generator.
-
 ### [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
 - **Description:** A tool for recompiling Xbox 360 games to native executables.
 
@@ -594,9 +582,6 @@
 ### [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player)
 - **Description:** 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.
 
-### [alienlu/iptv](https://github.com/alienlu/iptv)
-- **Description:** 每日更新的可用iptv源
-
 ### [iffse/pay-respects](https://github.com/iffse/pay-respects)
 - **Description:** Command suggestions, command-not-found and thefuck replacement written in Rust
 
@@ -614,9 +599,6 @@
 
 ### [vllm-project/vllm](https://github.com/vllm-project/vllm)
 - **Description:** A high-throughput and memory-efficient inference and serving engine for LLMs
-
-### [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
-- **Description:** FlashMLA: Efficient MLA kernels
 
 ### [SteamAutoCracks/Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack)
 - **Description:** Steam Game Automatic Cracker
@@ -823,9 +805,6 @@
 ### [leaningtech/webvm](https://github.com/leaningtech/webvm)
 - **Description:** Virtual Machine for the Web
 
-### [jiawesoft/jiascheduler](https://github.com/jiawesoft/jiascheduler)
-- **Description:** A high-performance, scalable, dynamically configured job scheduler developed with rust
-
 ### [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
 - **Description:** 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 
@@ -888,9 +867,6 @@
 
 ### [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine)
 - **Description:** A text search engine that supports mixed Chinese and English fuzzy search.
-
-### [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-- **Description:** :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 
 ### [apades/dmMiniPlayer](https://github.com/apades/dmMiniPlayer)
 - **Description:** Enhanced picture in picture video player, support subtitle, danmaku etc web extension. 增强版画中画播放器，可以播放、发送弹幕，支持字幕，键盘控制进度等功能的浏览器插件
@@ -1116,9 +1092,6 @@
 
 ### [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi)
 - **Description:** 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
-
-### [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
-- **Description:** 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 
 ### [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono)
 - **Description:** Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
@@ -1675,9 +1648,6 @@
 ### [fumiama/copymanga](https://github.com/fumiama/copymanga)
 - **Description:** 拷贝漫画的第三方APP，仅提供基础功能，更多丰富功能请移步官方版本
 
-### [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)
-- **Description:** PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
-
 ### [daeuniverse/dae](https://github.com/daeuniverse/dae)
 - **Description:** eBPF-based Linux high-performance transparent proxy solution.
 
@@ -1934,9 +1904,6 @@
 
 ### [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 - **Description:** 🖥 📊 🕹 🛠 A curated list of command line apps
-
-### [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
-- **Description:** A list of learning materials to understand databases internals
 
 ### [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)
 - **Description:** A command-line installer for Windows.

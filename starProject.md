@@ -1,3 +1,9 @@
+### [hooke007/MPV_lazy](https://github.com/hooke007/MPV_lazy)
+- **Description:** 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
+
+### [mpv-player/mpv](https://github.com/mpv-player/mpv)
+- **Description:** 🎥 Command line media player
+
 ### [fpgmaas/deptry](https://github.com/fpgmaas/deptry)
 - **Description:** Find unused, missing and transitive dependencies in a Python project.
 
@@ -617,9 +623,6 @@
 
 ### [zhiyiYo/Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8)
 - **Description:** A cross-platform m3u8/mpd downloader based on PySide6 and QFluentWidgets.
-
-### [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index)
-- **Description:** Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 
 ### [FongMi/Release](https://github.com/FongMi/Release)
 

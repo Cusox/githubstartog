@@ -1,3 +1,9 @@
+### [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)
+- **Description:** WebUI extension for ControlNet
+
+### [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- **Description:** Stable Diffusion web UI
+
 ### [XIU2/UserScript](https://github.com/XIU2/UserScript)
 - **Description:** 🐵 自用的一些乱七八糟 油猴脚本~ 
 
@@ -95,7 +101,7 @@
 - **Description:** contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 
 ### [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor)
-- **Description:** 一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。
+- **Description:** 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
 
 ### [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 - **Description:** B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
@@ -305,14 +311,8 @@
 ### [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy)
 - **Description:**  A docker registry proxy run on cloudflare worker.
 
-### [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
-- **Description:** Let us control diffusion models!
-
 ### [tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
 - **Description:** The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt. 
-
-### [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-- **Description:** A latent text-to-image diffusion model
 
 ### [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
 - **Description:** Third-party native Jellyfin Android app
@@ -687,7 +687,7 @@
 - **Description:** Easy to use reverse proxy with docker integration
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
-- **Description:** Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- **Description:** Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
 ### [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm)
 - **Description:** Virtual DSM in a Docker container.
@@ -901,9 +901,6 @@
 ### [getomni-ai/zerox](https://github.com/getomni-ai/zerox)
 - **Description:** OCR & Document Extraction using vision models
 
-### [Nutlope/blinkshot](https://github.com/Nutlope/blinkshot)
-- **Description:** A realtime AI image generator
-
 ### [9001/copyparty](https://github.com/9001/copyparty)
 - **Description:** Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 
@@ -1041,9 +1038,6 @@
 
 ### [navidrome/navidrome](https://github.com/navidrome/navidrome)
 - **Description:** 🎧☁️ Your Personal Streaming Service
-
-### [miniflux/v2](https://github.com/miniflux/v2)
-- **Description:** Minimalist and opinionated feed reader
 
 ### [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 - **Description:** The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -1201,9 +1195,6 @@
 ### [civitai/civitai](https://github.com/civitai/civitai)
 - **Description:** A repository of models, textual inversions, and more
 
-### [microsoft/LoRA](https://github.com/microsoft/LoRA)
-- **Description:** Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
-
 ### [nicolargo/glances](https://github.com/nicolargo/glances)
 - **Description:** Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 
@@ -1230,9 +1221,6 @@
 
 ### [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder)
 - **Description:** 录播姬 | mikufans 生放送录制
-
-### [containrrr/watchtower](https://github.com/containrrr/watchtower)
-- **Description:** A process for automating Docker container base image updates. 
 
 ### [open-ani/animeko](https://github.com/open-ani/animeko)
 - **Description:** 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
@@ -1389,9 +1377,6 @@
 
 ### [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
 - **Description:** HandBrake's main development repository 
-
-### [joye61/pic-smaller](https://github.com/joye61/pic-smaller)
-- **Description:** Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently
 
 ### [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
 - **Description:** Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -1838,9 +1823,6 @@
 
 ### [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 - **Description:** 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-### [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC)
-- **Description:** Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 
 ### [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 - **Description:** Documentation that simply works

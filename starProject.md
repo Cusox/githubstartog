@@ -1,3 +1,59 @@
+### [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+- **Description:** Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+
+### [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
+- **Description:** A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+
+### [YifePlayte/SteamGuardDump](https://github.com/YifePlayte/SteamGuardDump)
+- **Description:** Dump your SteamGuard data into your clipboard.
+
+### [venera-app/venera](https://github.com/venera-app/venera)
+- **Description:** A comic app
+
+### [RikkaApps/Sui](https://github.com/RikkaApps/Sui)
+- **Description:** Modern super user interface implementation on Android.
+
+### [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing)
+- **Description:** Magisk and KernelSU modules for  Clash/mihomo services.
+
+### [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
+- **Description:** Fix Play Integrity <A13 verdicts, allowing custom fields and props
+
+### [KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List)
+- **Description:** A KSU WebUI to configure Tricky Store target.txt
+
+### [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore)
+
+### [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
+- **Description:** Transparent implementation of Zygisk.
+
+### [1250422131/bilibilias](https://github.com/1250422131/bilibilias)
+- **Description:** 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
+
+### [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve)
+- **Description:** A collection of awesome Proxmox VE documentation, tools, api, blogs, site
+
+### [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)
+- **Description:** A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
+
+### [nextcloud/server](https://github.com/nextcloud/server)
+- **Description:** ☁️ Nextcloud server, a safe home for all your data
+
+### [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)
+- **Description:** 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+
+### [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
+- **Description:**  State-of-the-art TTS model under 25MB 😻 
+
+### [CelestialRipple/Gamer](https://github.com/CelestialRipple/Gamer)
+- **Description:** A simple personal website built with Next.js featuring a video game theme.
+
+### [Vonng/ddia](https://github.com/Vonng/ddia)
+- **Description:** 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
+
+### [freeany/LocalSqueeze](https://github.com/freeany/LocalSqueeze)
+- **Description:** 一款可以压缩图片的桌面端应用(图片压缩工具)，只在本地运行。安全、快速、高质量。
+
 ### [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)
 - **Description:** WebUI extension for ControlNet
 
@@ -35,9 +91,6 @@
 
 ### [caddyserver/caddy](https://github.com/caddyserver/caddy)
 - **Description:** Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-
-### [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk)
-- **Description:** Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
 
 ### [xishang0128/sparkle](https://github.com/xishang0128/sparkle)
 - **Description:** :electron: Another Mihomo GUI. (🛠building...)
@@ -79,7 +132,7 @@
 
 ### [vivoblueos/kernel](https://github.com/vivoblueos/kernel)
 
-### [senshinya/MoonTV](https://github.com/senshinya/MoonTV)
+### [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV)
 - **Description:** 一个开箱即用的、跨平台的影视聚合播放站
 
 ### [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)
@@ -134,9 +187,6 @@
 
 ### [moeru-ai/airi](https://github.com/moeru-ai/airi)
 - **Description:** 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-
-### [zzc10086/TiebaLite](https://github.com/zzc10086/TiebaLite)
-- **Description:** 贴吧 Lite
 
 ### [HacksawBlade/Tieba-Remix](https://github.com/HacksawBlade/Tieba-Remix)
 - **Description:** 贴吧网页端重塑
@@ -314,9 +364,6 @@
 ### [tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
 - **Description:** The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt. 
 
-### [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid)
-- **Description:** Third-party native Jellyfin Android app
-
 ### [rommapp/romm](https://github.com/rommapp/romm)
 - **Description:** A beautiful, powerful, self-hosted rom manager and player.
 
@@ -372,9 +419,6 @@
 
 ### [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste)
 - **Description:** A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3 aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
-
-### [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
-- **Description:** Iceraven Browser
 
 ### [MemeMeow-Studio/MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow)
 - **Description:** 智能检索张维为表情包
@@ -456,8 +500,8 @@
 ### [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder)
 - **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 
-### [yincongcyincong/telegram-deepseek-bot](https://github.com/yincongcyincong/telegram-deepseek-bot)
-- **Description:** AI chatbot that supports both Telegram, Discord, compatible with various LLMs including OpenAI, Gemini, DeepSeek, and OpenRoute. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings—easy to integrate and quick to get started.
+### [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot)
+- **Description:** AI chatbot that supports both Telegram, Discord, Slack, Lark, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings—easy to integrate and quick to get started.
 
 ### [NextAlone/Nagram](https://github.com/NextAlone/Nagram)
 - **Description:** The third-party Telegram android app.
@@ -502,7 +546,7 @@
 - **Description:** The finest Windows Optimizer
 
 ### [codexu/note-gen](https://github.com/codexu/note-gen)
-- **Description:** A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- **Description:** A cross-platform Markdown AI note-taking software.
 
 ### [Versoft-Software/Free95](https://github.com/Versoft-Software/Free95)
 - **Description:** Free95 is an open-source windows-compatible operating system.
@@ -821,7 +865,7 @@
 - **Description:** Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 
 ### [misaka10843/copymanga-downloader](https://github.com/misaka10843/copymanga-downloader)
-- **Description:** 使用python+copymanga API来下载copymanga(拷贝漫画)中的漫画，支持批量+选话下载和获取您收藏的漫画并下载及半自动获取订阅下载！(全平台支持(pypi)) Nas版本请查看copymanga-nasdownloader
+- **Description:** 使用python+copymanga API来下载copymanga(拷贝漫画)中的漫画(无速率限制)，支持批量+选话下载和获取您收藏的漫画并下载及半自动获取订阅下载！(全平台支持(pypi)) Nas版本请查看copymanga-nasdownloader
 
 ### [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer)
 - **Description:** Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
@@ -866,7 +910,7 @@
 - **Description:** PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 ### [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine)
-- **Description:** A text search engine that supports mixed Chinese and English fuzzy search.
+- **Description:** A text search engine that supports mixed Chinese and English fuzzy search.支持中(拼音)英文混合模糊搜索的算法
 
 ### [apades/dmMiniPlayer](https://github.com/apades/dmMiniPlayer)
 - **Description:** Enhanced picture in picture video player, support subtitle, danmaku etc web extension. 增强版画中画播放器，可以播放、发送弹幕，支持字幕，键盘控制进度等功能的浏览器插件
@@ -1066,9 +1110,6 @@
 ### [Nigh/subtitle-ass-shifter](https://github.com/Nigh/subtitle-ass-shifter)
 - **Description:** Shift ASS format Subtitle
 
-### [polodarb/GMS-Flags](https://github.com/polodarb/GMS-Flags)
-- **Description:** GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications
-
 ### [wasi-master/13ft](https://github.com/wasi-master/13ft)
 - **Description:** My own custom 12ft.io replacement
 
@@ -1082,7 +1123,7 @@
 - **Description:** Better modification of the official Mastodon for Android app
 
 ### [Blinue/Magpie](https://github.com/Blinue/Magpie)
-- **Description:** An all-purpose window upscaler for Windows 10/11.
+- **Description:** A general-purpose window upscaler for Windows 10/11.
 
 ### [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi)
 - **Description:** 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
@@ -1216,9 +1257,6 @@
 ### [cyphar/paperback](https://github.com/cyphar/paperback)
 - **Description:** Paper backup generator suitable for long-term storage.
 
-### [Predidit/Kazumi](https://github.com/Predidit/Kazumi)
-- **Description:** 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
-
 ### [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder)
 - **Description:** 录播姬 | mikufans 生放送录制
 
@@ -1251,9 +1289,6 @@
 
 ### [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi)
 - **Description:** Husi(虎兕) is a non-professional and recreational proxy tool integration for the weird beliefs and free software spirit!
-
-### [wgh136/PicaComic](https://github.com/wgh136/PicaComic)
-- **Description:** A comic app built with Flutter, supporting multiple comic sources.
 
 ### [zotero/zotero](https://github.com/zotero/zotero)
 - **Description:** Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
@@ -1461,12 +1496,6 @@
 ### [x0b/rcx](https://github.com/x0b/rcx)
 - **Description:** Rclone for Android
 
-### [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
-- **Description:** A libre lightweight streaming front-end for Android.
-
-### [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop)
-- **Description:** Drop any files to any devices on your LAN.
-
 ### [YunYouJun/cook](https://github.com/YunYouJun/cook)
 - **Description:** 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
@@ -1515,12 +1544,6 @@
 ### [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 - **Description:** Scripts to build a trimmed-down Windows 11 image.
 
-### [newhinton/disky](https://github.com/newhinton/disky)
-- **Description:** An android filesystem analyzer that can show you the usage of your storage! 
-
-### [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases)
-- **Description:** QuickPic Gallery Mod 
-
 ### [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist)
 - **Description:** An Xposed module to intercept applist detections
 
@@ -1528,9 +1551,6 @@
 
 ### [piddnad/DDColor](https://github.com/piddnad/DDColor)
 - **Description:** [ICCV 2023] DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders
-
-### [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
-- **Description:** ehviewer，用爱发电，快乐前行
 
 ### [stashapp/stash](https://github.com/stashapp/stash)
 - **Description:** An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
@@ -1629,9 +1649,6 @@
 
 ### [terrastruct/d2](https://github.com/terrastruct/d2)
 - **Description:** D2 is a modern diagram scripting language that turns text to diagrams.
-
-### [fumiama/copymanga](https://github.com/fumiama/copymanga)
-- **Description:** 拷贝漫画的第三方APP，仅提供基础功能，更多丰富功能请移步官方版本
 
 ### [daeuniverse/dae](https://github.com/daeuniverse/dae)
 - **Description:** eBPF-based Linux high-performance transparent proxy solution.
@@ -1733,9 +1750,6 @@
 
 ### [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr)
 - **Description:** 一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。
-
-### [haiwen/seafile](https://github.com/haiwen/seafile)
-- **Description:** High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 
 ### [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - **Description:** Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.

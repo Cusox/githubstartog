@@ -1,3 +1,9 @@
+### [AnsonZnl/interview-nav](https://github.com/AnsonZnl/interview-nav)
+- **Description:** 面试网站导航，收集 IT 行业各个岗位的优质面试题网站、简历编写指南。
+
+### [hellodigua/emoji](https://github.com/hellodigua/emoji)
+- **Description:** 各大平台常见表情包收录
+
 ### [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 - **Description:** Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 

@@ -963,9 +963,6 @@
 ### [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead)
 - **Description:** the website blocklist I am maintaining
 
-### [TooonyChen/AuthInbox](https://github.com/TooonyChen/AuthInbox)
-- **Description:** Auth Inbox 📬 is a self-hosted, open-source platform for receiving multiple email verification codes and real-time notifications, built using Cloudflare's free services. | Auth Inbox 📬 是一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。
-
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 - **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
@@ -1511,9 +1508,6 @@
 ### [mihonapp/mihon](https://github.com/mihonapp/mihon)
 - **Description:** Free and open source manga reader for Android
 
-### [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
-- **Description:** Free and open source manga reader for Android
-
 ### [feschber/lan-mouse](https://github.com/feschber/lan-mouse)
 - **Description:** mouse & keyboard sharing via LAN
 
@@ -1564,9 +1558,6 @@
 ### [m1k1o/neko](https://github.com/m1k1o/neko)
 - **Description:** A self hosted virtual browser that runs in docker and uses WebRTC.
 
-### [1Remote/1Remote](https://github.com/1Remote/1Remote)
-- **Description:** One Remote Access Manager to Rule Them All
-
 ### [tech-shrimp/WechatMoments](https://github.com/tech-shrimp/WechatMoments)
 - **Description:** 微信朋友圈导出工具-技术爬爬虾
 
@@ -1599,9 +1590,6 @@
 
 ### [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)
 - **Description:** A cross-platform, reimplementation of Notepad++
-
-### [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell)
-- **Description:** A CLI that converts natural language to shell commands.
 
 ### [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - **Description:** A feature-rich command-line audio/video downloader
@@ -1680,16 +1668,11 @@
 ### [fofr/cog-face-to-sticker](https://github.com/fofr/cog-face-to-sticker)
 - **Description:** face-to-sticker
 
-### [zacharee/Tweaker](https://github.com/zacharee/Tweaker)
-
 ### [teableio/teable](https://github.com/teableio/teable)
 - **Description:** ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
 ### [HeyPuter/puter](https://github.com/HeyPuter/puter)
 - **Description:** 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-
-### [koishijs/koishi](https://github.com/koishijs/koishi)
-- **Description:** Cross-platform chatbot framework made with love
 
 ### [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)
 - **Description:** 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian

@@ -1,3 +1,6 @@
+### [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code)
+- **Description:** The Google Sans Code font family
+
 ### [ryokun6/ryos](https://github.com/ryokun6/ryos)
 - **Description:** ryOS, made with Cursor
 
@@ -155,9 +158,6 @@
 - **Description:** 中文古籍刻本風格直排電子書製作工具 Chinese ancient ebook making tool
 
 ### [vivoblueos/kernel](https://github.com/vivoblueos/kernel)
-
-### [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV)
-- **Description:** 一个开箱即用的、跨平台的影视聚合播放站
 
 ### [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)
 - **Description:** Open source neutral style icon system
@@ -525,7 +525,7 @@
 - **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 
 ### [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot)
-- **Description:** AI chatbot that supports both Telegram, Discord, Slack, Lark, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings—easy to integrate and quick to get started.
+- **Description:** AI chatbot that supports both Telegram, Discord, Slack, Lark, Work Wechat, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
 
 ### [NextAlone/Nagram](https://github.com/NextAlone/Nagram)
 - **Description:** The third-party Telegram android app.

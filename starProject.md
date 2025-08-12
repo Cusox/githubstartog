@@ -1,3 +1,21 @@
+### [ryokun6/ryos](https://github.com/ryokun6/ryos)
+- **Description:** ryOS, made with Cursor
+
+### [asciimoo/omnom](https://github.com/asciimoo/omnom)
+- **Description:** A web content preservation service
+
+### [codr7/hacktical-c](https://github.com/codr7/hacktical-c)
+- **Description:** A practical hacker's guide to the C programming language.
+
+### [leeyeel/Sketch2Motion](https://github.com/leeyeel/Sketch2Motion)
+- **Description:** convert photo or sketch to motion video
+
+### [AdoPi/wlgblock](https://github.com/AdoPi/wlgblock)
+- **Description:** Wayland Gameboy locker
+
+### [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss)
+- **Description:** 自动追番、订阅、下载 蜜柑RSS动漫
+
 ### [AnsonZnl/interview-nav](https://github.com/AnsonZnl/interview-nav)
 - **Description:** 面试网站导航，收集 IT 行业各个岗位的优质面试题网站、简历编写指南。
 
@@ -817,7 +835,7 @@
 - **Description:** Python tool for converting files and office documents to Markdown.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Ultimate curated list of best root apps, Magisk, KernelSU & LSPosed(Xposed) modules, must-have tools and step-by-step rooting guides to control, boost performance, and customize your device.
+- **Description:** Ultimate curated list of best root apps, Magisk/KernelSU/APtach/KernelSU-Next/Sukisu-Ultra & LSPosed(Xposed) modules & step-by-step rooting guides to control, boost performance, debloat & customize your device.
 
 ### [dendianugerah/reubah](https://github.com/dendianugerah/reubah)
 - **Description:** a web-based tool for processing images and converting documents with a simple interface

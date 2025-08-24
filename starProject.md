@@ -1,3 +1,77 @@
+### [EvanTop/EvanCard](https://github.com/EvanTop/EvanCard)
+- **Description:** EvanCard是一个超极简而精致的仿编程页面的在线信息卡片
+
+### [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
+- **Description:** LLM Frontend for Power Users.
+
+### [ellermister/mybili](https://github.com/ellermister/mybili)
+- **Description:** 哔哩哔哩收藏夹备份程序 ~ アレ 视频不见了哟！
+
+### [ximu3/vnite](https://github.com/ximu3/vnite)
+- **Description:** A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.
+
+### [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
+- **Description:** Weighs the soul of incoming HTTP requests to stop AI crawlers
+
+### [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+- **Description:** A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+### [sky22333/hubproxy](https://github.com/sky22333/hubproxy)
+- **Description:** 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
+
+### [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot)
+- **Description:** 简单优雅的工具软件
+
+### [alacritty/alacritty](https://github.com/alacritty/alacritty)
+- **Description:** A cross-platform, OpenGL terminal emulator.
+
+### [bgreenwell/doxx](https://github.com/bgreenwell/doxx)
+- **Description:** Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
+
+### [dlenski/vpn-slice](https://github.com/dlenski/vpn-slice)
+- **Description:** vpnc-script replacement for easy and secure split-tunnel VPN setup
+
+### [diracdeltas/tweets](https://github.com/diracdeltas/tweets)
+- **Description:** janky twitter replacement.
+
+### [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager)
+- **Description:** An app for managing github starred repositories. 
+
+### [usememos/memos](https://github.com/usememos/memos)
+- **Description:** A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+
+### [tgmeng-com/tgmeng-api](https://github.com/tgmeng-com/tgmeng-api)
+- **Description:** 糖果梦热搜-后端
+
+### [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
+- **Description:** Archlinux Kernel based on different schedulers and some other performance improvements.
+
+### [YuriSizuku/OnscripterYuri](https://github.com/YuriSizuku/OnscripterYuri)
+- **Description:** An enhancement ONScripter project porting to many platforms, especially web. 
+
+### [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+- **Description:** Standard Go Project Layout
+
+### [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV)
+
+### [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider)
+- **Description:** Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
+
+### [AlliotTech/ham-exam-web](https://github.com/AlliotTech/ham-exam-web)
+- **Description:** HRAC业余无线电执照考试2025最新题库 在线模拟  PWA支持
+
+### [AndreRenaud/gore](https://github.com/AndreRenaud/gore)
+- **Description:** Pure Go minimal Doom implementation
+
+### [AnYi-0/Translator](https://github.com/AnYi-0/Translator)
+- **Description:** 一个基于 Chrome 138+ 新增的本地 Translator API 和 Language Detector API 的轻量级翻译扩展，支持自动检测语言、离线翻译（首次可能需下载模型）、快速出结果。
+
+### [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper)
+- **Description:** 浸入式学语言助手 (Immersive Language Learning Assistant)
+
+### [nagisa77/OpenIsle](https://github.com/nagisa77/OpenIsle)
+- **Description:** 完全开源的社区平台
+
 ### [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code)
 - **Description:** The Google Sans Code font family
 
@@ -17,7 +91,7 @@
 - **Description:** Wayland Gameboy locker
 
 ### [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss)
-- **Description:** 自动追番、订阅、下载 蜜柑RSS动漫
+- **Description:** 基于RSS自动追番、订阅、下载
 
 ### [AnsonZnl/interview-nav](https://github.com/AnsonZnl/interview-nav)
 - **Description:** 面试网站导航，收集 IT 行业各个岗位的优质面试题网站、简历编写指南。
@@ -79,7 +153,7 @@
 - **Description:** 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
 
 ### [freeany/LocalSqueeze](https://github.com/freeany/LocalSqueeze)
-- **Description:** 一款可以压缩图片的桌面端应用(图片压缩工具)，只在本地运行。安全、快速、高质量。
+- **Description:** 一款可以压缩图片的桌面端应用(图片压缩工具)，只在本地运行。不限大小、不限数量。安全、快速、高质量。
 
 ### [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)
 - **Description:** WebUI extension for ControlNet
@@ -155,7 +229,7 @@
 - **Description:** 🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illustrations.
 
 ### [shanleiguang/vRain](https://github.com/shanleiguang/vRain)
-- **Description:** 中文古籍刻本風格直排電子書製作工具 Chinese ancient ebook making tool
+- **Description:** 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator
 
 ### [vivoblueos/kernel](https://github.com/vivoblueos/kernel)
 
@@ -525,7 +599,7 @@
 - **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 
 ### [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot)
-- **Description:** AI chatbot that supports both Telegram, Discord, Slack, Lark, Work Wechat, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
+- **Description:** AI chatbot that supports both Telegram, Discord, Slack, Lark（飞书）, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
 
 ### [NextAlone/Nagram](https://github.com/NextAlone/Nagram)
 - **Description:** The third-party Telegram android app.
@@ -835,7 +909,7 @@
 - **Description:** Python tool for converting files and office documents to Markdown.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Ultimate curated list of best root apps, Magisk/KernelSU/APtach/KernelSU-Next/Sukisu-Ultra & LSPosed(Xposed) modules & step-by-step rooting guides to control, boost performance, debloat & customize your device.
+- **Description:** Ultimate collection of best Android root apps, Magisk/KernelSU/LSPosed modules, and step-by-step rooting guides.
 
 ### [dendianugerah/reubah](https://github.com/dendianugerah/reubah)
 - **Description:** a web-based tool for processing images and converting documents with a simple interface
@@ -877,7 +951,7 @@
 - **Description:** 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 
 ### [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x)
-- **Description:** 2^x Image Super-Resolution
+- **Description:** a cross-platform image super-resolution tool
 
 ### [oracle/bpftune](https://github.com/oracle/bpftune)
 - **Description:** bpftune uses BPF to auto-tune Linux systems
@@ -913,7 +987,7 @@
 - **Description:** 使用 腾讯X5 WebView 开发的电视直播App
 
 ### [getmaxun/maxun](https://github.com/getmaxun/maxun)
-- **Description:** 🔥 Open-source no code web data extraction platform. Instantly turn any website into API or spreadsheet 🔥
+- **Description:** Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet.
 
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
 - **Description:** Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
@@ -1429,7 +1503,7 @@
 - **Description:** Layout ID/VISA photos in a single 6-inch photo 证件照片排版在线生成器 - 在一张6寸的照片上排版多张证件照
 
 ### [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
-- **Description:** 可本地部署的AI语音工具箱 | A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc.
+- **Description:** 一个简易的AI语音工具箱 | A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc.
 
 ### [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
 - **Description:** HandBrake's main development repository 
@@ -1438,7 +1512,7 @@
 - **Description:** Open source Loom alternative. Beautiful, shareable screen recordings.
 
 ### [dream-num/univer](https://github.com/dream-num/univer)
-- **Description:** Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
+- **Description:** Build truly AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. With Univer MCP, Univer Sheet is driven directly through natural language.
 
 ### [soruly/trace.moe](https://github.com/soruly/trace.moe)
 - **Description:** Anime Scene Search by Image

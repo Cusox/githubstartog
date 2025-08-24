@@ -319,12 +319,6 @@
 ### [imdj/HNRelevant](https://github.com/imdj/HNRelevant)
 - **Description:** A browser extension that adds a "Related Submissions" section to Hacker News
 
-### [luxor2038/SolarNG](https://github.com/luxor2038/SolarNG)
-- **Description:** SolarNG 2.0
-
-### [zen-xu/sunray](https://github.com/zen-xu/sunray)
-- **Description:** More robust and elegant ray
-
 ### [lieren2023/noname-for-dummies](https://github.com/lieren2023/noname-for-dummies)
 - **Description:** 无名杀懒人包（棘手怀念摧毁）
 
@@ -761,9 +755,6 @@
 
 ### [AllenWrong/nand2tetris](https://github.com/AllenWrong/nand2tetris)
 - **Description:** 计算机系统要素，从零开始构建现代计算机
-
-### [mpatajac/jillc](https://github.com/mpatajac/jillc)
-- **Description:** Compiler for the Jill programming language (an alternative to Jack from the nand2tetris course)
 
 ### [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
 - **Description:** A Swiss Army knife for developers.

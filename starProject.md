@@ -1,3 +1,35 @@
+### [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)
+- **Description:** A light-weight torrent media center at one place.
+
+### [rango886/FreeBili](https://github.com/rango886/FreeBili)
+- **Description:** 自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具
+
+### [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)
+- **Description:** Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+
+### [luongz/iptv-jp](https://github.com/luongz/iptv-jp)
+- **Description:** A collection of Japanese TV channel links.
+
+### [zhzhzhy/NinjiaTag-backend](https://github.com/zhzhzhy/NinjiaTag-backend)
+
+### [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI)
+- **Description:** Reduce the space taken up by games and programs on disk by using native Windows APIs
+
+### [MaliosDark/wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion)
+- **Description:** WiFi-3D-Fusion is an open-source research project that leverages WiFi CSI signals and deep learning to estimate 3D human pose, fusing wireless sensing with computer vision techniques for next-generation spatial awareness.
+
+### [ciromattia/kcc](https://github.com/ciromattia/kcc)
+- **Description:** KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
+
+### [rimulu030/gamewiki](https://github.com/rimulu030/gamewiki)
+- **Description:** An intelligent Wiki overlay tool designed specifically for gamers, featuring GEMINI-powered RAG (Retrieval-Augmented Generation) capabilities for smart Q&A services.
+
+### [TransparentLC/webgl-vanity-gpg](https://github.com/TransparentLC/webgl-vanity-gpg)
+- **Description:** 使用 GPU（WebGL）快速生成带有“靓号”的 PGP 密钥 Generate vanity PGP keys using GPU in your browser!（OpenCL 版：https://github.com/TransparentLC/opencl_vanity_gpg）
+
+### [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy)
+- **Description:** A markdown editor, which is lighter, smarter and purer. 一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。
+
 ### [EvanTop/EvanCard](https://github.com/EvanTop/EvanCard)
 - **Description:** EvanCard是一个超极简而精致的仿编程页面的在线信息卡片
 
@@ -53,18 +85,19 @@
 - **Description:** Standard Go Project Layout
 
 ### [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV)
+- **Description:** 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 
 ### [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider)
 - **Description:** Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
 
 ### [AlliotTech/ham-exam-web](https://github.com/AlliotTech/ham-exam-web)
-- **Description:** HRAC业余无线电执照考试2025最新题库 在线模拟  PWA支持
+- **Description:** 业余无线电执照考试在线模拟  支持PWA  2025最新题库
 
 ### [AndreRenaud/gore](https://github.com/AndreRenaud/gore)
 - **Description:** Pure Go minimal Doom implementation
 
 ### [AnYi-0/Translator](https://github.com/AnYi-0/Translator)
-- **Description:** 一个基于 Chrome 138+ 新增的本地 Translator API 和 Language Detector API 的轻量级翻译扩展，支持自动检测语言、离线翻译（首次可能需下载模型）、快速出结果。
+- **Description:** 一个基于 Chrome 138+ 新增的本地 Translator API 和 Language Detector API 的离线轻量级翻译扩展，支持自动检测网页语言、自动翻译网页、离线翻译（首次可能需下载模型）、快速出结果。
 
 ### [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper)
 - **Description:** 浸入式学语言助手 (Immersive Language Learning Assistant)
@@ -221,7 +254,7 @@
 - **Description:** Resumes as code in YAML, brought to you with ❤️ by PPResume.
 
 ### [multikernel/kernelscript](https://github.com/multikernel/kernelscript)
-- **Description:** KernelScript is a modern, type-safe, domain-specific programming language for eBPF-Centric kernel customization
+- **Description:** KernelScript is a modern, type-safe, domain-specific programming language for eBPF-centric kernel customization
 
 ### [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
 
@@ -348,7 +381,7 @@
 ### [perone/vectorvfs](https://github.com/perone/vectorvfs)
 - **Description:** Your filesystem as a vector database
 
-### [tiagorangel1/cap](https://github.com/tiagorangel1/cap)
+### [tiagozip/cap](https://github.com/tiagozip/cap)
 - **Description:** Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 
 ### [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns)
@@ -543,7 +576,7 @@
 - **Description:** 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 
 ### [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
-- **Description:** 获取b站历史记录，批量下载视频，一键下载用户投稿视频，收藏夹所有视频，生成详细的年度总结，自动化任务，下面链接是对应前端
+- **Description:** 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，生成详细的年度总结，自动化任务，下面链接是对应前端
 
 ### [leaningtech/browsercraft](https://github.com/leaningtech/browsercraft)
 - **Description:** Unmodified Minecraft 1.2.5 in the browser using CheerpJ
@@ -593,7 +626,7 @@
 - **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 
 ### [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot)
-- **Description:** AI chatbot that supports both Telegram, Discord, Slack, Lark（飞书）, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
+- **Description:** AI chatbot that supports both Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
 
 ### [NextAlone/Nagram](https://github.com/NextAlone/Nagram)
 - **Description:** The third-party Telegram android app.
@@ -629,7 +662,7 @@
 - **Description:** 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
 
 ### [steve02081504/fount](https://github.com/steve02081504/fount)
-- **Description:** An extensible framework for building and hosting AI character interactions. Built with pure JS, Fount offers unparalleled flexibility via modular components, custom AI source integration, powerful plugins, and a seamless cross-platform chat experience.
+- **Description:** fount (aka 豊人（ほうと）/纺铽（fǎng tè | ㄈㄤˇ ㄊㄜˋ）) is an extensible framework for building and hosting AI character interactions. Built with pure JS, offers unparalleled flexibility via modular components, custom AI source integration, powerful plugins, and a seamless cross-platform chat experience.
 
 ### [eduardoagarcia/shef](https://github.com/eduardoagarcia/shef)
 - **Description:** Shef is a powerful CLI framework for cooking up dynamic shell recipes.
@@ -1134,7 +1167,7 @@
 - **Description:** VyOS command definitions, scripts, and utilities
 
 ### [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
-- **Description:** Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+- **Description:** Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 
 ### [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
 - **Description:** ALL IN ONE Hacking Tool For Hackers
@@ -1503,7 +1536,7 @@
 - **Description:** Open source Loom alternative. Beautiful, shareable screen recordings.
 
 ### [dream-num/univer](https://github.com/dream-num/univer)
-- **Description:** Build truly AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. With Univer MCP, Univer Sheet is driven directly through natural language.
+- **Description:** Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer Spreadsheets is driven directly through natural language.
 
 ### [soruly/trace.moe](https://github.com/soruly/trace.moe)
 - **Description:** Anime Scene Search by Image
@@ -1764,7 +1797,7 @@
 - **Description:** A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 
 ### [JunkFood02/Seal](https://github.com/JunkFood02/Seal)
-- **Description:** 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- **Description:** 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
 ### [version-fox/vfox](https://github.com/version-fox/vfox)
 - **Description:** A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
@@ -1912,9 +1945,6 @@
 
 ### [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 - **Description:** Documentation that simply works
-
-### [reqable/reqable-app](https://github.com/reqable/reqable-app)
-- **Description:** Reqable issue track repo
 
 ### [semver/semver](https://github.com/semver/semver)
 - **Description:** Semantic Versioning Specification

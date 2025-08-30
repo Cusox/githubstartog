@@ -276,7 +276,7 @@
 - **Description:** A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ### [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
-- **Description:** 屎山代码检测器，评估代码的”屎山等级“，并输出美观的终端报告。
+- **Description:** Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful terminal report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的终端报告
 
 ### [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
 - **Description:** The free and privacy-friendly screen recorder with no limits 🎥

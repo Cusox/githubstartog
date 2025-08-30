@@ -1,3 +1,9 @@
+### [jdx/mise](https://github.com/jdx/mise)
+- **Description:** dev tools, env vars, task runner
+
+### [suxuang/myIPTV](https://github.com/suxuang/myIPTV)
+- **Description:** 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告
+
 ### [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite)
 - **Description:** A light-weight torrent media center at one place.
 
@@ -59,9 +65,6 @@
 
 ### [bgreenwell/doxx](https://github.com/bgreenwell/doxx)
 - **Description:** Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
-
-### [dlenski/vpn-slice](https://github.com/dlenski/vpn-slice)
-- **Description:** vpnc-script replacement for easy and secure split-tunnel VPN setup
 
 ### [diracdeltas/tweets](https://github.com/diracdeltas/tweets)
 - **Description:** janky twitter replacement.
@@ -134,9 +137,6 @@
 
 ### [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 - **Description:** Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-
-### [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
-- **Description:** A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
 ### [YifePlayte/SteamGuardDump](https://github.com/YifePlayte/SteamGuardDump)
 - **Description:** Dump your SteamGuard data into your clipboard.
@@ -786,9 +786,6 @@
 ### [AllenWrong/nand2tetris](https://github.com/AllenWrong/nand2tetris)
 - **Description:** 计算机系统要素，从零开始构建现代计算机
 
-### [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
-- **Description:** A Swiss Army knife for developers.
-
 ### [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)
 - **Description:** a list of disposable email domains
 
@@ -842,9 +839,6 @@
 
 ### [docmost/docmost](https://github.com/docmost/docmost)
 - **Description:** Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-
-### [yusing/godoxy](https://github.com/yusing/godoxy)
-- **Description:** Easy to use reverse proxy with docker integration
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
 - **Description:** Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -1150,9 +1144,6 @@
 
 ### [iawia002/lux](https://github.com/iawia002/lux)
 - **Description:** 👾 Fast and simple video download library and CLI tool written in Go
-
-### [zufuliu/notepad4](https://github.com/zufuliu/notepad4)
-- **Description:** Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
 
 ### [ivmm/Student-resources](https://github.com/ivmm/Student-resources)
 - **Description:** 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
@@ -1618,9 +1609,6 @@
 ### [mihonapp/mihon](https://github.com/mihonapp/mihon)
 - **Description:** Free and open source manga reader for Android
 
-### [feschber/lan-mouse](https://github.com/feschber/lan-mouse)
-- **Description:** mouse & keyboard sharing via LAN
-
 ### [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)
 - **Description:** Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, like Microsoft's Windows Recall or Rewind.
 
@@ -1792,9 +1780,6 @@
 
 ### [JunkFood02/Seal](https://github.com/JunkFood02/Seal)
 - **Description:** 🦭 Video/Audio Downloader for Android, based on yt-dlp
-
-### [version-fox/vfox](https://github.com/version-fox/vfox)
-- **Description:** A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 
 ### [bluesky-social/pds](https://github.com/bluesky-social/pds)
 - **Description:** Bluesky PDS (Personal Data Server) container image, compose file, and documentation

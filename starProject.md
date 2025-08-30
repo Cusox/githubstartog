@@ -147,9 +147,6 @@
 ### [RikkaApps/Sui](https://github.com/RikkaApps/Sui)
 - **Description:** Modern super user interface implementation on Android.
 
-### [GitMetaio/Surfing](https://github.com/GitMetaio/Surfing)
-- **Description:** Magisk and KernelSU modules for  Clash/mihomo services.
-
 ### [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
 - **Description:** Fix Play Integrity <A13 verdicts, allowing custom fields and props
 
@@ -836,9 +833,6 @@
 
 ### [SaboZhang/EasyTidy](https://github.com/SaboZhang/EasyTidy)
 - **Description:** EasyTidy A simple file auto-classification tool  makes it easy to create automatic workflows with files. / EasyTidy 一个简单的文件自动分类整理工具  轻松创建文件的自动工作流程
-
-### [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing)
-- **Description:** Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
 
 ### [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian)
 - **Description:** Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.

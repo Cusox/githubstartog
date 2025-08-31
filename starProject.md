@@ -917,9 +917,6 @@
 ### [vernu/vps-audit](https://github.com/vernu/vps-audit)
 - **Description:** lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 
-### [microsoft/markitdown](https://github.com/microsoft/markitdown)
-- **Description:** Python tool for converting files and office documents to Markdown.
-
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
 - **Description:** Ultimate collection of best Android root apps, Magisk/KernelSU/LSPosed modules, and step-by-step rooting guides.
 
@@ -1596,9 +1593,6 @@
 - **Description:** GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 
 ### [justbin95/HA_Tutorials](https://github.com/justbin95/HA_Tutorials)
-
-### [x0b/rcx](https://github.com/x0b/rcx)
-- **Description:** Rclone for Android
 
 ### [YunYouJun/cook](https://github.com/YunYouJun/cook)
 - **Description:** 🍲 好的，今天我们来做菜！OK, Let's Cook!

@@ -972,9 +972,6 @@
 ### [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
 - **Description:** The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 
-### [meceware/wapy.dev](https://github.com/meceware/wapy.dev)
-- **Description:** Wapy.dev helps you track subscriptions, monitor recurring expenses, and get payment reminders in one powerful and human readable dashboard.
-
 ### [Ackites/Nrfr](https://github.com/Ackites/Nrfr)
 - **Description:** 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
 
@@ -1671,9 +1668,6 @@
 ### [bin456789/reinstall](https://github.com/bin456789/reinstall)
 - **Description:** 一键DD/重装脚本 (One-click reinstall OS on VPS)
 
-### [IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV)
-- **Description:** Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings
-
 ### [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB)
 - **Description:** GUI Tool To Remove Ads From Various Places Around Windows 11
 
@@ -1869,9 +1863,6 @@
 ### [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)
 - **Description:** 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
 
-### [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
-- **Description:** A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-
 ### [JunkFood02/Seal](https://github.com/JunkFood02/Seal)
 - **Description:** 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
@@ -1898,9 +1889,6 @@
 
 ### [1c7/Fitness](https://github.com/1c7/Fitness)
 - **Description:** 健身教学（高质量）帮你减脂，增肌（以及拉伸放松，热身，体态，康复）（有大量 B 站和抖音视频）
-
-### [AChep/keyguard-app](https://github.com/AChep/keyguard-app)
-- **Description:** Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 
 ### [SylarLong/iztro](https://github.com/SylarLong/iztro)
 - **Description:** ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
@@ -2236,9 +2224,6 @@
 
 ### [janeczku/calibre-web](https://github.com/janeczku/calibre-web)
 - **Description:** :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
-### [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner)
-- **Description:** ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
 
 ### [Reroll24/Arknights_Tool](https://github.com/Reroll24/Arknights_Tool)
 - **Description:** 简单的理智计算小工具

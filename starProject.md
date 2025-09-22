@@ -1,3 +1,109 @@
+### [botirk38/OS-1000-lines-zig](https://github.com/botirk38/OS-1000-lines-zig)
+
+### [hyperion-mc/hyperion](https://github.com/hyperion-mc/hyperion)
+- **Description:** Minecraft game engine for massive custom events
+
+### [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
+- **Description:** 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+### [tangshimin/MuJing](https://github.com/tangshimin/MuJing)
+- **Description:** 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
+
+### [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+- **Description:** 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+### [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
+- **Description:** Writing an OS in 1,000 lines.
+
+### [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines)
+- **Description:** Writing a hypervisor in 1,000 lines.
+
+### [Eugeny/tabby](https://github.com/Eugeny/tabby)
+- **Description:** A terminal for a more modern age
+
+### [montanaflynn/asxiv](https://github.com/montanaflynn/asxiv)
+- **Description:** An AI-powered interface for exploring and understanding arXiv research papers
+
+### [djteang/OrangeTV](https://github.com/djteang/OrangeTV)
+- **Description:** 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+
+### [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee)
+- **Description:** 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。
+
+### [PrathxmOp/dab-downloader](https://github.com/PrathxmOp/dab-downloader)
+- **Description:** A powerful, modular music downloader that delivers high-quality FLAC files with comprehensive metadata support through the DAB API.
+
+### [skift-org/skift](https://github.com/skift-org/skift)
+- **Description:** 🥑 A modern delightful operating system
+
+### [Ultraplot/UltraPlot](https://github.com/Ultraplot/UltraPlot)
+- **Description:** A succinct wrapper for matplotlib
+
+### [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel)
+- **Description:** A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
+
+### [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals)
+- **Description:** Terminal Emulators
+
+### [cxbdasheng/AIO](https://github.com/cxbdasheng/AIO)
+- **Description:** 陈大剩家庭 All-in-One 服务器搭建指南，这是一个完整的家庭 All-in-One 服务器搭建指南，帮助大家在家中搭建企业级的虚拟化环境。
+
+### [3poisons/vps-services-dashboard](https://github.com/3poisons/vps-services-dashboard)
+- **Description:** 管理多个 VPS 上的服务
+
+### [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng)
+- **Description:** MDC next generation
+
+### [little-book-of/everything](https://github.com/little-book-of/everything)
+- **Description:** 42
+
+### [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra)
+- **Description:** There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices. —Jean Dieudonne
+
+### [little-book-of/calculus](https://github.com/little-book-of/calculus)
+- **Description:** Therefore, I have attacked [the problem of the catenary] which I had hitherto not attempted, and with my key [the differential calculus] happily opened its secret. - Gottfried Leibniz
+
+### [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+- **Description:** Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+
+### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
+- **Description:** 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+
+### [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV)
+- **Description:** 一个基于MoonTV(LunaTV)二次开发的项目。
+
+### [TibixDev/winboat](https://github.com/TibixDev/winboat)
+- **Description:** Run Windows apps on 🐧 Linux with ✨ seamless integration
+
+### [bootandy/dust](https://github.com/bootandy/dust)
+- **Description:** A more intuitive version of du in rust
+
+### [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify)
+- **Description:** Effortlessly convert Spotify links to your preferred streaming service
+
+### [spicetify/cli](https://github.com/spicetify/cli)
+- **Description:** Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+
+### [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX)
+- **Description:** SpotX patcher used for patching the desktop version of Spotify
+
+### [liujuntao123/DeepRead](https://github.com/liujuntao123/DeepRead)
+
+### [gargakshit/zfsbackrest](https://github.com/gargakshit/zfsbackrest)
+- **Description:** pgbackrest style encrypted backups for ZFS filesystems
+
+### [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+- **Description:** 😸 Soothing pastel theme for the high-spirited!
+
+### [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat)
+- **Description:** 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
+
+### [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
+- **Description:** 📱 Display and control your Android device graphically with scrcpy.
+
+### [Johnserf-Seed/f2](https://github.com/Johnserf-Seed/f2)
+- **Description:** High-speed downloader for multiple platforms
+
 ### [jdx/mise](https://github.com/jdx/mise)
 - **Description:** dev tools, env vars, task runner
 
@@ -94,7 +200,7 @@
 - **Description:** Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
 
 ### [AlliotTech/ham-exam-web](https://github.com/AlliotTech/ham-exam-web)
-- **Description:** 业余无线电执照考试在线模拟  支持PWA  2025最新题库
+- **Description:** 基于最新2025年题库的业余无线电执照考试模拟应用，支持A/B/C三类考试，提供完整的模拟考试、智能化练习、关键词搜索、报名照片处理等功能，采用Next.js 15 + React 19技术栈，支持PWA离线使用，数据本地存储确保隐私安全。
 
 ### [AndreRenaud/gore](https://github.com/AndreRenaud/gore)
 - **Description:** Pure Go minimal Doom implementation
@@ -194,7 +300,7 @@
 ### [XIU2/UserScript](https://github.com/XIU2/UserScript)
 - **Description:** 🐵 自用的一些乱七八糟 油猴脚本~ 
 
-### [hooke007/MPV_lazy](https://github.com/hooke007/MPV_lazy)
+### [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit)
 - **Description:** 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 汉化文档 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config ； 着色器 shader 滤镜 filter 整合方案
 
 ### [mpv-player/mpv](https://github.com/mpv-player/mpv)
@@ -233,7 +339,7 @@
 - **Description:** A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ### [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator)
-- **Description:** 视觉小说翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator, support HOOK / OCR / Clipboard
+- **Description:** 视觉小说翻译器 / Visual Novel Translator
 
 ### [PrelinaMontelli/Edge-Monitor](https://github.com/PrelinaMontelli/Edge-Monitor)
 - **Description:** 一个监控并弄死异常Edge的程序
@@ -623,7 +729,7 @@
 - **Description:** 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 
 ### [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot)
-- **Description:** AI chatbot that supports both Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
+- **Description:** supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
 
 ### [NextAlone/Nagram](https://github.com/NextAlone/Nagram)
 - **Description:** The third-party Telegram android app.
@@ -857,14 +963,11 @@
 ### [lima-vm/lima](https://github.com/lima-vm/lima)
 - **Description:** Linux virtual machines, with a focus on running containers
 
-### [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)
-- **Description:** Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
-
 ### [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search)
 - **Description:** Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
 
 ### [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
-- **Description:** Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+- **Description:** Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 4.
 
 ### [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
 - **Description:** The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
@@ -918,7 +1021,7 @@
 - **Description:** lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Ultimate collection of best Android root apps, Magisk/KernelSU/LSPosed modules, and step-by-step rooting guides.
+- **Description:** Discover 400+ best root apps, Magisk/KernelSU/APatch/LSPosed(xposed) modules, and step-by-step guides for every device. 
 
 ### [dendianugerah/reubah](https://github.com/dendianugerah/reubah)
 - **Description:** a web-based tool for processing images and converting documents with a simple interface
@@ -959,7 +1062,7 @@
 ### [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
 - **Description:** 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 
-### [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x)
+### [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x)
 - **Description:** a cross-platform image super-resolution tool
 
 ### [oracle/bpftune](https://github.com/oracle/bpftune)
@@ -996,7 +1099,7 @@
 - **Description:** 使用 腾讯X5 WebView 开发的电视直播App
 
 ### [getmaxun/maxun](https://github.com/getmaxun/maxun)
-- **Description:** Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet.
+- **Description:** ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
 
 ### [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive)
 - **Description:** Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
@@ -1073,7 +1176,7 @@
 ### [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat)
 - **Description:** 💬 Chat with anyone on any website.
 
-### [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
+### [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd)
 - **Description:** YouTube Music Desktop App bundled with custom plugins
 
 ### [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
@@ -1098,7 +1201,7 @@
 - **Description:** code-based qr code designer
 
 ### [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
-- **Description:** Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://vbhub.net/?src=github
+- **Description:** Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github
 
 ### [akazwz/smail](https://github.com/akazwz/smail)
 - **Description:** Temporary email  临时邮箱 Cloudflare email
@@ -1374,7 +1477,7 @@
 - **Description:** A new bootable USB solution.
 
 ### [simon-ding/polaris](https://github.com/simon-ding/polaris)
-- **Description:** Polaris is a TV/Movie tracking and downloading app, it has good support for Western TV series, as well as Japanese anime. it also has multi storage option support. Polaris 是一个电视剧和电影的追踪下载软件。对动漫日剧美剧都有良好的匹配，支持多种存储方式（本地、webdav、alist）
+- **Description:** Polaris is a TV/Movie tracking and downloading app, it has good support for Western TV series, as well as Japanese anime. it also has multi storage option support. Polaris 是一个电视剧和电影的追踪下载软件。对动漫日剧美剧都有良好的匹配，支持多种存储方式
 
 ### [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage)
 - **Description:** 中文网字计划 (Chinese Webfont Project) 是一个免费的中文 web 字体库，支持在线加载及查看字体信息。Explore our free CJK web font library that enables online loading and font information viewing.
@@ -1492,9 +1595,6 @@
 
 ### [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors)
 - **Description:** LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
-
-### [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors)
-- **Description:** 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
 
 ### [blossom-editor/blossom](https://github.com/blossom-editor/blossom)
 - **Description:** A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
@@ -1687,7 +1787,7 @@
 - **Description:** A feature-rich command-line audio/video downloader
 
 ### [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-- **Description:** Windows system utilities to maximize productivity
+- **Description:** Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 
 ### [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
 - **Description:** A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
@@ -1746,7 +1846,7 @@
 - **Description:** A toolkit for developing high-performance HTTP reverse proxy applications.
 
 ### [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
-- **Description:** 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution
+- **Description:** 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool
 
 ### [electerm/electerm](https://github.com/electerm/electerm)
 - **Description:** 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
@@ -1821,7 +1921,7 @@
 - **Description:** 🐀 A link aggregator and forum for the fediverse
 
 ### [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
-- **Description:** A Material Design Weather Application
+- **Description:** A feature-rich weather app with good visualizations and more than 50 sources.
 
 ### [pmkol/easymosdns](https://github.com/pmkol/easymosdns)
 - **Description:** An easy script for the Mosdns basic functions, enabling you to set up a pollution-free DNS server that supports ECS in just a few minutes.
@@ -1848,7 +1948,7 @@
 - **Description:** Python script to extract savefiles out of Xbox Game Pass for PC games
 
 ### [tw93/Pake](https://github.com/tw93/Pake)
-- **Description:** 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- **Description:** 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 
 ### [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels)
 - **Description:** 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0

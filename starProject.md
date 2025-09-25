@@ -1,3 +1,21 @@
+### [yan5xu/ququ](https://github.com/yan5xu/ququ)
+- **Description:** 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
+
+### [catatsuy/kekkai](https://github.com/catatsuy/kekkai)
+- **Description:** A lightweight Go tool for detecting file tampering by comparing content-based hashes stored securely in S3.
+
+### [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
+- **Description:** A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
+### [lmorg/murex](https://github.com/lmorg/murex)
+- **Description:** A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
+
+### [l429609201/misaka_danmu_server](https://github.com/l429609201/misaka_danmu_server)
+- **Description:** 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 dandanplay API 规范。
+
+### [huangxd-/danmu_api](https://github.com/huangxd-/danmu_api)
+- **Description:** 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口，并提供日志记录，支持vercel/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
+
 ### [botirk38/OS-1000-lines-zig](https://github.com/botirk38/OS-1000-lines-zig)
 
 ### [hyperion-mc/hyperion](https://github.com/hyperion-mc/hyperion)
@@ -379,7 +397,7 @@
 - **Description:** A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ### [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
-- **Description:** Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful terminal report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的终端报告
+- **Description:** Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
 
 ### [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
 - **Description:** The free and privacy-friendly screen recorder with no limits 🎥
@@ -387,7 +405,7 @@
 ### [containerd/nerdctl](https://github.com/containerd/nerdctl)
 - **Description:** contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 
-### [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor)
+### [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
 - **Description:** 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
 
 ### [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)

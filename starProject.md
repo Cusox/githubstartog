@@ -1,3 +1,6 @@
+### [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api)
+- **Description:** 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api
+
 ### [yan5xu/ququ](https://github.com/yan5xu/ququ)
 - **Description:** 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
 
@@ -76,7 +79,7 @@
 - **Description:** 42
 
 ### [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra)
-- **Description:** There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices. —Jean Dieudonne
+- **Description:** A concise, beginner-friendly introduction to the core ideas of linear algebra.
 
 ### [little-book-of/calculus](https://github.com/little-book-of/calculus)
 - **Description:** Therefore, I have attacked [the problem of the catenary] which I had hitherto not attempted, and with my key [the differential calculus] happily opened its secret. - Gottfried Leibniz

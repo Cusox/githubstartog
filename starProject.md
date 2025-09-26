@@ -122,9 +122,6 @@
 ### [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
 - **Description:** 📱 Display and control your Android device graphically with scrcpy.
 
-### [Johnserf-Seed/f2](https://github.com/Johnserf-Seed/f2)
-- **Description:** High-speed downloader for multiple platforms
-
 ### [jdx/mise](https://github.com/jdx/mise)
 - **Description:** dev tools, env vars, task runner
 
@@ -924,9 +921,6 @@
 
 ### [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 - **Description:** Integrate the DeepSeek API into popular softwares
-
-### [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator)
-- **Description:** Authenticator generates 2-Step Verification codes in your browser.
 
 ### [Ezer015/pick-anime-cool](https://github.com/Ezer015/pick-anime-cool)
 - **Description:** Bangumi 多标签搜索 | Better Bangumi Search

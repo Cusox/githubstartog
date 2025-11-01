@@ -1,3 +1,116 @@
+### [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+- **Description:** 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+### [zyronon/TypeWords](https://github.com/zyronon/TypeWords)
+- **Description:** 练习英语，一次敲击，一点进步；Practice English, one strike, one step forward
+
+### [jdx/fnox](https://github.com/jdx/fnox)
+- **Description:** encrypted/remote secret manager
+
+### [M64GitHub/movycat](https://github.com/M64GitHub/movycat)
+- **Description:** A terminal movie player written in Zig. Like catimg, but for videos.
+
+### [jj-vcs/jj](https://github.com/jj-vcs/jj)
+- **Description:** A Git-compatible VCS that is both simple and powerful
+
+### [itsfrank/MinecraftHDL](https://github.com/itsfrank/MinecraftHDL)
+- **Description:** A Verilog synthesis flow for Minecraft redstone circuits
+
+### [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)
+- **Description:** 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+
+### [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers)
+- **Description:** Turn your idle shell into a visual playground with this collection of Bash screensav­ers
+
+### [dvir-biton/MyraOS](https://github.com/dvir-biton/MyraOS)
+- **Description:** A x86 Unix-like OS made entirely from scratch
+
+### [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
+- **Description:** Mobile Shell
+
+### [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+- **Description:** 📚 Collaborative cheatsheets for console commands
+
+### [jb55/binmoji](https://github.com/jb55/binmoji)
+- **Description:** A compact, lossless, 64-bit emoji encoding
+
+### [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
+- **Description:** Transparent implementation of Zygisk.
+
+### [sql-hkr/tiny8](https://github.com/sql-hkr/tiny8)
+- **Description:** A tiny CPU simulator written in Python
+
+### [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub)
+- **Description:** 2025年11月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+
+### [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa)
+- **Description:** 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
+
+### [Uahh/ToastFish](https://github.com/Uahh/ToastFish)
+- **Description:** 一个利用摸鱼时间背单词的软件。
+
+### [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName)
+- **Description:** This repository has the JSON file required to perform user enumeration on various websites.
+
+### [Chimioo/InxLocker](https://github.com/Chimioo/InxLocker)
+
+### [Lissy93/web-check](https://github.com/Lissy93/web-check)
+- **Description:** 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+
+### [cndaqiang/autowzry](https://github.com/cndaqiang/autowzry)
+- **Description:** 王者荣耀自动化|🤖🎁|农活自动化助手
+
+### [chubin/wttr.in](https://github.com/chubin/wttr.in)
+- **Description:** :partly_sunny: The right way to check the weather
+
+### [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
+- **Description:** More Expressive InstallerX !
+
+### [ikrima/gamedevguide](https://github.com/ikrima/gamedevguide)
+- **Description:** Game Development & Unreal Engine Programming Guide
+
+### [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
+- **Description:** Open source alternative to proprietary Tricky Store module
+
+### [JingMatrix/NeoZygisk](https://github.com/JingMatrix/NeoZygisk)
+- **Description:** Zygote injection with ptrace
+
+### [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
+- **Description:** Stremio - Freedom to Stream
+
+### [lvwzhen/medicine](https://github.com/lvwzhen/medicine)
+- **Description:** 原研药列表
+
+### [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist)
+- **Description:** YouTube Music client for Android
+
+### [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat)
+- **Description:** Your next YouTube media manager
+
+### [lutris/lutris](https://github.com/lutris/lutris)
+- **Description:** Lutris desktop client
+
+### [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
+- **Description:** A focused launcher for your desktop — native, fast, extensible
+
+### [rathole-org/rathole](https://github.com/rathole-org/rathole)
+- **Description:** A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+### [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe)
+- **Description:** Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
+
+### [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
+- **Description:** How to create an OS from scratch
+
+### [nocodb/nocodb](https://github.com/nocodb/nocodb)
+- **Description:** 🔥 🔥 🔥 Open Source Airtable Alternative
+
+### [Mapleawaa/PVE-Tools-9](https://github.com/Mapleawaa/PVE-Tools-9)
+- **Description:** 一个专为PVE9（Debian13）设计的维护、新装、换源的一键脚本。功能包括不限于：功能包括但不限于：更换清华镜像源、移除订阅弹窗、合并 local 与 local-lvm、删除 Swap、系统更新、查看系统信息、硬件直通、CPU 电源模式、温度监控、Ceph 源配置、Ceph 卸载及内核管理 | A one-click script designed for maintenance, installation, and source replacement specifically for PVE9 (Debian13).
+
+### [liminbai/Awesome-GameEmulator](https://github.com/liminbai/Awesome-GameEmulator)
+- **Description:** Game emulator information
+
 ### [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api)
 - **Description:** 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能。原仓库地址：https://github.com/MoyuScript/bilibili-api
 
@@ -17,7 +130,7 @@
 - **Description:** 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 dandanplay API 规范。
 
 ### [huangxd-/danmu_api](https://github.com/huangxd-/danmu_api)
-- **Description:** 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口，并提供日志记录，支持vercel/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
+- **Description:** 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 
 ### [botirk38/OS-1000-lines-zig](https://github.com/botirk38/OS-1000-lines-zig)
 
@@ -91,7 +204,7 @@
 - **Description:** 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 
 ### [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV)
-- **Description:** 一个基于MoonTV(LunaTV)二次开发的项目。
+- **Description:** 一个基于MoonTV(LunaTV)二次开发的项目。新项目：https://github.com/Decohererk/DecoTV
 
 ### [TibixDev/winboat](https://github.com/TibixDev/winboat)
 - **Description:** Run Windows apps on 🐧 Linux with ✨ seamless integration
@@ -103,7 +216,7 @@
 - **Description:** Effortlessly convert Spotify links to your preferred streaming service
 
 ### [spicetify/cli](https://github.com/spicetify/cli)
-- **Description:** Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- **Description:** Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 
 ### [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX)
 - **Description:** SpotX patcher used for patching the desktop version of Spotify
@@ -137,9 +250,6 @@
 ### [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)
 - **Description:** Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 
-### [luongz/iptv-jp](https://github.com/luongz/iptv-jp)
-- **Description:** A collection of Japanese TV channel links.
-
 ### [zhzhzhy/NinjiaTag-backend](https://github.com/zhzhzhy/NinjiaTag-backend)
 
 ### [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI)
@@ -158,7 +268,7 @@
 - **Description:** 使用 GPU（WebGL）快速生成带有“靓号”的 PGP 密钥 Generate vanity PGP keys using GPU in your browser!（OpenCL 版：https://github.com/TransparentLC/opencl_vanity_gpg）
 
 ### [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy)
-- **Description:** A markdown editor, which is lighter, smarter and purer. 一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。
+- **Description:** A cross platform Markdown editor, but it is lighter, smarter, and purer. 一个跨平台 Markdown 编辑器，但是更轻快、更智能、更纯粹。
 
 ### [EvanTop/EvanCard](https://github.com/EvanTop/EvanCard)
 - **Description:** EvanCard是一个超极简而精致的仿编程页面的在线信息卡片
@@ -179,10 +289,10 @@
 - **Description:** A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ### [sky22333/hubproxy](https://github.com/sky22333/hubproxy)
-- **Description:** 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
+- **Description:** 自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
 
 ### [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot)
-- **Description:** 简单优雅的工具软件
+- **Description:** 超好用的截图工具
 
 ### [alacritty/alacritty](https://github.com/alacritty/alacritty)
 - **Description:** A cross-platform, OpenGL terminal emulator.
@@ -197,7 +307,7 @@
 - **Description:** An app for managing github starred repositories. 
 
 ### [usememos/memos](https://github.com/usememos/memos)
-- **Description:** A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- **Description:** An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 ### [tgmeng-com/tgmeng-api](https://github.com/tgmeng-com/tgmeng-api)
 - **Description:** 糖果梦热搜-后端
@@ -277,19 +387,11 @@
 ### [KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List)
 - **Description:** A KSU WebUI to configure Tricky Store target.txt
 
-### [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore)
-
-### [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
-- **Description:** Transparent implementation of Zygisk.
-
 ### [1250422131/bilibilias](https://github.com/1250422131/bilibilias)
 - **Description:** 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
 
 ### [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve)
 - **Description:** A collection of awesome Proxmox VE documentation, tools, api, blogs, site
-
-### [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)
-- **Description:** A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 
 ### [nextcloud/server](https://github.com/nextcloud/server)
 - **Description:** ☁️ Nextcloud server, a safe home for all your data
@@ -394,7 +496,7 @@
 - **Description:** 🐒 Normalize browsers' default style
 
 ### [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
-- **Description:** A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+- **Description:** A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ### [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
 - **Description:** Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
@@ -453,7 +555,7 @@
 - **Description:** A web-based 3D CAD application for online model design and editing
 
 ### [Sunrisepeak/mcpp-standard](https://github.com/Sunrisepeak/mcpp-standard)
-- **Description:** 动手学 | 现代CPP核心语言特性 - "强调动手实践的C++教程项目"
+- **Description:** D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
 
 ### [kirakiray/NoneOS](https://github.com/kirakiray/NoneOS)
 - **Description:** An operating system based on the browser.
@@ -550,8 +652,8 @@
 ### [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell)
 - **Description:** An alternative Windows context menu, and more.
 
-### [metorial/mcp-containers](https://github.com/metorial/mcp-containers)
-- **Description:** Metorial MCP Containers - Containerized versions of hundreds of MCP servers 📡 🧠
+### [metorial/metorial](https://github.com/metorial/metorial)
+- **Description:** Connect any AI model to 600+ integrations; powered by MCP 📡 🚀
 
 ### [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)
 - **Description:** 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
@@ -982,7 +1084,7 @@
 - **Description:** Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
 
 ### [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
-- **Description:** Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 4.
+- **Description:** Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 
 ### [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)
 - **Description:** The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
@@ -1033,7 +1135,7 @@
 - **Description:** lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 
 ### [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
-- **Description:** Discover 400+ best root apps, Magisk/KernelSU/APatch/LSPosed(xposed) modules, and step-by-step guides for every device. 
+- **Description:** Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 
 ### [dendianugerah/reubah](https://github.com/dendianugerah/reubah)
 - **Description:** a web-based tool for processing images and converting documents with a simple interface
@@ -1129,10 +1231,10 @@
 - **Description:** Elegant reading of real-time and hottest news
 
 ### [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
-- **Description:** PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- **Description:** [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 ### [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine)
-- **Description:** A text search engine that supports mixed Chinese and English fuzzy search.支持中(拼音)英文混合模糊搜索的算法
+- **Description:** A lightweight text search engine that supports mixed Chinese (Pinyin) and English fuzzy search.轻量级支持中文（拼音）与英文混合模糊搜索的算法
 
 ### [apades/dmMiniPlayer](https://github.com/apades/dmMiniPlayer)
 - **Description:** Enhanced picture in picture video player, support subtitle, danmaku etc web extension. 增强版画中画播放器，可以播放、发送弹幕，支持字幕，键盘控制进度等功能的浏览器插件
@@ -1153,7 +1255,7 @@
 - **Description:** 高等教育学社基础知识开源建设工程｜青年大学习
 
 ### [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
-- **Description:** 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+- **Description:** 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 
 ### [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 - **Description:** A Download Manager that speeds up your downloads
@@ -1177,7 +1279,7 @@
 - **Description:** Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ### [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead)
-- **Description:** the website blocklist I am maintaining
+- **Description:** Manually maintained website blocklist
 
 ### [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 - **Description:** 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
@@ -1188,8 +1290,8 @@
 ### [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat)
 - **Description:** 💬 Chat with anyone on any website.
 
-### [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd)
-- **Description:** YouTube Music Desktop App bundled with custom plugins
+### [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop)
+- **Description:** Pear 🍐 is extension for music player
 
 ### [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)
 - **Description:** Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)
@@ -1318,7 +1420,7 @@
 - **Description:** Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations
 
 ### [Cinvin/myuserscripts](https://github.com/Cinvin/myuserscripts)
-- **Description:** 网易云音乐油猴脚本:云盘歌曲快传(含周杰伦),歌曲下载,转存云盘,云盘匹配纠正...
+- **Description:** 网易云音乐油猴脚本:歌曲下载、转存云盘、云盘歌曲快传、云盘匹配纠正...
 
 ### [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
 - **Description:** :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
@@ -1381,7 +1483,7 @@
 - **Description:** Wallos: Open-Source Personal Subscription Tracker
 
 ### [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
-- **Description:** Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
+- **Description:** Translate the video from one language to another and add dubbing.视频翻译/语音转录/字幕配音工具
 
 ### [rnchg/APT](https://github.com/rnchg/APT)
 - **Description:** AI Productivity Tool - Free and open source, improve user productivity, and protect privacy and data security. Including but not limited to: built-in local exclusive ChatGPT, DeepSeek, Phi, Qwen and other models, one-click batch intelligent processing of pictures, videos, audio, etc.
@@ -1630,7 +1732,7 @@
 - **Description:** Open source Loom alternative. Beautiful, shareable screen recordings.
 
 ### [dream-num/univer](https://github.com/dream-num/univer)
-- **Description:** Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer Spreadsheets is driven directly through natural language.
+- **Description:** Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer Platform, Univer Spreadsheets is driven directly through natural language.
 
 ### [soruly/trace.moe](https://github.com/soruly/trace.moe)
 - **Description:** Anime Scene Search by Image
@@ -1801,8 +1903,8 @@
 ### [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
 - **Description:** A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 
-### [menloresearch/jan](https://github.com/menloresearch/jan)
-- **Description:** Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+### [janhq/jan](https://github.com/janhq/jan)
+- **Description:** Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
 ### [Simple-Tracker/qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker)
 - **Description:** 一款适用于 qBittorrent/Transmission (Beta)/BitComet (Beta, Partial) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷等客户端.  A client blocker compatible with qBittorrent/Transmission (Beta)/BitComet (Beta, Partial) which is prohibited to include but not limited to clients such as Xunlei.
@@ -1873,7 +1975,7 @@
 - **Description:** ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
 ### [HeyPuter/puter](https://github.com/HeyPuter/puter)
-- **Description:** 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- **Description:** 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
 ### [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)
 - **Description:** 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
@@ -1951,7 +2053,7 @@
 - **Description:** Python script to extract savefiles out of Xbox Game Pass for PC games
 
 ### [tw93/Pake](https://github.com/tw93/Pake)
-- **Description:** 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- **Description:** 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
 ### [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels)
 - **Description:** 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
@@ -2127,9 +2229,6 @@
 ### [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor)
 - **Description:** 拼多多apk内嵌提权代码，及动态下发dex分析
 
-### [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
-- **Description:** Standalone implementation of Zygisk
-
 ### [nvbn/thefuck](https://github.com/nvbn/thefuck)
 - **Description:** Magnificent app which corrects your previous console command.
 
@@ -2146,7 +2245,7 @@
 - **Description:** proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 
 ### [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-- **Description:** Cross-platform, fast, feature-rich, GPU based terminal
+- **Description:** If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 
 ### [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro)
 - **Description:** 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
@@ -2218,7 +2317,7 @@
 - **Description:** A collection of useful .gitignore templates
 
 ### [opensolon/solon](https://github.com/opensolon/solon)
-- **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java24. (Replaceable spring)
+- **Description:** 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java25. (Replaceable spring)
 
 ### [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector)
 - **Description:** A library to detect suspicious apps like Magisk

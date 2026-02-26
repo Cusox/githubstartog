@@ -1,3 +1,17 @@
+### [91270/MeiamSubtitles](https://github.com/91270/MeiamSubtitles)
+- **Description:** Emby Server / Jellyfin Server 端字幕插件 ，使用  迅雷影音、 射手网 接口精准匹配视频字幕
+
+### [janeczku/calibre-web](https://github.com/janeczku/calibre-web)
+- **Description:** :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
+### [Saramanda9988/LunaBox](https://github.com/Saramanda9988/LunaBox)
+- **Description:** Lightweight, fast, and feature-rich visual novel management and game statistics tool
+
+### [lanyeeee/copymanga-downloader](https://github.com/lanyeeee/copymanga-downloader)
+- **Description:** 拷贝漫画 copymanga 的多线程下载器，带图形界面 带收藏夹 支持下载下架的漫画 支持导出cbz和pdf，已打包exe 没有每分钟15次API请求的限制 下载速度飞快
+
+### [XiaoMengXinX/FuckCoolapkFeeds](https://github.com/XiaoMengXinX/FuckCoolapkFeeds)
+
 ### [any-listen/any-listen](https://github.com/any-listen/any-listen)
 - **Description:** A cross-platform private music playback service
 
@@ -26,7 +40,7 @@
 - **Description:** Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata
 
 ### [hellobertrand/zxc](https://github.com/hellobertrand/zxc)
-- **Description:** High-performance asymmetric lossless compression library optimized for Content Delivery. Decodes 40% faster than LZ4 on ARM64.
+- **Description:** High-performance asymmetric lossless compression. 40%+ faster decompression than LZ4 on ARM64 with better compression ratios. Optimized for Game Assets, Firmware & App Bundles.
 
 ### [weiruankeji2025/weiruan-quark](https://github.com/weiruankeji2025/weiruan-quark)
 
@@ -34,7 +48,7 @@
 - **Description:** ZNS - Simple DoH Server in Go
 
 ### [Hmily-LCG/FlowMouse](https://github.com/Hmily-LCG/FlowMouse)
-- **Description:** 一款追求极致流畅与隐私保护的 Chrome 鼠标手势扩展。通过自然的鼠标滑动，助您无缝操控浏览器，真正进入专注高效的“心流”状态。
+- **Description:** 一款追求极致流畅与隐私保护的开源 Chrome 鼠标手势扩展。通过自然的鼠标滑动，助您无缝操控浏览器，真正进入专注高效的“心流”状态。
 
 ### [senzi/wish-master](https://github.com/senzi/wish-master)
 - **Description:** A cynical wish-granting machine that satisfies your desires while exploiting every logical loophole.
@@ -331,7 +345,7 @@
 - **Description:** 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ### [Mapleawaa/PVE-Tools-9](https://github.com/Mapleawaa/PVE-Tools-9)
-- **Description:** 一个专为PVE9（Debian13）设计的维护、新装、换源的一键脚本。功能包括不限于：功能包括但不限于：更换清华镜像源、移除订阅弹窗、合并 local 与 local-lvm、删除 Swap、系统更新、查看系统信息、硬件直通、CPU 电源模式、温度监控、Ceph 源配置、Ceph 卸载及内核管理 | A one-click script designed for maintenance, installation, and source replacement specifically for PVE9 (Debian13).
+- **Description:** 专为 PVE 9（Debian 13）打造的一键运维脚本：换源/订阅弹窗/直通/显卡/存储/虚拟机工具/邮件通知
 
 ### [liminbai/Awesome-GameEmulator](https://github.com/liminbai/Awesome-GameEmulator)
 - **Description:** Game emulator information
@@ -715,7 +729,7 @@
 - **Description:** A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ### [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
-- **Description:** Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
+- **Description:** Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report
 
 ### [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)
 - **Description:** The free and privacy-friendly screen recorder with no limits 🎥
@@ -756,7 +770,7 @@
 - **Description:** An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 ### [moeru-ai/airi](https://github.com/moeru-ai/airi)
-- **Description:** 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+- **Description:** 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 
 ### [HacksawBlade/Tieba-Remix](https://github.com/HacksawBlade/Tieba-Remix)
 - **Description:** 贴吧网页端重塑
@@ -783,7 +797,7 @@
 - **Description:** 专业的迅雷专用链转换工具，可将thunder://开头的加密链接转换为可直接使用的HTTP/HTTPS下载地址。支持Windows/macOS双平台（lite版本支持全平台），提供优雅的现代化界面和高效稳定的转换服务。
 
 ### [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
-- **Description:** 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
+- **Description:** 🎮 An open-source game speed modifier.
 
 ### [pkmn/engine](https://github.com/pkmn/engine)
 - **Description:** A minimal, complete, Pokémon battle simulation engine optimized for performance
@@ -931,13 +945,11 @@
 ### [nilaoda/BBDown](https://github.com/nilaoda/BBDown)
 - **Description:** Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
 
-### [gotson/komga](https://github.com/gotson/komga)
-- **Description:** Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
-
 ### [szabodanika/microbin](https://github.com/szabodanika/microbin)
 - **Description:** A secure, configurable file-sharing and URL shortening web app written in Rust.
 
 ### [systemd/particleos](https://github.com/systemd/particleos)
+- **Description:** ⸭ An image-based, secure OS, built on top of various Linux distributions
 
 ### [readest/readest](https://github.com/readest/readest)
 - **Description:** Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
@@ -1011,7 +1023,7 @@
 ### [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
 - **Description:** 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 
-### [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
+### [LifeArchiveProject/BilibiliHistoryFetcher](https://github.com/LifeArchiveProject/BilibiliHistoryFetcher)
 - **Description:** 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，找回14天内b站在屏幕上显示过的图片，生成详细的年度总结，自动化任务，下面链接是对应前端
 
 ### [leaningtech/browsercraft](https://github.com/leaningtech/browsercraft)
@@ -1050,7 +1062,7 @@
 ### [stuzero/pg-mcp-server](https://github.com/stuzero/pg-mcp-server)
 
 ### [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud)
-- **Description:** ☁️ OxiCloud server, efficient and secure way to save all your data
+- **Description:** ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 
 ### [StarFleetCPTN/GoMFT](https://github.com/StarFleetCPTN/GoMFT)
 - **Description:** Go Managed File Transfer
@@ -1113,7 +1125,7 @@
 - **Description:** No Fraud / Node Forward Bot
 
 ### [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
-- **Description:** Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
+- **Description:** Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 
 ### [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
 - **Description:** Access your entire server infrastructure from your local desktop
@@ -1226,7 +1238,7 @@
 - **Description:** Programming language that targets the Nintendo Entertainment System
 
 ### [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
-- **Description:** Integrate the DeepSeek API into popular softwares
+- **Description:** Integrate the DeepSeek API into popular software
 
 ### [Ezer015/pickacg](https://github.com/Ezer015/pickacg)
 - **Description:** Bangumi 多标签搜索 | Provide a better Bangumi search experience
@@ -1268,7 +1280,7 @@
 - **Description:** Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
-- **Description:** Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- **Description:** Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ### [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm)
 - **Description:** Virtual DSM in a Docker container.
@@ -1524,7 +1536,7 @@
 - **Description:** Obsidian 优秀中文插件、主题与资源
 
 ### [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-- **Description:** AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
+- **Description:** AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
 ### [knadh/tg-archive](https://github.com/knadh/tg-archive)
 - **Description:** A tool for exporting Telegram group chats into static websites like mailing list archives.
@@ -1672,9 +1684,6 @@
 
 ### [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 - **Description:** Proxy server to bypass Cloudflare protection
-
-### [ellite/Wallos](https://github.com/ellite/Wallos)
-- **Description:** Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 
 ### [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 - **Description:** Translate the video from one language to another and embed dubbing & subtitles.
@@ -1878,7 +1887,7 @@
 - **Description:** SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
 
 ### [imsyy/SPlayer](https://github.com/imsyy/SPlayer)
-- **Description:** 🎉 支持逐字歌词，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
+- **Description:** 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
 
 ### [ikxin/f5-bench](https://github.com/ikxin/f5-bench)
 - **Description:** Utilize the Fetch API to send frequent requests to the target website, simulating the effect of pressing F5 to refresh, in order to test the server's resource limits. Please refrain from using this for illegal purposes.
@@ -2002,12 +2011,6 @@
 ### [YunYouJun/cook](https://github.com/YunYouJun/cook)
 - **Description:** 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
-### [keiyoushi/extensions](https://github.com/keiyoushi/extensions)
-- **Description:** Extension repository for Mihon and variants
-
-### [mihonapp/mihon](https://github.com/mihonapp/mihon)
-- **Description:** Free and open source manga reader for Android
-
 ### [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)
 - **Description:** Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, like Microsoft's Windows Recall or Rewind.
 
@@ -2028,9 +2031,6 @@
 
 ### [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
 - **Description:** 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-### [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu)
-- **Description:** Manga reader for Android
 
 ### [miurla/morphic](https://github.com/miurla/morphic)
 - **Description:** An AI-powered search engine with a generative UI
@@ -2151,7 +2151,7 @@
 - **Description:** 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool
 
 ### [electerm/electerm](https://github.com/electerm/electerm)
-- **Description:** 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
+- **Description:** 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
 
 ### [SuxueCode/WechatBakTool](https://github.com/SuxueCode/WechatBakTool)
 - **Description:** 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
@@ -2522,9 +2522,6 @@
 
 ### [jaquadro/NBTExplorer](https://github.com/jaquadro/NBTExplorer)
 - **Description:** A graphical NBT editor for all Minecraft NBT data sources
-
-### [janeczku/calibre-web](https://github.com/janeczku/calibre-web)
-- **Description:** :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ### [Reroll24/Arknights_Tool](https://github.com/Reroll24/Arknights_Tool)
 - **Description:** 简单的理智计算小工具
